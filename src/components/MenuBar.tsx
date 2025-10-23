@@ -52,7 +52,7 @@ const MenuBar: React.FC = () => {
                     ))}
                     {/* GitHub icon as the last nav item */}
                     <a
-                        href="https://github.com/SCL-ND"
+                        href="https://github.com/NEXUS-Pitt"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex items-center ml-2 hover:opacity-80"
@@ -94,7 +94,7 @@ const MenuBar: React.FC = () => {
                     ))}
                     {/* GitHub icon in drawer menu */}
                     <a
-                        href="https://github.com/SCL-ND"
+                        href="https://github.com/NEXUS-Pitt"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="block px-4 py-2 hover:bg-gray-100 font-medium text-lg flex items-center"
