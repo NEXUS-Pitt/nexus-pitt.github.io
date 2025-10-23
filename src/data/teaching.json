@@ -1,0 +1,104 @@
+[
+    {
+        "code": "CSE 20221",
+        "name": "Digital Logic",
+        "level": "Sophomore",
+        "semester": "Spring 2017"
+    },
+    {
+        "code": "CSE 40522",
+        "name": "Capstone Design",
+        "level": "Senior",
+        "semester": "Spring 2017"
+    },
+    {
+        "code": "CSE 20221",
+        "name": "Digital Logic",
+        "level": "Sophomore",
+        "semester": "Spring 2016"
+    },
+    {
+        "code": "CSE 40522",
+        "name": "Capstone Design",
+        "level": "Senior",
+        "semester": "Spring 2016"
+    },
+    {
+        "code": "CpE 6220",
+        "name": "Design Automation of VLSI System",
+        "level": "Graduate",
+        "semester": "Winter 2015"
+    },
+    {
+        "code": "CpE 5220",
+        "name": "Digital System Modeling",
+        "level": "Senior/Graduate",
+        "semester": "Winter 2015"
+    },
+    {
+        "code": "CpE 6210",
+        "name": "Digital Logic",
+        "level": "Graduate",
+        "semester": "Fall 2014"
+    },
+    {
+        "code": "CpE 5210",
+        "name": "Introduction to VLSI Design",
+        "level": "Senior/Graduate",
+        "semester": "Fall 2014"
+    },
+    {
+        "code": "CpE 318",
+        "name": "Digital System Modeling",
+        "level": "Senior/Graduate",
+        "semester": "Winter 2014"
+    },
+    {
+        "code": "CpE 111",
+        "name": "Introduction to Computer Engineering",
+        "level": "Sophomore",
+        "semester": "Fall 2013"
+    },
+    {
+        "code": "CpE 311",
+        "name": "Introduction to VLSI Design",
+        "level": "Senior/Graduate",
+        "semester": "Fall 2013"
+    },
+    {
+        "code": "CpE 409",
+        "name": "Design Automation of VLSI Systems",
+        "level": "Graduate",
+        "semester": "Winter 2013"
+    },
+    {
+        "code": "CpE 311",
+        "name": "Introduction to VLSI Design",
+        "level": "Senior/Graduate",
+        "semester": "Fall 2012"
+    },
+    {
+        "code": "CpE 318",
+        "name": "Digital System Modeling",
+        "level": "Senior/Graduate",
+        "semester": "Winter 2012"
+    },
+    {
+        "code": "CpE 111",
+        "name": "Introduction to Computer Engineering",
+        "level": "Sophomore",
+        "semester": "Fall 2011"
+    },
+    {
+        "code": "CpE 318",
+        "name": "Digital System Modeling",
+        "level": "Senior/Graduate",
+        "semester": "Winter 2011"
+    },
+    {
+        "code": "CpE 311",
+        "name": "Introduction to VLSI Design",
+        "level": "Senior/Graudate",
+        "semester": "Fall 2010"
+    }
+]

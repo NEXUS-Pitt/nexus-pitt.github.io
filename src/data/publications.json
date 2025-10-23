@@ -1,0 +1,2548 @@
+{
+    "book_chapter": [
+        {
+            "authors": "Yawen Wu, Yue Tang, Dewen Zeng, Xinyi Zhang, Peipei Zhou, Yiyu Shi, Jingtong Hu",
+            "title": "Efficient Hardware and Software Design for On-device Learning",
+            "book_title": "Embedded Machine Learning for Cyber-Physical, IoT, and Edge Computing",
+            "editors": "Sudeep Pasricha, Muhammad Shafique",
+            "publisher": "Springer",
+            "year": 2023
+        },
+        {
+            "authors": "Zheyu Yan, Qing Lu, Weiwen Jiang, Lei Yang, X. Sharon Hu, Jingtong Hu, Yiyu Shi",
+            "title": "Hardware–Software Co-design of Deep Neural Architectures: From FPGAs and ASICs to Computing-in-Memories",
+            "book_title": "Embedded Machine Learning for Cyber-Physical, IoT, and Edge Computing",
+            "editors": "Sudeep Pasricha, Muhammad Shafique",
+            "publisher": "Springer",
+            "year": 2023
+        },
+        {
+            "authors": "Zheyu Yan, X. Sharon Hu, Yiyu Shi",
+            "title": "On the Reliability of Computing-in-Memory Accelerators for Deep Neural Networks",
+            "book_title": "System Dependability and Analytics: Approaching System Dependability from Data, System and Analytics Perspectives",
+            "editors": "Long Wang, Karthik Pattabiraman, Catello Di Martino, Arjun Athreya, Saurabh Bagchi",
+            "publisher": "Springer",
+            "year": 2023
+        },
+        {
+            "authors": "Jie Wu, Jinjun Xiong, Yiyu Shi",
+            "title": "On Improving the Reliability of Smart grids for Multiple Power Line Outages and Anomaly Detection",
+            "book_title": "System Dependability and Analytics: Approaching System Dependability from Data, System and Analytics Perspectives",
+            "editors": "Long Wang, Karthik Pattabiraman, Catello Di Martino, Arjun Athreya, Saurabh Bagchi",
+            "publisher": "Springer",
+            "year": 2023
+        },
+        {
+            "authors": "Umamaheswara Rao Tida, Cheng Zhuo, Yiyu Shi",
+            "title": "Green On-chip Inductors for Three-Dimensional Integrated Circuits: Concepts, Algorithms and Applications",
+            "book_title": "CMOS and Post-CMOS Perspectives of Electronic Device Scaling",
+            "editors": "Saraju Mohanty, Ashok Srivastava",
+            "publisher": "IET Publishing",
+            "year": 2015
+        },
+        {
+            "authors": "Yuguang Chen, Shi-Chieh Chang, Yiyu Shi",
+            "title": "Live Free or Die Hard: Design for Reliability in Three-Dimensional Integrated Circuits",
+            "book_title": "Physical Design for 3D Integrated Circuits",
+            "editors": "Aida Todri-Sanial, Chuan Seng Tan",
+            "publisher": "CRC Publishing",
+            "year": 2015
+        },
+        {
+            "authors": "Sungkyu Lim, Yiyu Shi",
+            "title": "Design Challenges and Solutions for Monolithic 3D ICs",
+            "book_title": "Physical Design for 3D Integrated Circuits",
+            "editors": "Aida Todri-Sanial, Chuan Seng Tan",
+            "publisher": "CRC Publishing",
+            "year": 2015
+        },
+        {
+            "authors": "Yiyu Shi, Yang Shang, Hao Yu",
+            "title": "IC-Package-System Integration Design",
+            "book_title": "Advanced Flip Chip Packaging",
+            "editors": "Ho-Ming Tong, Yi-Shao Lai, C. P. Wong",
+            "publisher": "Springer Publishing",
+            "year": 2013
+        },
+        {
+            "authors": "Yiyu Shi, Jinjun Xiong, Lei He",
+            "title": "Stochastic Optimization Over Correlated Data Set: A Case Study on VLSI Decoupling Capacitance Budgeting",
+            "book_title": "Stochastic Optimization - Seeing the Optimal for the Uncertain",
+            "editors": "",
+            "publisher": "Intech Publishing",
+            "year": 2011
+        },
+        {
+            "authors": "Yiyu Shi, Hao Yu, Lei He",
+            "title": "Noise Driven In Package Decoupling Capacitor Optimization for Power Integrity",
+            "book_title": "Recent Advancements in Modeling of Semiconductor Processes, Circuits and Chip-Level Interactions",
+            "editors": "Rasit Onur Topaloglu, Peng Li",
+            "publisher": "Bentham Publishing",
+            "year": 2010
+        }
+    ],
+    "journal": [
+        {
+            "authors": "Zixuan Pan, Justin Sonneck, Dennis Nagel, Anja Hasenberg, Matthias Gunzer, Yiyu Shi, Jianxu Chen",
+            "title": "AutoQC: Diffusion Model for Automatic Quality Control in High-throughput Microscopy",
+            "venue": "Npj Imaging",
+            "year": 2025
+        },
+        {
+            "authors": "Jiawei Zhang, Jialin Wang, Qi Wang, Yanchun Zhang, Weihong Han, Yangyang Mei, Yiyu Shi, Jian Zhuang, Meiping Huang, Xiaowei Xu",
+            "title": "Quantization-based Deep Diversified Ensemble for Medical Image Segmentation",
+            "venue": "Engineering Applications of Artificial Intelligence",
+            "year": 2025
+        },
+        {
+            "authors": "Yifan Qin, Zheyu Yan, Dailin Gan, Jun Xia, Zixuan Pan, Wujie Wen, Xiaobo Sharon Hu, Yiyu Shi",
+            "title": "NeFT: Negative Feedback Training to Improve Robustness of Compute-In-Memory DNN Accelerators",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2025
+        },
+        {
+            "authors": "Ruiyang Qin, Dancheng Liu, Chenhui Xu, Zheyu Yan, Zhaoxuan Tan, Zhenge Jia, Amir Nassereldine, Jiajie Li, Meng Jiang, Ahmed Abbasi, Jinjun Xiong, Yiyu Shi",
+            "title": "Empirical Guidelines for Deploying LLMs onto Resource-constrained Edge Devices",
+            "venue": "ACM Transactions on Design Automation of Electronic Systems",
+            "year": 2025
+        },
+        {
+            "authors": "Dawei Li, Tienan Chen, Cong Liu, Liqi Liao, Shaoping Chen, Yongqiang Cui, Li Zhang, Yiyu Shi, Xiaowei Xu",
+            "title": "Semi-Supervised GAN for Enhancing Electrocardiogram Time Series Diagnostics",
+            "venue": "Biomedical Signal Processing and Control",
+            "year": 2025
+        },
+        {
+            "authors": "Shanshan Song, Wen Xie, Hailong Qiu, Meiping Huang, Jian Zhuang, Qing Lu, Yiyu Shi, Xiaomeng Li, Guang Tong, Xiaowei Xu",
+            "title": "Domain Knowledge based Comprehensive Segmentation of Type-A Aortic Dissection with Clinically-oriented Evaluation",
+            "venue": "Medical Image Analysis",
+            "year": 2025
+        },
+        {
+            "authors": "Yu-Jen Chen, Shr-Shiun Lin, Yiyu Shi, Tsung-Yi Ho, Xiaowei Xu",
+            "title": "MCC: Multi-Cluster Contrastive Semi-Supervised Segmentation Framework for Echocardiogram Videos",
+            "venue": "IEEE Access",
+            "year": 2025,
+            "notes": "vol. 13, pp. 30543-30554"
+        },
+        {
+            "authors": "Zhiding Liang, Zichang He, Yue Sun, Dylan Herman, Xiaowei Xu, Weiwen Jiang, Di Wu, Marco Pistoia, Yiyu Shi",
+            "title": "Synergizing Quantum Techniques with Machine Learning for Advancing Drug Discovery Challenge",
+            "venue": "Scientific Reports",
+            "year": 2024,
+            "notes": "14, 31216"
+        },
+        {
+            "authors": "Han Xiao, Jianping Wang, Zongpeng Weng, Xiaoxuan Lin, Man Shu, Jingxian Shen, Peng Sun, Muyan Cai, Xiao Xiang, Bin Li, Lihong Wei, Yiyu Shi, Jiaming Lai, Ming Kuang, Jingping Yun, Shuling Chen, Sui Pen",
+            "title": "A Histopathology-based Artificial Intelligence System Assisting the Screening of Genetic Alteration in Intrahepatic Cholangiocarcinoma",
+            "venue": "British Journal of Cancer",
+            "year": 2024,
+            "notes": "vol. 132, no. 2, pp. 345–354"
+        },
+        {
+            "authors": "Jiawei Zhang, Yanchun Zhang, Hailong Qiu, Tianchen Wang, Xiaomeng Li, Shanfeng Zhu, Meiping Huang, Jian Zhuang, Yiyu Shi, Xiaowei Xu",
+            "title": "Constrained Multi-scale Dense Connections for Biomedical Image Segmentation",
+            "venue": "Pattern Recognition",
+            "year": 2024,
+            "notes": "vol. 158, no. C"
+        },
+        {
+            "authors": "Yuanbo Guo, Zheyu Yan, Xiaoting Yu, Qingpeng Kong, Joy Xie, Kevin Luo, Dewen Zeng, Yawen Wu, Zhenge Jia, Yiyu Shi",
+            "title": "Hardware design and the fairness of a neural network",
+            "venue": "Nature Electronics",
+            "year": 2024,
+            "notes": "vol 7, no. 8, pp. 714–723"
+        },
+        {
+            "authors": "Jinming Zhuang, Jason Lau, Hanchen Ye, Zhuoping Yang, Shixin Ji, Jack Lo, Kristof Denolf, Stephen Neuendorffer, Alex Jones, Jingtong Hu, Yiyu Shi, Deming Chen, Jason Cong, Peipei Zhou",
+            "title": "CHARM: Composing Heterogeneous Accelerators for Matrix Multiply in Deep Learning on Versal ACAP Architecture",
+            "venue": "ACM Transactions on Reconfigurable Technology and Systems",
+            "year": 2024,
+            "notes": "vol. 17, no. 3, pp. 1–24"
+        },
+        {
+            "authors": "Ching-Hao Chiu, Yu-Jen Chen, Yawen Wu, Yiyu Shi, Tsung-Yi Ho",
+            "title": "Achieve Fairness without Demographics for Dermatological Disease Diagnosis",
+            "venue": "Medical Image Analysis",
+            "year": 2024,
+            "notes": "vol. 85, 102789"
+        },
+        {
+            "authors": "Xunzhao Yin, Franz Muller, Ann Franchesca Laguna, Chao Li, Qingrong Huang, Zhiguo Shi, Maximilian Lederer, Nellie Laleni, Shan Deng, Zijian Zhao, Mohsen Imani, Yiyu Shi, Michael Niemier, Xiaobo Sharon Hu, Cheng Zhuo, Thomas Kampfe, Kai Ni",
+            "title": "Deep Random Forest with Ferroelectric Analog Content Addressable Memory",
+            "venue": "Science Advances",
+            "year": 2024,
+            "notes": "vol. 10, no. 23"
+        },
+        {
+            "authors": "Zhenge Jia, Tianren Zhou, Zheyu Yan, Jingtong Hu, Yiyu Shi",
+            "title": "Personalized Meta-Federated Learning for IoT-Enabled Health Monitoring",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2024,
+            "notes": "vol. 43, no. 3, pp. 512–525"
+        },
+        {
+            "authors": "Zheyu Yan, X. Sharon Hu, Yiyu Shi",
+            "title": "Compute-in-Memory based Neural Network Accelerators for Safety-Critical Systems: Worst-Case Scenarios and Protections",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2024,
+            "notes": "vol. 43, no. 8, pp. 2452–2464"
+        },
+        {
+            "authors": "Xunzhao Yin, Yu Qian, Alptekin Vardar, Marcel Gunther, Franz Muller, Nellie Laleni, Zijian Zhao, Zhouhang Jiang, Zhiguo Shi, Yiyu Shi, Xiao Gong, Cheng Zhuo, Thomas Kampfe",
+            "title": "First Demonstration of Ferroelectric Compute-in-Memory Annealer for Combinatorial Optimization Problems",
+            "venue": "Nature Communications",
+            "year": 2024,
+            "notes": "vol. 15, 2419"
+        },
+        {
+            "authors": "Han Xiao, Zongpeng Weng, Kaiyu Sun, Jingxian Shen, Jie Lin, Shuling Chen, Bin Li, Yiyu Shi, Ming Kuang, Xinming Song, Weixiang Weng, Sui Peng",
+            "title": "Predicting 5-year Recurrence Risk in Colorectal Cancer: Development and Validation of a Histology-based Deep Learning Approach",
+            "venue": "British Journal of Cancer",
+            "year": 2024,
+            "notes": "vol. 130, no. 6, pp. 951–960"
+        },
+        {
+            "authors": "Zhiding Liang, Jinglei Cheng, Hang Ren, Hanrui Wang, Fei Hua, Zhixin Song, Yongshan Ding, Fred Chong, Song Han, Xuehai Qian, Yiyu Shi",
+            "title": "NAPA: Intermediate-level Variational Native-pulse Ansatz for Variational Quantum Algorithms",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2024,
+            "notes": "vol. 43, no. 6, pp. 1834–1847"
+        },
+        {
+            "authors": "Noelia Ferruz, Marinka Zitnik, Pierre-Yves Oudeyer, Emmie Hine, Nandana Sengupta, Yiyu Shi, Diana Mincu, Sebastian Porsdam Mann, Payel Das, Francesco Stella",
+            "title": "Anniversary AI reflections",
+            "venue": "Nature Machine Intelligence",
+            "year": 2024,
+            "notes": "vol. 6, pp. 6–12"
+        },
+        {
+            "authors": "Zheyu Yan, X. Sharon Hu, Yiyu Shi",
+            "title": "U-SWIM: Universal Selective Write-Verify for Computing-in-Memory Neural Accelerators",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2024,
+            "notes": "vol. 43, no. 6, pp. 1822–1833"
+        },
+        {
+            "authors": "Zhenge Jia, Dawei Li, Cong Liu, Liqi Liao, Xiaowei Xu, Lichuan Ping, Yiyu Shi",
+            "title": "TinyML Design Contest for Life-Threatening Ventricular Arrhythmia Detection",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2024,
+            "notes": "vol. 43, no. 1, pp. 127–140"
+        },
+        {
+            "authors": "Xiaowei Xu, Qianjun Jia, Haiyun Yuan, Hailong Qiu, Yuhao Dong, Wen Xie, Zeyang Yao, Jiawei Zhang, Zhiqiang Nie, Xiaomeng Li, Yiyu Shi, James Y. Zou, Meiping Huang, Jian Zhuang",
+            "title": "A Clinically Applicable AI System for Diagnosis of Congenital Heart Diseases based on Computed Tomography Images",
+            "venue": "Medical Image Analysis",
+            "year": 2023,
+            "notes": "vol. 90, 102953"
+        },
+        {
+            "authors": "Shanshan Bi, Dan Pan, Najeeb Ullah, Kaleem Nawaz Khan, Tianchen Wang, Yiyu Shi, Xiaomeng Li, Guisen Lin, Xiaowei Xu",
+            "title": "ImageCAS: A Large-Scale Dataset and Benchmark for Coronary Artery Segmentation based on Computed Tomography Angiography Images",
+            "venue": "Computerized Medical Imaging and Graphics",
+            "year": 2023,
+            "notes": "vol. 109, 102287"
+        },
+        {
+            "authors": "Jiahe Shi, Yawen Wu, Dewen Zeng, Jun Tao, Jingtong Hu, Yiyu Shi",
+            "title": "Self-supervised On-device Federated Learning from Unlabeled Streams",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2023,
+            "notes": "vol. 42, no. 12, pp. 4871–4882"
+        },
+        {
+            "authors": "Zhenge Jia, Jianxu Chen, Xiaowei Xu, John Kheir, Jingtong Hu, Han Xiao, Sui Peng, Sharon Hu, Danny Chen, Yiyu Shi",
+            "title": "The Importance of Resource Awareness in Artificial Intelligence for Healthcare",
+            "venue": "Nature Machine Intelligence",
+            "year": 2023,
+            "notes": "vol. 5, pp. 687–698"
+        },
+        {
+            "authors": "Zeyang Yao, Xiaowei Xu, Wen Xie, Hailong Qiu, Haiyun Yuan, Yiyu Shi, Meiping Huang, Jian Zhuang",
+            "title": "Graph Matching and Deep Neural Networks based Whole Heart and Great Vessel Segmentation in Congenital Heart Disease",
+            "venue": "Scientific Reports",
+            "year": 2023,
+            "notes": "vol. 13, 7558"
+        },
+        {
+            "authors": "Zhenge Jia, Dawei Li, Xiaowei Xu, Na Li, Feng Hong, Lichuan Ping, Yiyu Shi",
+            "title": "Life-Threatening Ventricular Arrhythmia Detection Challenge in Implantable Cardioverter Defibrillators",
+            "venue": "Nature Machine Intelligence",
+            "year": 2023,
+            "notes": "vol. 5, pp. 554–555"
+        },
+        {
+            "authors": "Shunjie Dong, Zixuan Pan, Yu Fu, Dongwei Xu, Kuangyu Shi, Qianqian Yang, Yiyu Shi, Cheng Zhuo",
+            "title": "Partial Unbalanced Feature Transport for Unsupervised Cross-Modality Cardiac Image Segmentation",
+            "venue": "IEEE Transactions on Medical Imaging",
+            "year": 2023,
+            "notes": "vol. 42, no. 6, pp. 1758–1773"
+        },
+        {
+            "authors": "Mingqi Li, Dewen Zeng, Yanxiang Zhou, Jinling Chen, Sheng Cao, Hongning Song, Bo Hu, Wenyue Yuan, Jing Chen, Yuanting Yang, Hao Wang, Hongwen Fei, Yiyu Shi, Qing Zhou",
+            "title": "A Novel Risk Stratification Model for STEMI after Primary PCI: Global Longitudinal Strain and Deep Neural Network Assisted Myocardial Contrast Echocardiography Quantitative Analysis",
+            "venue": "Frontiers in Cardiovascular Medicine",
+            "year": 2023,
+            "notes": "vol. 10"
+        },
+        {
+            "authors": "Xunzhao Yin, Franz Müller, Qingrong Huang, Chao Li, Mohsen Imani, Zeyu Yang, Jiahao Cai, Maximilian Lederer, Ricardo Olivo, Nellie Laleni, Shan Deng, Zijian Zhao, Zhiguo Shi, Yiyu Shi, Cheng Zhuo, Thomas Kämpfe, Kai Ni",
+            "title": "An Ultracompact Single-Ferroelectric Field-Effect Transistor Binary and Multibit Associative Search Engine",
+            "venue": "Advanced Intelligent Systems",
+            "year": 2023,
+            "notes": "vol. 5, no. 7"
+        },
+        {
+            "authors": "Yu Fu, Shunjie Dong, Meng Niu, Le Xue, Hanning Guo, Yanyan Huang, Yuanfan Xu, Kuangyu Shi, Qianqian Yang, Yiyu Shi, Mei Tian, Cheng Zhuo",
+            "title": "AIGAN: Attention-encoding Integrated Generative Adversarial Network for the Reconstruction of Low-dose CT and Low-dose PET Images",
+            "venue": "Medical Image Analysis",
+            "year": 2023,
+            "notes": "vol. 86"
+        },
+        {
+            "authors": "Zhenge Jia, Xiaowei Xu, Jingtong Hu, Yiyu Shi",
+            "title": "Low-power Object-detection Challenge on Unmanned Aerial Vehicles",
+            "venue": "Nature Machine Intelligence",
+            "year": 2022,
+            "notes": "vol. 4, pp. 1265–1266"
+        },
+        {
+            "authors": "Zhenge Jia, Yiyu Shi, Jingtong Hu",
+            "title": "Personalized Neural Network for Patient-Specific Health Monitoring in IoT: A Meta-Learning Approach",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2022,
+            "notes": "vol. 41, no. 12, pp. 5394–5407"
+        },
+        {
+            "authors": "Yawen Wu, Dewen Zeng, Zhepeng Wang, Yiyu Shi, Jingtong Hu",
+            "title": "Distributed Contrastive Learning for Medical Image Segmentation",
+            "venue": "Medical Image Analysis",
+            "year": 2022,
+            "notes": "vol. 81"
+        },
+        {
+            "authors": "Tianchen Wang, Jiawei Zhang, Jinjun Xiong, Song Bian, Zheyu Yan, Meiping Huang, Jian Zhuang, Takashi Sato, Xiaowei Xu, Yiyu Shi",
+            "title": "VisualNet: An End-to-End Human Visual System Inspired Framework to Reduce Inference Latency of Deep Neural Networks",
+            "venue": "IEEE Transactions on Computers",
+            "year": 2022,
+            "notes": "vol. 71, no. 11, pp. 2717–2727"
+        },
+        {
+            "authors": "Boyang Li, Qing Lu, Weiwen Jiang, Taeho Jung, Yiyu Shi",
+            "title": "A Collaboration Strategy in the Mining Pool for Proof-of-Neural-Architecture Consensus",
+            "venue": "Blockchain: Research and Applications",
+            "year": 2022,
+            "notes": "vol. 3, no. 4"
+        },
+        {
+            "authors": "Shunjie Dong, Zixuan Pan, Yu Fu, Qianqian Yang, Yuanxue Gao, Tianbai Yua, Yiyu Shi, Cheng Zhuo",
+            "title": "DeU-Net 2.0: Enhanced Deformable U-Net for 3D Cardiac Cine MRI Segmentation",
+            "venue": "Medical Image Analysis",
+            "year": 2022,
+            "notes": "vol. 78"
+        },
+        {
+            "authors": "Yutian Chen, Jiawei Zhang, Dewen Zeng, Yiyu Shi, Yuan Haiyun, Jian Zhuang, Yuhao Dong, Qianjun Jia, Yanchun Zhang, Meiping Huang, Xiaowei Xu",
+            "title": "Myocardial Segmentation of Cardiac MRI Sequences with Temporal Consistency for Coronary Artery Disease Diagnosis",
+            "venue": "Frontiers in Cardiovascular Medicine",
+            "year": 2022
+        },
+        {
+            "authors": "Chenyi Wen, Xiao Dong, Baixin Chen, Umamaheswara Tida Rao, Yiyu Shi, Cheng Zhuo",
+            "title": "Magnetic Core TSV-Inductor Design and Optimization for On-Chip DC-DC Converter",
+            "venue": "ACM Transactions on Design Automation of Electronic Systems",
+            "year": 2022,
+            "notes": "vol. 27, no. 5, pp. 1–23"
+        },
+        {
+            "authors": "Zhenge Jia, Yiyu Shi, Samir Saba, Jingtong Hu",
+            "title": "On-device Prior Knowledge Incorporated Learning for Personalized Atrial Fibrillation Detection",
+            "venue": "ACM Transactions on Embedded Computing Systems",
+            "year": 2021,
+            "notes": "vol. 20, no. 56"
+        },
+        {
+            "authors": "Jiawei Zhang, Yanchun Zhang, Hailong Qiu, Wen Xie, Zeyang Yao, Yuan Haiyun, Qianjun Jia, Tianchen Wang, Yiyu Shi, Meiping Huang, Jian Zhuang, Xiaowei Xu",
+            "title": "Pyramid-Net: Intra-layer Pyramid-scale Feature Aggregation for Retinal Vessel Segmentation",
+            "venue": "Frontiers in Medicine",
+            "year": 2021
+        },
+        {
+            "authors": "Zeyang Yao, Hailong Qiu, Yuan Haiyun, Jian Zhuang, Jiawei Zhang, Qianjun Jia, Yuhao Dong, Tianchen Wang, Yiyu Shi, Meiping Huang, Xiaowei Xu",
+            "title": "ImageTBAD: A 3D Computed Tomography Angiography Image Dataset for Automatic Segmentation of Type-B Aortic Dissection",
+            "venue": "Frontiers in Physiology",
+            "year": 2021,
+            "notes": "vol. 12"
+        },
+        {
+            "authors": "Xiaowei Xu, Jinglan Liu, Yukun Ding, Yiyu Shi, Qianjun Jia, Haiyun Yuan, Meiping Huang, Jian Zhuang",
+            "title": "Multi-Cycle-Consistent Adversarial Networks for Edge Denoising of Computed Tomography Images",
+            "venue": "ACM Journal on Emerging Technologies of Computing Systems",
+            "year": 2021,
+            "notes": "vol. 17, no. 4, pp. 1–16"
+        },
+        {
+            "authors": "Zeyang Yao, Xiaobing Liu, Xinrong Hu, Wen Xie, Yuhao Dong, Hailong Qiu, Zewen Chen, Xiaowei Xu, Yiyu Shi, Meiping Huang, Jian Zhuang",
+            "title": "A machine learning-based pulmonary venous obstruction prediction model using clinical data and CT image",
+            "venue": "International Journal of Computer Assisted Radiology and Surgery",
+            "year": 2021,
+            "notes": "vol. 16, pp. 609–617"
+        },
+        {
+            "authors": "Wentao Chen, Chutong Zhang, Yu Hu, Qing Lu, Yiyu Shi, Xiaowei Xu",
+            "title": "Quantization of Deep Neural Networks for Accurate Edge Computing",
+            "venue": "ACM Journal on Emerging Technologies of Computing Systems",
+            "year": 2021,
+            "notes": "pp. 1–11"
+        },
+        {
+            "authors": "Xiaowei Xu, Haiyun Yuan, Yiyu Shi, Qianjun Jia, Zeyang Yao, Wen Xie, Humming Guo, Meiping Huang, Jian Zhuang, Hailong Qiu",
+            "title": "AI-CHD: An AI-based Framework for Cost-Effective Surgical Telementoring of Congenital Heart Disease",
+            "venue": "Communications of the ACM",
+            "year": 2021,
+            "notes": "vol. 64, no. 12, pp. 66–74"
+        },
+        {
+            "authors": "Mingqi Li, Dewen Zeng, Xiaowei Xu, Qiu Xie, Ruixue Xu, Yu Wang, Yiyu Shi, Hongwen Fei",
+            "title": "A Deep Learning Approach with Temporal Consistency for Automatic Myocardial Segmentation of Quantitative Myocardial Contrast Echocardiography",
+            "venue": "The International Journal of Cardiovascular Imaging",
+            "year": 2021,
+            "notes": "vol. 7, no. 6, pp. 1967–1978"
+        },
+        {
+            "authors": "Weiwen Jiang, Qiuwen Lou, Zheyu Yan, Lei Yang, Jingtong Hu, X. Sharon Hu, Yiyu Shi",
+            "title": "Device-Circuit-Architecture Co-Exploration for Computing-in-Memory Neural Accelerators",
+            "venue": "IEEE Transactions on Computers",
+            "year": 2021,
+            "notes": "vol. 70, pp. 595–605"
+        },
+        {
+            "authors": "Weiwen Jiang, Jinjun Xiong, Yiyu Shi",
+            "title": "A Co-Design Framework of Neural Networks and Quantum Circuits Towards Quantum Advantage",
+            "venue": "Nature Communications",
+            "year": 2021,
+            "notes": "vol. 12, 579"
+        },
+        {
+            "authors": "Xiaowei Xu, Xinyi Zhang, Bei Yu, Xiaobo Sharon Hu, Christopher Rowen, Jingtong Hu, Yiyu Shi",
+            "title": "DAC-SDC Low Power Object Detection Challenge for UAV Applications",
+            "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)",
+            "year": 2021,
+            "notes": "vol. 42, no. 2, pp. 392–403"
+        },
+        {
+            "authors": "Weiwen Jiang, Lei Yang, Sakyasingha Dasgupta, Jingtong Hu, Yiyu Shi",
+            "title": "Standing on the Shoulders of Giants: Hardware and Neural Architecture Co-Search with Hot Start",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2020,
+            "notes": "vol. 39, no. 11, pp. 4154–4165"
+        },
+        {
+            "authors": "Yawen Wu, Zhepeng Wang, Yiyu Shi, Jingtong Hu",
+            "title": "Enabling On-Device CNN Training by Self-Supervised Instance Filtering and Error Map Pruning",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2020,
+            "notes": "vol. 39, no. 11, pp. 3445–3457"
+        },
+        {
+            "authors": "Jinglan Liu, Jiaxin Zhang, Yukun Ding, Xiaowei Xu, Meng Jiang, Yiyu Shi",
+            "title": "Binarizing Weights Wisely for Edge Intelligence: Guide for Partial Binarization of Deconvolution-Based Generators",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2020,
+            "notes": "vol. 39, no. 12, pp. 4748–4759"
+        },
+        {
+            "authors": "Yukun Ding, Weiwen Jiang, Qiuwen Lou, Jinglan Liu, Jinjun Xiong, Xiaobo Sharon Hu, Xiaowei Xu, Yiyu Shi",
+            "title": "Hardware design and the competency awareness of a neural network",
+            "venue": "Nature Electronics",
+            "year": 2020,
+            "notes": "vol. 3, pp. 514–523"
+        },
+        {
+            "authors": "Weiwen Jiang, Lei Yang, Edwin Sha, Qingfeng Zhuge, Shouzhen Gu, Sakyasingha Dasgupta, Yiyu Shi, Jingtong Hu",
+            "title": "Hardware/Software Co-Exploration of Neural Architectures",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2020,
+            "notes": "vol. 39, no. 12, pp. 4805–4815"
+        },
+        {
+            "authors": "Umamaheswara Tida, Cheng Zhuo, Leibo Liu, Yiyu Shi",
+            "title": "Dynamic Frequency Scaling Aware Opportunistic Through-Silicon-Via Inductor Utilization in Resonant Clocking",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2020,
+            "notes": "vol. 39, no. 2, pp. 281–293"
+        },
+        {
+            "authors": "Weiwen Jiang, Bike Xie, Chun-Chen Liu, Yiyu Shi",
+            "title": "Integrating Memristors and CMOS for Better AI",
+            "venue": "Nature Electronics",
+            "year": 2019,
+            "notes": "September 2019"
+        },
+        {
+            "authors": "Weiwen Jiang, Edwin Sha, Xinyi Zhang, Lei Yang, Qingfeng Zhuge, Yiyu Shi, Jingtong Hu",
+            "title": "Achieving Super-Linear Speedup across Multi-FPGA for Real-Time DNN Inference",
+            "venue": "ACM Transactions on Embedded Computing Systems",
+            "year": 2019,
+            "notes": "vol. 18, no. 5s, pp. 1–23"
+        },
+        {
+            "authors": "Dawei Li, Xiaowei Xu, Weibo Liu, Li Zhang, Cheng Zhuo, Yiyu Shi",
+            "title": "Optimal Design of a Low-Power, Phase-Switching Modulator for Implantable Medical Applications",
+            "venue": "Integration, the VLSI Journal",
+            "year": 2019,
+            "notes": "vol. 69, pp. 289–300"
+        },
+        {
+            "authors": "Umamaheswara Rao Tida, Rongbo Yang, Cheng Zhuo, Yiyu Shi",
+            "title": "Single-Inductor-Multiple-Tier-Regulation: TSV-Inductor Based On-Chip Buck Converters for 3D-IC Power Delivery",
+            "venue": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
+            "year": 2019,
+            "notes": "vol. 27, no. 10, pp. 2305–2316"
+        },
+        {
+            "authors": "Xiaowei Xu, Yu Hu, Dewen Zeng, Wenyao Xu, Feng Lin, Xinwei Yao, Yiyu Shi",
+            "title": "MDA: A Reconfigurable Memristor-based Distance Accelerator for Time Series Mining on Data Centers",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2019,
+            "notes": "vol. 38, no. 5, pp. 785–797"
+        },
+        {
+            "authors": "Cheng Zhuo, Kassan Unda, Yiyu Shi, Wei-Kai Shih",
+            "title": "From Layout to System: Early Stage Power Delivery and Architecture Co-Exploration",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2019,
+            "notes": "vol. 38, no. 7, pp. 1291–1304"
+        },
+        {
+            "authors": "Grace Li Zhang, Bing Li, Yiyu Shi, Jiang Hu, Ulf Schlichtmann",
+            "title": "EffiTest2: Efficient Delay Test and Prediction for Post-Silicon Clock Skew Configuration under Process Variations",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2019,
+            "notes": "vol. 38, no. 4, pp. 705–718"
+        },
+        {
+            "authors": "Leibo Liu, Qiang Wang, Wenping Zhu, Huiyu Mo, Tianchen Wang, Shouyi Yin, Yiyu Shi, Shaojun Wei",
+            "title": "A Face Alignment Accelerator Based on Optimized Coarse-to-Fine Shape Searching",
+            "venue": "IEEE Transactions on Circuits and Systems for Video Technology",
+            "year": 2019,
+            "notes": "vol. 29, no. 8, pp. 2467–2481"
+        },
+        {
+            "authors": "Tianchen Wang, Sandeep Kumar Samal, Sung Kyu Lim, Yiyu Shi",
+            "title": "Entropy Production-Based Full-Chip Fatigue Analysis: From Theory to Mobile Applications",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2019,
+            "notes": "vol. 38, no. 1, pp. 84–95"
+        },
+        {
+            "authors": "Baixin Chen, Cheng Zhuo, Yiyu Shi",
+            "title": "A physics-aware methodology for equivalent circuit model extraction of TSV-inductors",
+            "venue": "Integration, the VLSI Journal",
+            "year": 2018,
+            "notes": "vol. 63, pp. 160–166"
+        },
+        {
+            "authors": "Xiaowei Xu, Qing Lu, Tianchen Wang, Yu Hu, Chen Zhuo, Jinglan Liu, Yiyu Shi",
+            "title": "Efficient Hardware Implementation of Cellular Neural Networks with Incremental Quantization and Early Exit",
+            "venue": "ACM Journal on Emerging Technologies in Computing Systems",
+            "year": 2018,
+            "notes": "vol. 14, no. 4, Article No. 48"
+        },
+        {
+            "authors": "Zhongyang Liu, Shaoheng Luo, Xiaowei Xu, Yiyu Shi, Cheng Zhuo",
+            "title": "A Multi-Level Optimization Framework for FPGA-Based Cellular Neural Network Implementation",
+            "venue": "ACM Journal on Emerging Technologies in Computing Systems",
+            "year": 2018,
+            "notes": "vol. 14, no. 4, Article No. 47"
+        },
+        {
+            "authors": "Travis E. Schulze, Daryl Beetner, Yiyu Shi, Kevin Kwiat, Charles Kamhoua",
+            "title": "Combating Data Leakage Trojans in Commercial and ASIC Applications with Time Division Multiplexing and Random Encoding",
+            "venue": "IEEE Transactions on Very Large Scale Integration Systems",
+            "year": 2018,
+            "notes": "vol. 26, no. 10, pp. 2007–2015"
+        },
+        {
+            "authors": "Xiaowei Xu, Yukun Ding, Sharon Hu, Michael Niemier, Jason Cong, Yu Hu, Yiyu Shi",
+            "title": "Scaling of Deep Neural Networks for Edge Inference: A Race between Data Scientists and Hardware Architects",
+            "venue": "Nature Electronics",
+            "year": 2018,
+            "notes": "vol. 1, pp. 216–222"
+        },
+        {
+            "authors": "Hsueh-Ling Yu, Yih-Lang Li, Tzu-Yi Liao, Tianchen Wang, Shu-Fei Tsai, Yiyu Shi",
+            "title": "Fast and Accurate Emissivity and Absolute Temperature Maps Measurement for Integrated Circuits",
+            "venue": "IEEE Transactions on Very Large Scale Integration Systems",
+            "year": 2018,
+            "notes": "vol. 26, no. 5, pp. 912–923"
+        },
+        {
+            "authors": "Yanan Lu, Leibo Liu, Yangdong Deng, Jian Weng, Shouyi Yin, Yiyu Shi, Shaojun Wei",
+            "title": "Triggered-Issue and Triggered-Execution: A Control Paradigm to Minimize Pipeline Stalls in Distributed-Controlled Coarse-Grained Reconfigurable Arrays",
+            "venue": "IEEE Transactions on Parallel and Distributed Systems",
+            "year": 2018,
+            "notes": "vol. 29, no. 10, pp. 2360–2372"
+        },
+        {
+            "authors": "Xiaowei Xu, Feng Lin, Aosen Wang, Qing Lu, Wenyao Xu, Yiyu Shi, Yu Hu",
+            "title": "Accelerating Dynamic Time Warping with Memristor-based Customized Fabrics",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2018,
+            "notes": "vol. 37, no. 4, pp. 729–741"
+        },
+        {
+            "authors": "Hui Geng, Charles Kamhoua, Kevin Kwiat, Yiyu Shi",
+            "title": "On Random Dynamic Voltage Scaling for Internet-of-Things: A Game-Theoretic Approach",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2018,
+            "notes": "vol. 37, no. 1, pp. 123–132"
+        },
+        {
+            "authors": "Li Zhang, Bing Li, Jinglan Liu, Yiyu Shi, Ulf Schlichtmann",
+            "title": "Design-Phase Buffer Allocation for Post-Silicon Clock Binning by Iterative Learning",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2018,
+            "notes": "vol. 37, no. 2, pp. 392–405"
+        },
+        {
+            "authors": "Yilei Li, Kirti Dhwaj, Chun-Chen Liu, Chien-Heng Wong, Yuan Du, Li Du, Yiwu Tang, Yiyu Shi, Tatsuo Itoh, Mau-Chung Frank Chang",
+            "title": "A Novel Fully Synthesizable All-Digital RF Transmitter for IoT Applications",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2018,
+            "notes": "vol. 37, no. 1, pp. 146–158"
+        },
+        {
+            "authors": "Khalid Al-Jabery, Zhezhao Xu, Wenjian Yu, Donald C. Wunsch, Jinjun Xiong, Yiyu Shi",
+            "title": "Demand-Side Management of Domestic Electric Water Heaters Using Approximate Dynamic Programming",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2018,
+            "notes": "vol. 36, no. 5, pp. 775–788"
+        },
+        {
+            "authors": "Po-Yi Wu, Wai-Kei Mak, Ting-Chi Wang, Cheng Zhuo, Kassan Unda, Yiyu Shi",
+            "title": "A routing framework for technology migration with bump encroachment",
+            "venue": "Integration, the VLSI Journal",
+            "year": 2017,
+            "notes": "vol. 58, pp. 1–8"
+        },
+        {
+            "authors": "Hui Geng, Jianming Liu, Jinglan Liu, Pei-Wen Luo, Liang-Chia Cheng, Steven L. Grant, Yiyu Shi",
+            "title": "Selective body biasing for post-silicon tuning of sub-threshold designs: A semi-infinite programming approach with Incremental Hypercubic Sampling",
+            "venue": "Integration, the VLSI Journal",
+            "year": 2016,
+            "notes": "vol. 55, pp. 465–473"
+        },
+        {
+            "authors": "Yu-Wei Wu, Yiyu Shi, Sudip Roy, Tsung-Yi Ho",
+            "title": "Obstacle-Avoiding Wind Turbine Placement for Power Loss and Wake Effect Optimization",
+            "venue": "ACM Transactions on Design Automation of Electronic Systems",
+            "year": 2016,
+            "notes": "vol. 22, no. 1"
+        },
+        {
+            "authors": "Chang Xu, Guojie Luo, Peixin Li, Yiyu Shi, Iris Hui-Ru Jiang",
+            "title": "Analytical Clustering Score with Application to Post-Placement Register Clustering",
+            "venue": "ACM Transactions on Design Automation of Electronic Systems",
+            "year": 2016,
+            "notes": "vol. 21, no. 3"
+        },
+        {
+            "authors": "Tao Wang, Chun Zhang, Jinjun Xiong, Peiwen W. Luo, Liang-Chia Cheng, Yiyu Shi",
+            "title": "On the Optimal Threshold Voltage Computation of On-Chip Noise Sensors",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2016,
+            "notes": "vol. 35, no. 10, pp. 1744–1754"
+        },
+        {
+            "authors": "Chao Zhang, Wenjian Yu, Qing Wang, Yiyu Shi",
+            "title": "Fast Random Walk Based Capacitance Extraction for the 3D IC Structures with Cylindrical Inter-Tier-Vias",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2015,
+            "notes": "vol. 34, no. 12, pp. 1977–1990"
+        },
+        {
+            "authors": "Yu-Guang Chen, Kuan-Yu Lai, Wan-Yu Wen, Yiyu Shi, Wing-Kai Hon, Shih-Chieh Chang",
+            "title": "Novel Spare TSV Deployment for 3D ICs Considering Yield and Timing Constraints",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2015,
+            "notes": "vol. 34, no. 4, pp. 577–588"
+        },
+        {
+            "authors": "Hui Geng, Jianming Liu, Pei-Wen Luo, Liang-Chia Cheng, Steven L. Grant, Yiyu Shi",
+            "title": "Selective Body Biasing for Post-Silicon Tuning of Sub-Threshold Designs: an Adaptive Filtering Approach",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2015,
+            "notes": "vol. 34, no. 5, pp. 713–725"
+        },
+        {
+            "authors": "Jie Wu, Jinjun Xiong, Yiyu Shi",
+            "title": "Efficient Location Identification of Multiple Line Outages With Limited PMUs in Smart Grids",
+            "venue": "IEEE Transactions on Power Systems",
+            "year": 2015,
+            "notes": "vol. 30, no. 4, pp. 1659–1668"
+        },
+        {
+            "authors": "Yu Wang, Song Yao, Shuai Tao, Xiaoming Chen, Yuchun Ma, Yiyu Shi, Huazhong Yang",
+            "title": "HS3DPG: Hierarchical Simulation for 3D P/G Network",
+            "venue": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
+            "year": 2015,
+            "notes": "vol. 30, no. 4"
+        },
+        {
+            "authors": "Umamaheswara Rao Tida, Rongbo Yang, Cheng Zhuo, Yiyu Shi",
+            "title": "On the Efficacy of Through-Silicon-Via Inductors",
+            "venue": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
+            "year": 2015,
+            "notes": "vol. 23, no. 7, pp. 1322–1334"
+        },
+        {
+            "authors": "Umamaheswara Rao Tida, Zhuo Cheng, Yiyu Shi",
+            "title": "Novel Through-Silicon-Via Inductor Based On-chip DC-DC Converter Designs in 3D ICs",
+            "venue": "ACM Journal on Emerging Technologies in Computing Systems",
+            "year": 2014,
+            "notes": "vol. 11, no. 2, pp. 16:1–16:14"
+        },
+        {
+            "authors": "Chun Zhang, Dian Ma, Changzhi Li, Yiyu Shi",
+            "title": "Runtime Self-Calibrated Temperature-Stress Co-Sensor for 3D Integrated Circuits",
+            "venue": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
+            "year": 2014,
+            "notes": "vol. 22, no. 11, pp. 2411–2417"
+        },
+        {
+            "authors": "Tao Wang, Chun Zhang, Jinjun Xiong, Yiyu Shi",
+            "title": "On the Deployment of On-Chip Noise Sensors",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2014,
+            "notes": "vol. 33, no. 4, pp. 519–531"
+        },
+        {
+            "authors": "Yu-Guang Chen, Hui Geng, Kuan-Yu Lai, Yiyu Shi, Shih-Chieh Chang",
+            "title": "Multi-Bit Retention Registers for Power Gated Designs: Concept, Design and Deployment",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2014,
+            "notes": "vol. 33, no. 4, pp. 507–518"
+        },
+        {
+            "authors": "Chenye Wu, Yiyu Shi, Soummya Kar",
+            "title": "Explore the Demand Flexibility in Heterogeneous Aggregators: An LMP-based Pricing Scheme",
+            "venue": "ACM Transactions on Embedded Computing Systems",
+            "year": 2014,
+            "notes": "vol. 3, no. 2, pp. 57:1–57:17"
+        },
+        {
+            "authors": "Fang Gong, Yiyu Shi, Hao Yu, Lei He",
+            "title": "Variability-Aware Parametric Yield Estimation: Concepts, Algorithms and Challenges",
+            "venue": "IEEE Design & Test of Computers",
+            "year": 2014,
+            "notes": "PP(99)"
+        },
+        {
+            "authors": "Chiao-Ling Lung, Yu-Shih Su, Hsih-Hsiu Huang, Yiyu Shi, Shih-Chieh Chang",
+            "title": "Fault-Tolerant Clock Networks for 3D ICs",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2013,
+            "notes": "vol. 32, no. 7, pp. 1100–1109"
+        },
+        {
+            "authors": "Guojie Luo, Yiyu Shi, Jason Cong",
+            "title": "An Analytical Placement Framework for 3D ICs and Its Extension on Thermal-Awareness",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2013,
+            "notes": "vol. 32, no. 4, pp. 510–523"
+        },
+        {
+            "authors": "Yiyu Shi, Jinjun Xiong, Vladimir Zolotov, Chandu Visweswariah",
+            "title": "Order Statistics for Correlated Random Variables and Its Application to At-Speed Testing",
+            "venue": "ACM Transactions on Design Automation of Electronic Systems",
+            "year": 2013,
+            "notes": "vol. 18, no. 3, 42:1–42:20"
+        },
+        {
+            "authors": "Minsu Choi, Jun Wu, Yiyu Shi",
+            "title": "Measurement and Evaluation of Power Analysis Attacks on Asynchronous S-Box",
+            "venue": "IEEE Transactions on Instrumentation & Measurement",
+            "year": 2012,
+            "notes": "vol. 61, no. 10, pp. 2765–2775"
+        },
+        {
+            "authors": "Ming-Chao Lee, Yiyu Shi, Shih-Chieh Chang",
+            "title": "Efficient Wakeup Scheduling Considering Both Resource Usage and Timing Budget for Power Gating Designs",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2012,
+            "notes": "vol. 31, no. 7, pp. 1041–1049"
+        },
+        {
+            "authors": "Wei Yao, Yiyu Shi, Lei He, Sudhakar Pamarti",
+            "title": "Worst-Case Estimation for Data-Dependent Timing Jitter and Amplitude Noise in High-Speed Differential Link",
+            "venue": "IEEE Transactions on Very Large Scale Integration Systems",
+            "year": 2012,
+            "notes": "vol. 20, no. 1, pp. 89–97"
+        },
+        {
+            "authors": "Lei He, Shauki Elassaad, Yiyu Shi, Yu Hu, Wei Yao",
+            "title": "System-in-package: Electrical and Layout Perspectives",
+            "venue": "Foundations and Trends in Electronic Design Automation",
+            "year": 2011,
+            "notes": "vol. 4, no. 4, pp. 223–306"
+        },
+        {
+            "authors": "Yiyu Shi, Jinjun Xiong, Howard Chen, Lei He",
+            "title": "Runtime Resonance Noise Reduction with Current Prediction Enabled Frequency Actuator",
+            "venue": "IEEE Transactions on Very Large Scale Integration Systems",
+            "year": 2011,
+            "notes": "vol. 19, no. 3, pp. 508–512"
+        },
+        {
+            "authors": "Hao Yu, Chunta Chu, Yiyu Shi, David Smart, Lei He, Sheldon X.-D. Tan",
+            "title": "Fast Analysis of Large Scale Inductive Interconnect by Block Structure Preserved Macromodeling",
+            "venue": "IEEE Transactions on Very Large Scale Integration Systems",
+            "year": 2010,
+            "notes": "vol. 18, no. 1, pp. 1399–1411"
+        },
+        {
+            "authors": "Yiyu Shi, Lei He",
+            "title": "EMPIRE: An Efficient and Compact Multiple-Parameterized Model Order Reduction Method for Physical Optimization",
+            "venue": "IEEE Transactions on Very Large Scale Integration Systems",
+            "year": 2010,
+            "notes": "vol. 18, no. 1, pp. 108–118"
+        },
+        {
+            "authors": "Yiyu Shi, Jinjun Xiong, Chunchen Liu, Lei He",
+            "title": "Efficient Decoupling Capacitance Budgeting Considering Operation and Process Variations",
+            "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+            "year": 2008,
+            "notes": "vol. 27, no. 7, pp. 1253–1263"
+        },
+        {
+            "authors": "Hao Yu, Yiyu Shi, Lei He",
+            "title": "Thermal Via Allocation for 3-D ICs Considering Temporally and Spatially Variant Thermal Power",
+            "venue": "IEEE Transactions on Very Large Scale Integration Systems",
+            "year": 2008,
+            "notes": "vol. 16, no. 12, pp. 1609–1619"
+        },
+        {
+            "authors": "Yiyu Shi, Paul Mesa, Hao Yu, Lei He",
+            "title": "Circuit Simulated Obstacle aware Steiner Routing",
+            "venue": "ACM Transactions on Design Automation of Electronic Systems",
+            "year": 2007,
+            "notes": "vol. 12, no. 3"
+        },
+        {
+            "authors": "Yiyu Shi, Bike Xie, Yanjie Mao",
+            "title": "Circuit Simulation Method in Mathematical Modeling",
+            "venue": "Chinese Journal of Engineering Mathematics",
+            "year": 2004,
+            "notes": "vol. 21, no. 7, pp. 43–48"
+        }
+    ],
+    "conference": [
+        {
+            "authors": "Zixuan Pan, Jun Xia, Zheyu Yan, Guoyue Xu, Yifan Qin, Xueyang Li, Yawen Wu, Zhenge Jia, Jianxu Chen, Yiyu Shi",
+            "title": "Rethinking Medical Anomaly Detection in Brain MRI: An Image Quality Assessment Perspective",
+            "venue": "IEEE International Conference on Bioinformatics and Biomedicine (BIBM)",
+            "year": 2025
+        },
+        {
+            "authors": "Xueyang Li, Zongren Wang, Yuliang Zhang, Zixuan Pan, Yu-Jen Chen, Nishchal Sapkota, Gelei Xu, Danny Chen, Yiyu Shi",
+            "title": "H-CNN-ViT: A Hierarchical Gated Attention Multi-Branch Model for Bladder Cancer Recurrence Prediction",
+            "venue": "IEEE International Conference on Bioinformatics and Biomedicine (BIBM)",
+            "year": 2025
+        },
+        {
+            "authors": "Zixuan Pan, Yu-Jen Chen, Jun Xia, Max Ficco, Jianxu Chen, Tsung-Yi Ho, Yiyu Shi",
+            "title": "Multi-Exit Class Activation Map Guided Feature Masking for Unsupervised Out-of-Distribution Detection in Medical Imaging",
+            "venue": "IEEE International Conference on Bioinformatics and Biomedicine (BIBM)",
+            "year": 2025,
+            "notes": "regular paper, acceptance rate 19.6%"
+        },
+        {
+            "authors": "Dawei Li, Tienan Chen, Yongqiang Cui, Xiaowei Xu, Yiyu Shi",
+            "title": "MGS-EP: Mask Guided Segmentation of Regional Wall with Expert Prior Pre-Decoupling",
+            "venue": "IEEE International Conference on Bioinformatics and Biomedicine (BIBM)",
+            "year": 2025,
+            "notes": "regular paper, acceptance rate 19.6%"
+        },
+
+        {
+            "authors": "Ruiyang Qin, Dancheng Liu, Gelei Xu, Zheyu Yan, Chenhui Xu, Yuting Hu, X Sharon Hu, Jinjun Xiong, Yiyu Shi",
+            "title": "Tiny-Align: Bridging Automatic Speech Recognition and Large Language Model on the Edge",
+            "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2025,
+            "notes": "acceptance rate 24.7%"
+        },
+        {
+            "authors": "Gelei Xu, Yuying Duan, Zheyuan Liu, Xueyang Li, Meng Jiang, Michael Lemmon, Wei Jin, Yiyu Shi",
+            "title": "Incorporating Rather Than Eliminating: Achieving Fairness for Skin Disease Diagnosis Through Group-Specific Experts",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2025,
+            "notes": "early accept, acceptance rate 9%"
+        },
+        {
+            "authors": "Xueyang Li, Han Xiao, Zongpeng Weng, Xinrong Hu, Danny Chen, Yiyu Shi",
+            "title": "PCA-YOLO: A Small Liver Tumor Detection Model with Patch-Contrastive Attention",
+            "venue": "Medical Imaging with Deep Learning",
+            "year": 2025
+        },
+        {
+            "authors": "Yuying Duan, Gelei Xu, Yiyu Shi, Michael Lemmon",
+            "title": "The cost of local and global fairness in Federated Learning",
+            "venue": "International Conference on Artificial Intelligence and Statistics (AISTATS)",
+            "year": 2025
+        },
+        {
+            "authors": "Quan Cheng, Qiufeng Li, Weirong Dong, Mingtao Zhang, Ruilin Zhang, Mingqiang Huang, Hao Yu, Yiyu Shi, Hiromitsu Awano, Takashi Sato, Longyang Lin, Masanori Hashimoto",
+            "title": "A 22nm Resource-Frugal Hyper-Heterogeneous Multi-Modal System-on-Chip Towards In-Orbit Computing",
+            "venue": "IEEE Custom Integrated Circuits Conference (CICC)",
+            "year": 2025
+        },
+        {
+            "authors": "Sohan Salahuddin Mugdho, Yuanbo Guo, Ethan G. Rogers, Weiwei Zhao, Yiyu Shi, Cheng Wang",
+            "title": "Improving the Fairness of Deep Neural Networks with Non-Ideal In-Memory Computing Hardware",
+            "venue": "Design, Automation and Test in Europe Conference (DATE)",
+            "year": 2025,
+            "notes": "acceptance rate 25%"
+        },
+        {
+            "authors": "Ruiyang Qin, Pengyu Ren, Zheyu Yan, Liu Liu, Dancheng Liu, Amir Nassereldine, Jinjun Xiong, Kai Ni, Sharon Hu, Yiyu Shi",
+            "title": "NVCiM-PT: An NVCiM-assisted Prompt Tuning Framework for Edge LLMs",
+            "venue": "Design, Automation and Test in Europe Conference (DATE)",
+            "year": 2025,
+            "notes": "acceptance rate 25%"
+        },
+        {
+            "authors": "Gelei Xu, Ningzhi Tang, Jun Xia, Ruiyang Qin, Wei Jin, Yiyu Shi",
+            "title": "Enabling Memory-Efficient On-Device Learning via Dataset Condensation",
+            "venue": "Design, Automation and Test in Europe Conference (DATE)",
+            "year": 2025,
+            "notes": "acceptance rate 25%"
+        },
+        {
+            "authors": "Jianbo Liu, Zephan Enciso, Boyang Cheng, Likai Pei, Steven Davis, Yifan Qin, Zhenge Jia, Xiaobo Sharon Hu, Yiyu Shi, Ningyuan Cao",
+            "title": "A 65nm Uncertainty-quantifiable Ventricular Arrhythmia Detection Engine with 1.75μJ per Inference",
+            "venue": "IEEE International Solid-State Circuits Conference (ISSCC)",
+            "year": 2025
+        },
+        {
+            "authors": "Yifan Qin, Zhenge Jia, Zheyu Yan, Jay Mok, Manto Yung, Yu Liu, Xuejiao Liu, Wujie Wen, Luhong Liang, Kwang-Ting Tim Cheng, X. Sharon Hu, Yiyu Shi",
+            "title": "A 10.60 uW 150 GOPS Mixed-Bit-Width Sparse CNN Accelerator for Life-Threatening Ventricular Arrhythmia Detection",
+            "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
+            "year": 2025
+        },
+        {
+            "authors": "Xinrong Hu, Dewen Zeng, Yawen Wu, Xueyang Li, and Yiyu Shi",
+            "title": "Enhancing 3D Transformer Segmentation Model for Medical Image with Token-level Representation Learning",
+            "venue": "IEEE International Conference on Bioinformatics and Biomedicine (BIBM)",
+            "year": 2024,
+            "notes": "acceptance rate 21%"
+        },
+        {
+            "authors": "Jun Xia, Zhihao Yue, Yingbo Zhou, Zhiwei Ling, Yiyu Shi, Xian Wei, and Mingsong Chen",
+            "title": "WaveAttack: Asymmetric Frequency Obfuscation-based Backdoor Attacks Against Deep Neural Networks",
+            "venue": "Neural Information Processing Systems (NeurIPS)",
+            "year": 2024
+        },
+        {
+            "authors": "Quan Cheng, Longyang Lin, Mingqiang Huang, Qiufeng Li, Zhengke Yang, Liuyao Dai, Hao Yu, Yu-Jen Chen, Yiyu Shi and Masanori Hashimoto",
+            "title": "A 13-34 TOPS/W Edge-Ai Processor Featuring Booth-Value-Confined Accelerator, Near-Memory Computing, and Contiguity-Aware Mapping",
+            "venue": "IEEE Asian Solid-State Circuits Conference (A-SSCC)",
+            "year": 2024
+        },
+        {
+            "authors": "Hongyu Cheng, Limin Zheng, Yiyu Shi, Qing Lu, Bo Meng and Xiaowei Xu",
+            "title": "Fusion of Machine Learning and Deep Neural Networks for Pulmonary Arteries and Veins Segmentation in Lung Cancer Surgery Planning",
+            "venue": "International Conference on Pattern Recognition",
+            "year": 2024
+        },
+        {
+            "authors": "Yifan Qin, Zheyu Yan, Wujie Wen, X. Sharon Hu and Yiyu Shi",
+            "title": "Sustainable Deployment of Deep Neural Networks on Non-Volatile Compute-in-Memory Accelerators",
+            "venue": "International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS)",
+            "year": 2024,
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Peiyan Dong, Jinming Zhuang, Zhuoping Yang, Shixin Ji, Yanyu Li, Dongkuan Xu, Heng Huang, Jingtong Hu, Alex K. Jones, Yiyu Shi, Yanzhi Wang, Peipei Zhou",
+            "title": "EQ-ViT: Algorithm-Hardware Co-Design for End-to-End Acceleration of Real-Time Vision Transformer Inference on Versal ACAP Architecture",
+            "venue": "International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS)",
+            "year": 2024
+        },
+        {
+            "authors": "Dewen Zeng, Xinrong Hu, Yawen Wu, Xiaowei Xu and Yiyu Shi",
+            "title": "Contrastive Learning with Synthetic Positives",
+            "venue": "European Conference on Computer Vision (ECCV)",
+            "year": 2024
+        },
+        {
+            "authors": "Yiwen Liu, Ke Wang, Qingyue Jiao, Yiyu Shi, and Shangjie Guo",
+            "title": "A Comparison on Constrain Encoding Methods for Quantum Approximate Optimization Algorithm",
+            "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2024,
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Likai Pei, Yifan Qin, Zephan M. Enciso, Boyang Cheng, Jianbo Liu, Steven Davis, Zhenge Jia, Michael Niemier, Yiyu Shi, X. Sharon Hu and Ningyuan Cao",
+            "title": "Towards Uncertainty-Quantifiable Biomedical Intelligence: Mixed-signal Compute-in-Entropy for Bayesian Neural Networks",
+            "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2024,
+            "notes": "acceptance rate 24%",
+            "highlight": "Nominated for Best Paper Award"
+        },
+        {
+            "authors": "Ruiyang Qin, Zheyu Yan, Dewen Zeng, Zhenge Jia, Dancheng Liu, Jianbo Liu, Zhi Zheng, Ningyuan Cao, Kai Ni, Jinjun Xiong, Yiyu Shi",
+            "title": "Robust Implementation of Retrieval-Augmented Generation on Edge-based Computing-in-Memory Architectures",
+            "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2024,
+            "notes": "acceptance rate 24%",
+            "highlight": "Nominated for Best Paper Award"
+        },
+        {
+            "authors": "Yifan Qin, Zheyu Yan, Zixuan Pan, Wujie Wen, X. Sharon Hu and Yiyu Shi",
+            "title": "TSB: Tiny Shared Block for Efficient DNN Deployment on NVCIM Accelerators",
+            "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2024,
+            "notes": "acceptance rate 24%"
+        },
+        {
+            "authors": "Jun Xia, Yi Zhang and Yiyu Shi",
+            "title": "Towards Energy-Aware Federated Learning via MARL: A Dual-Selection Approach for Model and Client",
+            "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2024,
+            "notes": "acceptance rate 24%"
+        },
+        {
+            "authors": "Jianwei Jia, Zhenge Jia, Omkar Phadke, Gihun Choe, Yiyu Shi and Shimeng Yu",
+            "title": "A Reconfigurable Bandpass Filter with Ferroelectric Devices for Intracardiac Electrograms Monitoring",
+            "venue": "IEEE Midwest Symposium on Circuits and Systems (MWSCAS)",
+            "year": 2024
+        },
+        {
+            "authors": "Yi Sheng, Junhuan Yang, Jinyang Li, James Alaina, Xiaowei Xu, Yiyu Shi, Jingtong Hu, Weiwen Jiang, Lei Yang",
+            "title": "Data-Algorithm-Architecture Co-Optimization for Fair Neural Networks on Skin Lesion Dataset",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2024
+        },
+        {
+            "authors": "Yuanbo Guo, Zhenge Jia, Jingtong Hu, Yiyu Shi",
+            "title": "FairQuantize: Achieving Fairness Through Weight Quantization for Dermatological Disease Diagnosis",
+            "venue": "Medical Image Computing and Computer Assisted Intervention (MICCAI)",
+            "year": 2024
+        },
+        {
+            "authors": "Qingpeng Kong, Ching-Hao Chiu, Dewen Zeng, Yu-Jen Chen, Tsung-Yi Ho, Jingtong Hu and Yiyu Shi",
+            "title": "Achieving Fairness Through Channel Pruning for Dermatological Disease Diagnosis",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2024,
+            "notes": "early accept, acceptance rate 11%"
+        },
+        {
+            "authors": "Shixin Ji, Zhuoping Yang, Xingzhen Chen, Stephen Cahoon, Jingtong Hu, Yiyu Shi, Alex Jones and Peipei Zhou",
+            "title": "Towards Carbon Modeling of Cloud Servers with Accelerators",
+            "venue": "IEEE Computer Society Annual Symposium on VLSI (ISVLSI)",
+            "year": 2024
+        },
+        {
+            "authors": "Zhiding Liang, Gang Liu, Zheyuan Liu, Jinglei Cheng, Tianyi Hao, Kecheng Liu, Hang Ren, Zhixin Song, Ji Liu, Fanny Ye, Yiyu Shi",
+            "title": "Graph Learning for Parameter Prediction of Quantum Approximate Optimization Algorithm",
+            "venue": "IEEE/ACM Design Automation Conference (DAC)",
+            "year": 2024,
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Zhiding Liang, Zhixin Song, Jinglei Cheng, Hang Ren, Tianyi Hao, Rui Yang, Yiyu Shi, and Tongyang Li",
+            "title": "SpacePulse: Combining Parameterized Pulses and Contextual Subspace for More Practical VQE",
+            "venue": "IEEE/ACM Design Automation Conference (DAC)",
+            "year": 2024,
+            "notes": "acceptance rate 21.8%"
+        },
+        {
+            "authors": "Ruiyang Qin, Jun Xia, Zhenge Jia, Meng Jiang, Ahmed Abbasi, Peipei Zhou, Jingtong Hu, and Yiyu Shi",
+            "title": "Enabling On-Device Large Language Model Personalization with Self-Supervised Data Selection and Synthesis",
+            "venue": "IEEE/ACM Design Automation Conference (DAC)",
+            "year": 2024,
+            "notes": "acceptance rate 21.8%"
+        },
+        {
+            "authors": "Jinming Zhuang, Zhuoping Yang, Shixin Ji, Heng Huang, Alex K. Jones, Jingtong Hu, Yiyu Shi, Peipei Zhou",
+            "title": "SSR: Spatial Sequential Hybrid Architecture for Latency Throughput Tradeoff Design Space Exploration",
+            "venue": "ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA)",
+            "year": 2024,
+            "notes": "acceptance rate 26.9%"
+        },
+        {
+            "authors": "Ruiyang Qin, Yuting Hu, Zheyu Yan, Jinjun Xiong, Ahmed Abbasi, and Yiyu Shi",
+            "title": "Towards Fairness of Neural Architecture Search via LLMs",
+            "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
+            "year": 2024,
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Peipei Zhou, Jinming Zhuang, Stephen Cahoon, Yue Tang, Zhuoping Yang, Xingzhen Chen, Yiyu Shi, Jingtong Hu, Alex K. Jones",
+            "title": "REFRESH FPGAs: Sustainable FPGA Chiplet Architectures",
+            "venue": "IEEE International Green and Sustainable Computing (IGSC) Conference",
+            "year": 2023,
+            "highlight": "Best Viewpoint Paper Finalist"
+        },
+        {
+            "authors": "Limin Zheng, Bo Meng, Hongyu Cheng, Yiyu Shi, Qing Lu, Jian Zhuang, Xiaowei Xu",
+            "title": "Automatic Segmentation of Aortic and Mitral Valves for Heart Surgery Planning of Hypertrophic Obstructive Cardiomyopathy",
+            "venue": "Asian Conference on Machine Learning (ACML)",
+            "year": 2023
+        },
+        {
+            "authors": "Kaikai Liu, Yiyu Shi, Jian Zhuang, Meiping Huang, Hongwen Fei, Boyang Li, Jin Hong, Qing Lu, Erlei Zhang, and Xiaowei Xu",
+            "title": "Enhance Regional Wall Segmentation by Style Transfer for Regional Wall Motion Assessment",
+            "venue": "British Machine Vision Conference (BMVC)",
+            "year": 2023
+        },
+        {
+            "authors": "Xinrong Hu, Corey Wang and Yiyu Shi",
+            "title": "Contrastive Image Synthesis and Self-supervised Feature Adaptation for Cross-Modality Biomedical Image Segmentation",
+            "venue": "International Conference on Computer Vision (ICCV) Workshop on Computer Vision for Automated Medical Diagnosis",
+            "year": 2023
+        },
+        {
+            "authors": "Zheyu Yan, Yifan Qin, Wujie Wen, X. Sharon Hu and Yiyu Shi",
+            "title": "Improving Realistic Worst-Case Performance of NVCiM DNN Accelerators through Training with Right-Censored Gaussian Noise",
+            "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2023,
+            "highlight": "2023 William J. McCalla Best Paper Award"
+        },
+        {
+            "authors": "Xuan Wang, Zheyu Yan, Chang Meng, Yiyu Shi and Weikang Qian",
+            "title": "DASALS: Differentiable Architecture Search-driven Approximate Logic Synthesis",
+            "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2023
+        },
+        {
+            "authors": "Zheyu Yan, Yifan Qin, Xiaobo Sharon Hu, and Yiyu Shi",
+            "title": "On the Viability of Using LLMs for SW/HW Co-Design: An Example in Designing CiM DNN Accelerators",
+            "venue": "IEEE International System-on-Chip Conference (SOCC)",
+            "year": 2023,
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Zhiding Liang and Hanrui Wang",
+            "title": "QuCS: A Lecture Series on Quantum Computer Software and System",
+            "venue": "IEEE International Conference on Quantum Computing and Engineering (QCE)",
+            "year": 2023
+        },
+        {
+            "authors": "Yu-Jen Chen, Xinrong Hu, Yiyu Shi and Tsung-Yi Ho",
+            "title": "AME-CAM: Attentive Multiple-Exit CAM for Weakly Supervised Segmentation on MRI Brain Tumor",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2023
+        },
+        {
+            "authors": "Ching-Hao Chiu, Hao-Wei Chung, Yu-Jen Chen, Yiyu Shi and Tsung-Yi Ho",
+            "title": "Toward Fairness Through Fair Multi-Exit Framework for Dermatological Disease Diagnosis",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2023
+        },
+        {
+            "authors": "Xueyang Li, Hai Xiao, Weixiang Weng, Xiaowei Xu and Yiyu Shi",
+            "title": "MPBD-LSTM: A Predictive Model For Colorectal Liver Metastases Using Time Series Multi-phase Contrast-Enhanced CT Scans",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2023
+        },
+        {
+            "authors": "Xinrong Hu, Yu-Jen Chen, Tsung-Yi Ho and Yiyu Shi",
+            "title": "Conditional Diffusion Models for Weakly Supervised Medical Image Segmentation",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2023,
+            "notes": "early accept, acceptance rate 14%"
+        },
+        {
+            "authors": "Dewen Zeng, Yawen Wu, Xinrong Hu, Xiaowei Xu, Jingtong Hu and Yiyu Shi",
+            "title": "Additional Positive Enables Better Representation Learning for Medical Images",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2023,
+            "notes": "early accept, acceptance rate 14%"
+        },
+        {
+            "authors": "Zhiding Liang, Zhixin Song, Jinglei Cheng, Zichang He, Ji Liu, Hanrui Wang, Ruiyang Qin, Yiru Wang, Song Han, Xuehai Qian and Yiyu Shi",
+            "title": "Hybrid Gate-Pulse Model for Variational Quantum Algorithms",
+            "venue": "IEEE/ACM Design Automation Conference (DAC)",
+            "year": 2023
+        },
+        {
+            "authors": "Xuan Wang, Sijun Tao, Jingjing Zhu, Yiyu Shi and Weikang Qian",
+            "title": "AccALS: Accelerating Approximate Logic Synthesis by Selection of Multiple Local Approximate Changes",
+            "venue": "IEEE/ACM Design Automation Conference (DAC)",
+            "year": 2023
+        },
+        {
+            "authors": "Yi Sheng, Junhuan Yang, Lei Yang, Yiyu Shi, Jingtong Hu and Weiwen Jiang",
+            "title": "Muffin: A Framework Toward Multi-Dimension AI Fairness by Uniting Off-the-Shelf Models",
+            "venue": "IEEE/ACM Design Automation Conference (DAC)",
+            "year": 2023
+        },
+        {
+            "authors": "Ching-Hao Chiu, Hao-Wei Chung, Yu-Jen Chen, Yiyu Shi and Tsung-Yi Ho",
+            "title": "Fair Multi-Exit Framework for Facial Attribute Classification",
+            "venue": "AAAI Workshop on Artificial Intelligence for Social Good",
+            "year": 2023
+        },
+        {
+            "authors": "Yawen Wu, Zhepeng Wang, Dewen Zeng, Yiyu Shi, and Jingtong Hu",
+            "title": "Synthetic Data Can Also Teach: Synthesizing Effective Data for Unsupervised Visual Representation Learning",
+            "venue": "AAAI Conference on Artificial Intelligence",
+            "year": 2023,
+            "notes": "acceptance rate 20%"
+        },
+        {
+            "authors": "Qing Lu, Weiwen Jiang, Xiaowei Xu, Jingtong Hu, and Yiyu Shi",
+            "title": "Quantization Through Search: A Novel Scheme to Quantize Convolutional Neural Networks in Finite Weight Space",
+            "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
+            "year": 2023
+        },
+        {
+            "authors": "Matheus Araujo, Dewen Zeng, Joao Palotti, Xirong Hu, Yiyu Shi, Lee Pyles, and Quan Ni",
+            "title": "Maiby's Algorithm: A Two-Stage Deep Learning Approach for Murmur Detection in Mel Spectrograms for Automatic Auscultation of Congenital Heart Disease",
+            "venue": "Computing in Cardiology (CinC)",
+            "year": 2022,
+            "location": "Finland"
+        },
+        {
+            "authors": "Yejia Zhang, Xinrong Hu, Nishchal Sapkota, Yiyu Shi, and Danny Chen",
+            "title": "Unsupervised Feature Clustering Improves Contrastive Representation Learning for Medical Image Segmentation",
+            "venue": "IEEE International Conference on Bioinformatics and Biomedicine (BIBM)",
+            "year": 2022,
+            "notes": "acceptance rate 20%"
+        },
+        {
+            "authors": "Qing Lu, Zhenge Jia, Jingtong Hu and Yiyu Shi",
+            "title": "ICD-BAS: Detecting Ventricular Arrhythmia using Binary Architecture Search for Implantable Cardioverter Defibrillators",
+            "venue": "IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)",
+            "year": 2022,
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Hanrui Wang, Zhiding Liang, Jiaqi Gu, Zirui Li, Yongshan Ding, Weiwen Jiang, Yiyu Shi, David Z. Pan, Frederic T. Chong and Song Han",
+            "title": "TorchQuantum Case Study for Robust Quantum Circuits",
+            "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2022,
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Zheyu Yan, X. Sharon Hu and Yiyu Shi",
+            "title": "Computing-In-Memory Neural Network Accelerators for Safety-Critical Systems: Can Small Device Variations Be Disastrous?",
+            "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2022,
+            "notes": "acceptance rate 22%"
+        },
+        {
+            "authors": "Zhiding Liang, Hanrui Wang, Jinglei Cheng, Yongshan Ding, Hang Ren, Zhengqi Gao, Zhirui Hu, Duane Boning, Xuehai Qian, Song Han, Weiwen Jiang and Yiyu Shi",
+            "title": "Variational Quantum Pulse Learning",
+            "venue": "IEEE International Conference on Quantum Computing and Engineering (QCE)",
+            "year": 2022
+        },
+        {
+            "authors": "Qing Lu, Weiwen Jiang, Meng Jiang, Jingtong Hu and Yiyu Shi",
+            "title": "Hardware/Software Co-Exploration for Graph Neural Architectures on FPGAs",
+            "venue": "IEEE Computer Society Annual Symposium on VLSI",
+            "year": 2022,
+            "location": "Pafos, Cyprus",
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Qing Lu, Xiaowei Xu, Shunjie Dong, Callie Hao, Lei Yang, Cheng Zhuo, and Yiyu Shi",
+            "title": "RT-DNAS: Real-time Constrained Differentiable Neural Architecture Search for 3D Cardiac Cine MRI Segmentation",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2022
+        },
+        {
+            "authors": "Yawen Wu, Dewen Zeng, Xiaowei Xu, Yiyu Shi and Jingtong Hu",
+            "title": "FairPrune: Achieving Fairness Through Pruning for Dermatological Disease Diagnosis",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2022,
+            "notes": "early accept, acceptance rate 13%"
+        },
+        {
+            "authors": "Yawen Wu, Zhepeng Wang, Dewen Zeng, Meng Li, Yiyu Shi and Jingtong Hu",
+            "title": "Decentralized Unsupervised Learning of Visual Representations",
+            "venue": "International Joint Conference on Artificial Intelligence (IJCAI)",
+            "year": 2022,
+            "notes": "acceptance rate 15%"
+        },
+        {
+            "authors": "Zheyu Yan, X. Sharon Hu and Yiyu Shi",
+            "title": "SWIM: Selective Write-Verify for Computing-in-Memory Neural Accelerator",
+            "venue": "IEEE/ACM Design Automation Conference (DAC)",
+            "year": 2022,
+            "notes": "acceptance rate 22.6%"
+        },
+        {
+            "authors": "Yi Sheng, Junhuan Yang, Yawen Wu, Kevin Mao, Yiyu Shi, Jingtong Hu, Weiwen Jiang and Lei Yang",
+            "title": "The Larger The Fairer? Small Neural Networks Can Achieve Fairness for Edge Devices",
+            "venue": "IEEE/ACM Design Automation Conference (DAC)",
+            "year": 2022,
+            "notes": "acceptance rate 22.6%"
+        },
+        {
+            "authors": "Bingqian Lu, Jianyi Yang, Weiwen Jiang, Yiyu Shi and Shaolei Ren",
+            "title": "One Proxy Device Is Enough for Hardware-Aware Neural Architecture Search",
+            "venue": "ACM SIGMETRICS/Performance",
+            "year": 2022
+        },
+        {
+            "authors": "Zheyu Yan, Weiwen Jiang, Xiaobo Sharon Hu, Yiyu Shi",
+            "title": "RADARS: Memory Efficient Reinforcement Learning Aided Differentiable Neural Architecture Search",
+            "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
+            "year": 2022
+        },
+        {
+            "authors": "Yu-Jen Chen, Yen-Jung Chang, Shao-Cheng Wen, Xiaowei Xu, Tsung-Yi Ho, Meiping Huang, Haiyun Yuan, Jian Zhuang, Yiyu Shi and Tsung-Yi Ho",
+            "title": "One-Shot Reduction of Additive Artifacts in Medical Images",
+            "venue": "IEEE International Conference on Bioinformatics and Biomedicine (BIBM)",
+            "year": 2021,
+            "notes": "acceptance rate 19%"
+        },
+        {
+            "authors": "Zhiding Liang, Zhepeng Wang, Jinjun Xiong, Yiyu Sh, Weiwen Jiang",
+            "title": "Can Noise on Qubits Be Learned in Quantum Neural Network? A Case Study on QuantumFlow",
+            "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2021,
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Zhepeng Wang, Zhiding Liang, Shanglin Zhou, Caiwen Ding, Jinjun Xiong, Yiyu Shi, Weiwen Jiang",
+            "title": "Exploration of Quantum Neural Architecture by Mixing Quantum Neuron Designs",
+            "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2021,
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Yawen Wu, Dewen Zeng, Zhepang Wang, Yi Sheng, Lei Yang, Alaina J James, Yiyu Shi, Jingtong Hu",
+            "title": "Federated Contrastive Learning for Dermatological Disease Diagnosis via On-device Learning",
+            "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2021,
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Dewen Zeng, John N Kheir, Peng Zeng and Yiyu Shi",
+            "title": "Contrastive Learning with Temporal Correlated Medical Images: A Case Study using Lung Segmentation in Chest X-Rays",
+            "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2021,
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Zhenge Jia, Yiyu Shi, Samir Saba and Jingtong Hu",
+            "title": "On-Device Prior Knowledge Incorporated Learning for Personalized Atrial Fibrillation Detection",
+            "venue": "International Conference on Compilers, Architectures, and Synthesis for Embedded Systems (CASES)",
+            "year": 2021
+        },
+        {
+            "authors": "Tianchen Wang, Zhihe Li, Meiping Huang, Jian Zhuang, Shanshan Bi, Jiawei Zhang, Xiaowei Xu, Hongwen Fei and Yiyu Shi",
+            "title": "EchoCP: An Echocardiography Dataset in Contrast Transthoracic Echocardiography for Patent Foramen Ovale Diagnosis",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2021,
+            "location": "Strasburg, France",
+            "notes": "early accept, acceptance rate 13%"
+        },
+        {
+            "authors": "Yukun Ding, Dewen Zeng, Mingqi Li, Hongwen Fei, Haiyun Yuan, Meiping Huang, Jian Zhuang and Yiyu Shi",
+            "title": "Towards Efficient Human-Machine Collaboration: Real-Time Correction Effort Prediction for Ultrasound Data Acquisition",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2021,
+            "location": "Strasburg, France",
+            "notes": "early accept, acceptance rate 13%"
+        },
+        {
+            "authors": "Dewen Zeng, Yawen Wu, Xinrong Hu, Xiaowei Xu, Haiyun Yuan, Meiping Hunag, Jian Zhuang, Jingtong Hu and Yiyu Shi",
+            "title": "Positional Contrastive Learning for Volumetric Medical Image Segmentation",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2021,
+            "location": "Strasburg, France",
+            "notes": "early accept, acceptance rate 13%"
+        },
+        {
+            "authors": "Xinrong Hu, Dewen Zeng, Xiaowei Xu and Yiyu Shi",
+            "title": "Semi-supervised Contrastive Learning for Label-efficient Medical Image Segmentation",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2021,
+            "location": "Strasburg, France",
+            "notes": "early accept, acceptance rate 13%"
+        },
+        {
+            "authors": "Yawen Wu, Dewen Zeng, Zhepeng Wang, Yiyu Shi and Jingtong Hu",
+            "title": "Federated Contrastive Learning for Volumetric Medical Image Segmentation",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2021,
+            "location": "Strasburg, France",
+            "notes": "early accept, acceptance rate 13%"
+        },
+        {
+            "authors": "Zhenge Jia, Zhepeng Wang, Feng Hong, Lichuan Ping, Yiyu Shi and Jingtong Hu",
+            "title": "Learning to Learn Personalized Neural Network for Ventricular Arrhythmias Detection on Intracardiac EGMs",
+            "venue": "International Joint Conference on Artificial Intelligence (IJCAI)",
+            "year": 2021,
+            "notes": "acceptance rate 13.9%"
+        },
+        {
+            "authors": "Boyang Li, Qing Lu, Weiwen Jiang, Taeho Jung and Yiyu Shi",
+            "title": "A Mining Pool Solution for Novel Proof-of-Neural-Architecture Consensus",
+            "venue": "IEEE International Conference on Blockchain and Cryptocurrency (ICBC)",
+            "year": 2021,
+            "location": "Australia"
+        },
+        {
+            "authors": "Dewen Zeng, Yukun Ding, Xiaowei Xu, Haiyun Yuan, Hongwen Fei, Meiping Huang, Jian Zhuang, Jingtong Hu and Yiyu Shi",
+            "title": "Hardware-aware Real-time Myocardial Segmentation Quality Control in Contrast Echocardiography",
+            "venue": "IEEE/ACM Design Automation Conference (DAC)",
+            "year": 2021,
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Yuhong Song, Weiwen Jiang, Bingbing Li, Panjie Qi, Qingfeng Zhuge, Edwin H. M. Sha, Sakyasingha Dasgupta, Yiyu Shi and Caiwen Ding",
+            "title": "Dancing along Battery: Enabling Transformer with Run-time Reconfigurability on Mobile Devices",
+            "venue": "IEEE/ACM Design Automation Conference (DAC)",
+            "year": 2021
+        },
+        {
+            "authors": "Yawen Wu, Zhepeng Wang, Dewen Zeng, Yiyu Shi and Jingtong Hu",
+            "title": "Enabling On-Device Self-supervised Contrastive Learning With Selective Data Contrast",
+            "venue": "IEEE/ACM Design Automation Conference (DAC)",
+            "year": 2021
+        },
+        {
+            "authors": "Zhenge Jia, Feng Hong, Lichuan Ping, Yiyu Shi and Jingtong Hu",
+            "title": "Enabling On-Device Model Personalization for Ventricular Arrhythmias Detection by Generative Adversarial Networks",
+            "venue": "IEEE/ACM Design Automation Conference (DAC)",
+            "year": 2021
+        },
+        {
+            "authors": "Dewen Zeng, Mingqi Li, Yukun Ding, Xiaowei Xu, Qiu Xie, Ruixue Xu, Hongwen Fei, Meiping Huang, Jian Zhuang and Yiyu Shi",
+            "title": "Segmentation with Multiple Acceptable Annotations: A Case Study of Myocardial Segmentation in Contrast Echocardiography",
+            "venue": "Information Processing in Medical Imaging (IPMI)",
+            "year": 2021
+        },
+        {
+            "authors": "Yu-Jen Chen, Cheng-Yen Tsai, Xiaowei Xu, Yiyu Shi, Tsung-Yi Ho, Meiping Huang, Haiyun Yuan, Jian Zhuang",
+            "title": "CT Image Denoising with Encoder-Decoder Based Graph Convolutional Networks",
+            "venue": "IEEE International Symposium on Biomedical Imaging (ISBI)",
+            "year": 2021
+        },
+        {
+            "authors": "Weiwen Jiang, Jinjun Xiong and Yiyu Shi",
+            "title": "When Machine Learning Meets Quantum Computers: A Case Study",
+            "venue": "IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)",
+            "year": 2021,
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Zhepeng Wang, Yawen Wu, Zhenge Jia, Yiyu Shi, Jingtong Hu",
+            "title": "Lightweight Run-Time Working Memory Compression for Deployment of Deep Neural Networks on Resource-Constrained MCUs",
+            "venue": "IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)",
+            "year": 2021,
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Grace Li Zhang, Bing Li, Ying Zhu, Tianchen Wang, Yiyu Shi, Xunzhao Yin, Cheng Zhuo, Huaxi Gu, Tsung-Yi Ho, Ulf Schlichtmann",
+            "title": "Robustness of Neuromorphic Computing with RRAM-based Crossbars and Optical Neural Networks",
+            "venue": "IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)",
+            "year": 2021,
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Zheyu Yan, Da-Cheng Juan, X. Sharon Hu and Yiyu Shi",
+            "title": "Uncertainty Aware Architecture Search for Emerging Device based Computing-in-Memory Neural Accelerators",
+            "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
+            "year": 2021,
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Shao-Cheng Wen, Yu-Jen Chen, Zihao Liu, Wujie Wen, Xiaowei Xu, Yiyu Shi, Tsung-Yi Ho, Meiping Huang, Haiyun Yuan, and Jian Zhuang",
+            "title": "Do noises bother human and neural networks in the same way? A medical image analysis perspective",
+            "venue": "International Conference on Bioinformatics and Biomedicine (BIBM)",
+            "year": 2020
+        },
+        {
+            "authors": "Dewen Zeng, Weiwen Jiang, Tianchen Wang, Xiaowei Xu, Haiyun Yuan, Meiping Huang, Jian Zhuang, Jingtong Hu and Yiyu Shi",
+            "title": "Towards Cardiac Intervention Assistance: Hardware-Aware Neural Architecture Exploration for Real-Time 3D Cardiac Cine MRI Segmentation",
+            "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2020,
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Zhenge Jia, Zhepeng Wang, Feng Hong, Lichuan Ping, Yiyu Shi and Jingtong Hu",
+            "title": "Personalized Deep Learning for Ventricular Arrhythmias Detection on Medical IoT Systems",
+            "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2020,
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Weiwen Jiang, Lei Yang, Sakyasingha Dasgupta, Jingtong Hu and Yiyu Shi",
+            "title": "Standing on the Shoulders of Giants: Hardware and Neural Architecture Co-Search with Hot Start",
+            "venue": "International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS)",
+            "year": 2020
+        },
+        {
+            "authors": "Yawen Wu, Zhepeng Wang, Yiyu Shi and Jingtong Hu",
+            "title": "Enabling On-Device CNN Training by Self-Supervised Instance Filtering and Error Map Pruning",
+            "venue": "International Conference on Compilers, Architecture, and Synthesis of Embedded Systems (CASES)",
+            "year": 2020
+        },
+        {
+            "authors": "Xinrong Hu, Zeyang Yao, Furong Liu, Wen Xie, Hailong Qiu, Yuhao Dong, Qianjun Jia, Meiping Huang, Jian Zhuang, Xiaowei Xu and Yiyu Shi",
+            "title": "Joint Clinical Data and CT Image based Prognosis: A Case Study on Postoperative Pulmonary Venous Obstruction Prediction",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI) Workshop on Predictive Intelligence in Medicine (PRIME)",
+            "year": 2020
+        },
+        {
+            "authors": "Xiaowei Xu, Tianchen Wang, Jian Zhuang, Haiyun Yuan, Meiping Huang, Qianjun Jia, Jianzheng Cen, Yuhao Dong and Yiyu Shi",
+            "title": "ImageCHD: A 3D Computed Tomography Image Dataset for Classification of Congenital Heart Disease",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2020,
+            "location": "Lima, Peru",
+            "notes": "Early accept, acceptance rate 25%"
+        },
+        {
+            "authors": "Tianchen Wang, Jinjun Xiong, Xiaowei Xu, Qianjun Jia, Haiyun Yuan, Meiping Huang, Jian Zhuang and Yiyu Shi",
+            "title": "ICA-UNet: ICA Inspired Statistical UNet for Real-time 3D Cardiac Cine MRI Segmentation",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2020,
+            "location": "Lima, Peru",
+            "notes": "Early accept, acceptance rate 25%"
+        },
+        {
+            "authors": "Zihao Liu, Sicheng Li, Yen-Kuang Chen, Tao Liu, Qi Liu, Xiaowei Xu, Yiyu Shi and Wujie Wen",
+            "title": "Orchestrating Medical Image Compression and Remote Segmentation Networks",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2020,
+            "location": "Lima, Peru",
+            "notes": "Early accept, acceptance rate 25%",
+            "highlight": "Nominated for MICCAI Society Young Scientist Award"
+        },
+        {
+            "authors": "Qi Liu, Han Jiang, Tao Liu, Zihao Liu, Sicheng Li, Wujie Wen and Yiyu Shi",
+            "title": "Defending Deep Learning-based Biomedical Image Segmentation from Adversarial Attacks: A Low-cost Frequency Refinement Approach",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2020,
+            "location": "Lima, Peru",
+            "notes": "Early accept, acceptance rate 25%"
+        },
+        {
+            "authors": "Shunjie Dong, Jinlong Zhao, Maojun Zhang, Zhengxue Shi, Jianing Deng, Yiyu Shi and Cheng Zhuo",
+            "title": "DeU-Net: Deformable U-Net for 3D Cardiac MRI Video Segmentation",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2020,
+            "location": "Lima, Peru",
+            "notes": "acceptance rate 30%"
+        },
+        {
+            "authors": "Song Bian, Xiaowei Xu, Weiwen Jiang, Yiyu Shi and Takashi Sato",
+            "title": "BUNET: Blind Medical Image Segmentation Based on Secure UNET",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2020,
+            "location": "Lima, Peru",
+            "notes": "acceptance rate 30%"
+        },
+        {
+            "authors": "Xingang Yan, Weiwen Jiang, Yiyu Shi and Cheng Zhuo",
+            "title": "MS-NAS: Multi-Scale Neural Architecture Search for Medical Image Segmentation",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2020,
+            "location": "Lima, Peru",
+            "notes": "acceptance rate 30%"
+        },
+        {
+            "authors": "Yukun Ding, Jinglan Liu, Xiaowei Xu, Meiping Huang, Jian Zhuang, Jinjun Xiong, and Yiyu Shi",
+            "title": "Uncertainty-Aware Training of Neural Networks for Selective Medical Image Segmentation",
+            "venue": "Medical Imaging with Deep Learning (MIDL)",
+            "year": 2020,
+            "location": "Montreal, Canada",
+            "notes": "oral presentation, acceptance rate 12%"
+        },
+        {
+            "authors": "Grace Li Zhang, Bing Li, Ying Zhu, Shuhang Zhang, Tianchen Wang, Yiyu Shi, Tsung-Yi Ho, Hai Helen Li, Ulf Schlichtmann",
+            "title": "Reliable and Robust RRAM-based Neuromorphic Computing",
+            "venue": "ACM Great Lakes Symposium on VLSI (GLVLSI)",
+            "year": 2020,
+            "location": "Beijing, China",
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Song Bian, Tianchen Wang, Masayuki Hiromoto, Yiyu Shi, and Takashi Sato",
+            "title": "ENSEI: Efficient Secure Inference via Frequency-Domain Homomorphic Convolution for Privacy-Preserving Visual Recognition",
+            "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "year": 2020,
+            "location": "Seattle, WA",
+            "notes": "acceptance rate 22%"
+        },
+        {
+            "authors": "Yukun Ding, Jinglan Liu, Jinjun Xiong and Yiyu Shi",
+            "title": "Revisiting the Evaluation of Uncertainty Estimation and Its Application to Explore Model Complexity-Uncertainty Trade-Off",
+            "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops",
+            "year": 2020,
+            "location": "Seattle, WA"
+        },
+        {
+            "authors": "Yawen Wu, Zhepeng Wang, Zhenge Jia, Yiyu Shi and Jingtong Hu",
+            "title": "Intermittent Inference with Nonuniformly Compressed Multi-Exit Neural Network for Energy Harvesting Powered Devices",
+            "venue": "IEEE/ACM Design Automation Conference (DAC)",
+            "year": 2020,
+            "notes": "acceptance rate 23%"
+        },
+        {
+            "authors": "Lei Yang, Zheyu Yan, Meng Li, Hyoukjun Kwon, Liangzhen Lai, Tushar Krishna, Vikas Chandra, Weiwen Jiang, Yiyu Shi",
+            "title": "Co-Exploration of Neural Architectures and Heterogeneous ASIC Accelerator Designs Targeting Multiple Tasks",
+            "venue": "IEEE/ACM Design Automation Conference (DAC)",
+            "year": 2020,
+            "notes": "acceptance rate 23%"
+        },
+        {
+            "authors": "Song Bian, Weiwen Jiang, Qing Lu, Yiyu Shi and Takashi Sato",
+            "title": "NASS: Optimizing Secure Inference via Neural Architecture Search",
+            "venue": "European Conference on Artificial Intelligence (ECAI)",
+            "year": 2020,
+            "location": "Santiago, Spain",
+            "notes": "acceptance rate 27%"
+        },
+        {
+            "authors": "Yu-Jen Chen, Yen-Jeng Chang, Shao-Cheng Wen, Xiaowei Xu, Tsung-Yi Ho, Qianjun Jia, Meiping Huang, Jian Zhuang, Yiyu Shi",
+            "title": "Zero-Shot Medical Image Artifact Reduction",
+            "venue": "IEEE International Symposium on Biomedical Imaging (ISBI)",
+            "year": 2020,
+            "location": "Iowa City"
+        },
+        {
+            "authors": "Jinglan Liu, Yukun Ding, Jinjun Xiong, Qianjun Jia, Meiping Huang, Jian Zhuang, Bike Xie, Chun-Chen Liu, Yiyu Shi",
+            "title": "Multi-Cycle-Consistent Adversarial Networks for CT Image Denoising",
+            "venue": "IEEE International Symposium on Biomedical Imaging (ISBI)",
+            "year": 2020,
+            "location": "Iowa City",
+            "notes": "oral presentation, acceptance rate 15%"
+        },
+        {
+            "authors": "Ying Zhu, Li Zhang, Tianchen Wang, Bing Li, Yiyu Shi, Tsung-Yi Ho, and Ulf Schlichtmann",
+            "title": "Statistical Training for Neuromorphic Computing using Memristor-based Crossbars Considering Process Variations and Noises",
+            "venue": "Design, Automation & Test in Europe (DATE)",
+            "year": 2020,
+            "location": "Switzerland"
+        },
+        {
+            "authors": "Zheyu Yan, Yiyu Shi, Wang Liao, Masanori Hashimoto, Xichuan Zhou, Cheng Zhuo",
+            "title": "When Single Event Upset Meets Deep Neural Networks: Observations, Explorations, and Remedies",
+            "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
+            "year": 2020,
+            "location": "Beijing, China"
+        },
+        {
+            "authors": "Lei Yang, Weiwen Jiang, Weichen Liu, Edwin Sha, Yiyu Shi, Jingtong Hu",
+            "title": "Co-Exploring Neural Architecture and Network-on-Chip Design for Real-Time Artificial Intelligence",
+            "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
+            "year": 2020,
+            "location": "Beijing, China",
+            "highlight": "Nominated for Best Paper Award"
+        },
+        {
+            "authors": "Qingkai Zeng, Mengxia Yu, Wenhao Yu, Jinjun Xiong, Yiyu Shi, Meng Jiang",
+            "title": "Faceted Hierarchy: A New Graph Type to Organize Scientific Concepts and a Construction Method",
+            "venue": "Workshop on Graph-Based Natural Language Processing (TextGraphs)",
+            "year": 2019,
+            "location": "Hong Kong"
+        },
+        {
+            "authors": "Xiaowei Xu, Tianchen Wang, Yiyu Shi, Haiyun Yuan, Qianjun Jia, Meiping Huang, and Jian Zhuang",
+            "title": "Whole-Heart and Great Vessel Segmentation in Congenital Heart Disease using Deep Neural Networks and Graph Matching",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2019,
+            "location": "Shenzhen, China",
+            "notes": "acceptance rate 31%"
+        },
+        {
+            "authors": "Tianchen Wang, Jinjun Xiong, Xiaowei Xu, Meng Jiang, Yiyu Shi, Haiyun Yuan, Meiping Huang, and Jian Zhuang",
+            "title": "MSU-Net: Multiscale Statistical U-Net for Real-time 3D Cardiac MRI Video Segmentation",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2019,
+            "location": "Shenzhen, China",
+            "notes": "acceptance rate 31%"
+        },
+        {
+            "authors": "Weiwen Jiang, Edwin Sha, Xinyi Zhang, Lei Yang, Qingfeng Zhuge, Yiyu Shi and Jingtong Hu",
+            "title": "Achieving Super-Linear Speedup across Multi-FPGA for Real-Time DNN Inference",
+            "venue": "IEEE/ACM International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS)",
+            "year": 2019,
+            "location": "New York, NY",
+            "notes": "acceptance rate 29%",
+            "highlight": "Nominated for Best Paper Award"
+        },
+        {
+            "authors": "Xiaowei Xu, Meiping Huang, Qianjun Jia, Hailong Qiu, Haiyun Yuan, Yuhao Dong, Jian Zhuang and Yiyu Shi",
+            "title": "Accurate Congenital Heart Disease Model Generation for 3D Printing",
+            "venue": "IEEE International Workshop in Signal Processing Systems",
+            "year": 2019,
+            "location": "Nanjing, China",
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Qing Lu, Weiwen Jiang, Jingtong Hu and Yiyu Shi",
+            "title": "On Neural Architecture Search for Resource-Constrained Hardware Platforms",
+            "venue": "IEEE/ACM International Conference On Computer-Aided Design (ICCAD)",
+            "year": 2019,
+            "location": "Westminster, CO",
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Tianhao Shen, Di Gao, Yiyu Shi and Cheng Zhuo",
+            "title": "Power Delivery Resonant Virus: Concept and Application",
+            "venue": "ACM/IEEE International Symposium on Low Power Electronics and Design",
+            "year": 2019,
+            "location": "Lausanne, Switzerland"
+        },
+        {
+            "authors": "Xinyi Zhang, Weiwen Jiang, Yiyu Shi and Jingtong Hu",
+            "title": "When Neural Architecture Search Meets Hardware Implementation: from Hardware Awareness to Co-Design",
+            "venue": "IEEE Computer Society Annual Symposium on VLSI (ISVLSI)",
+            "year": 2019,
+            "location": "Miami, FL",
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Yuan Gong, Boyang Li, Christian Poellabauer and Yiyu Shi",
+            "title": "Real-Time Adversarial Attacks",
+            "venue": "International Joint Conference on Artificial Intelligence (IJCAI)",
+            "year": 2019,
+            "location": "Macao, China",
+            "notes": "acceptance rate 18%"
+        },
+        {
+            "authors": "Boyang Li, Jie Wu and Yiyu Shi",
+            "title": "Privacy-Aware Cost-Effective Scheduling Considering Non-Schedulable Appliances in Smart Home",
+            "venue": "IEEE International Conference on Embedded Software and Systems",
+            "year": 2019,
+            "location": "Las Vegas, NV"
+        },
+        {
+            "authors": "Boyang Li, Changhao Chenli, Xiaowei Xu, Taeho Jung and Yiyu Shi",
+            "title": "Exploiting Computation Power of Blockchain for Biomedical Image Segmentation",
+            "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops",
+            "year": 2019,
+            "location": "Long Beach, CA",
+            "highlight": "Best Student Paper Award"
+        },
+        {
+            "authors": "Zihao Liu, Xiaowei Xu, Tao Liu, QI Liu, Yanzhi Wang, Yiyu Shi, Wujie Wen, Meiping Huang, Haiyan Yuan and Jian Zhuang",
+            "title": "Machine Vision Guided 3D Medical Image Compression for Efficient Transmission and Accurate Segmentation in the Clouds",
+            "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "year": 2019,
+            "location": "Long Beach, CA",
+            "notes": "acceptance rate 25%"
+        },
+        {
+            "authors": "Changhao Chenli, Boyang Li, Yiyu Shi and Taeho Jung",
+            "title": "Energy-recycling Blockchain with Proof-of-Deep-Learning",
+            "venue": "International Conference on Blockchain and Cryptocurrency",
+            "year": 2019,
+            "location": "Seoul, South Korea"
+        },
+        {
+            "authors": "Weiwen Jiang, Xinyi Zhang, Edwin H.-M. Sha, Qingfeng Zhuge, Lei Yang, Yiyu Shi and Jingtong Hu",
+            "title": "Accuracy vs. Efficiency: Achieving Both through FPGA-Implementation Aware Neural Architecture Search",
+            "venue": "IEEE/ACM Design Automation Conference (DAC)",
+            "year": 2019,
+            "notes": "acceptance rate 25%",
+            "highlight": "Nominated for Best Paper Award"
+        },
+        {
+            "authors": "Xueying Wang, Haiqiao Zhang, Qi Li, Yiyu Shi and Meng Jiang",
+            "title": "A Novel Unsupervised Approach for Precise Temporal Slot Filling from Incomplete and Noisy Temporal Contexts",
+            "venue": "The Web Conference (WWW)",
+            "year": 2019,
+            "location": "San Francisco, CA",
+            "notes": "acceptance rate 20%"
+        },
+        {
+            "authors": "Yukun Ding, Jinglan Liu, Jinjun Xiong and Yiyu Shi",
+            "title": "On the Universal Approximability and Complexity Bounds of Quantized ReLU Neural Networks",
+            "venue": "International Conference on Learning Representations (ICLR)",
+            "year": 2019,
+            "location": "New Orleans, LA",
+            "notes": "acceptance rate 31%"
+        },
+        {
+            "authors": "Tianchen Wang, Jinjun Xiong, XIaowei Xu and Yiyu Shi",
+            "title": "SCNN: A General Distribution based Statistical Convolutional Neural Network with Application to Video Object Detection",
+            "venue": "AAAI Conference on Artificial Intelligence (AAAI)",
+            "year": 2019,
+            "location": "Honolulu, HI",
+            "notes": "acceptance rate 16%"
+        },
+        {
+            "authors": "Baixin Chen, Umamaheswara Rao Tida, Cheng Zhuo and Yiyu Shi",
+            "title": "Modeling and optimization of magnetic core TSV-inductor for on-chip DC-DC converter",
+            "venue": "IEEE/ACM International Conference On Computer-Aided Design (ICCAD)",
+            "year": 2018,
+            "location": "San Diego, CA",
+            "notes": "acceptance rate 25%"
+        },
+        {
+            "authors": "Yukun Ding, Jinglan Liu, Jinjun Xiong, Meng Jiang and Yiyu Shi",
+            "title": "Optimizing Boiler Control in Real-Time with Machine Learning for Sustainability",
+            "venue": "ACM International Conference on Information and Knowledge Management (CIKM)",
+            "year": 2018,
+            "location": "Turin, Italy",
+            "notes": "acceptance rate 26%"
+        },
+        {
+            "authors": "Xiaowei Xu, Qing Lu, Lin Yang, Sharon Hu, Danny Chen, Yiyu Shi",
+            "title": "Quantization of Fully Convolutional Networks for Accurate Biomedical Image Segmentation",
+            "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "year": 2018,
+            "location": "Salt Lake City, Utah",
+            "notes": "acceptance rate 29.6%"
+        },
+        {
+            "authors": "Xiaowei Xu, Tianchen Wang, Qing Lu, Yiyu Shi",
+            "title": "Resource Constrained Cellular Neural Networks for Real-time Obstacle Detection using FPGAs",
+            "venue": "International Symposium on Quality Electronic Design (ISQED)",
+            "year": 2018,
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Travis E. Schulze, Kevin Kwiat, Charles Kamhoua, Daryl Beetner, Laurent Njilla, and Yiyu Shi",
+            "title": "Combating Data Leakage Trojans in Sequential Circuits Through Randomized Encoding",
+            "venue": "IEEE International Conference on Dependable, Autonomic and Secure Computing",
+            "year": 2017
+        },
+        {
+            "authors": "Xiaowei Xu, Qing Lu, Tianchen Wang, Jinglan Liu, Cheng Zhuo, Sharon Hu, Yiyu Shi",
+            "title": "Empowering Mobile Telemedicine with Compressed Cellular Neural Networks",
+            "venue": "IEEE/ACM International Conference On Computer-Aided Design (ICCAD)",
+            "year": 2017,
+            "location": "CA",
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Jinglan Liu, Yukun Ding, Jianlei Yang, Ulf Schlichtmann, Yiyu Shi",
+            "title": "Generative adversarial network based scalable on-chip noise sensor placement",
+            "venue": "IEEE International System-on-Chip Conference",
+            "year": 2017,
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Baris Yigit, Grace Li Zhang, Bing Li, Yiyu Shi, Ulf Schlichtmann",
+            "title": "Application of machine learning methods in post-silicon yield improvement",
+            "venue": "IEEE International System-on-Chip Conference (SoCC)",
+            "year": 2017,
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Shaoheng Luo, Baixin Chen, Ke Li, Cheng Zhuo, Yiyu Shi",
+            "title": "Novel LC Resonant Clocking for 3D IC using TSV-Inductor and Capacitor",
+            "venue": "Electrical Design of Advanced Packaging and Systems Symposium (EDAPS)",
+            "year": 2017
+        },
+        {
+            "authors": "Xiaowei Xu, Dewen Zeng, Wenyao Xu, Yiyu Shi, Yu Hu",
+            "title": "An Efficient Memristor-based Distance Accelerator for Time Series Data Mining on Data Centers",
+            "venue": "Design Automation Conference (DAC)",
+            "year": 2017,
+            "location": "TX",
+            "notes": "acceptance rate 24%"
+        },
+        {
+            "authors": "Yu-Guang Chen, Michihiro Shintani, Takashi Sato, Yiyu Shi and Shih-Chieh Chang",
+            "title": "Pattern Based Runtime Voltage Emergency Prediction: An Instruction-Aware Block Sparse Compressed Sensing Approach",
+            "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
+            "year": 2017,
+            "location": "Japan",
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Kassan Unda, Chung-Han Chou, Shih-Chieh Chang, Cheng Zhuo and Yiyu Shi",
+            "title": "CN-SIM: A Cycle-Accurate Full System Power Deliver Noise Simulator",
+            "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
+            "year": 2017,
+            "location": "Japan",
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Tianchen Wang, Kangli Hao, Chun-Chen Liu and Yiyu Shi",
+            "title": "Resource Constrained Real-time Lane-Vehicle Detection for Advanced Driver Assistance on Mobile Devices",
+            "venue": "ACM SIGAPP Symposium On Applied Computing",
+            "year": 2017,
+            "location": "Morocco"
+        },
+        {
+            "authors": "Travis Schulze, Kevin Kwiat, Charles Kamhoua and Yiyu Shi",
+            "title": "RECORD: Temporarily Randomized Encoding of Combinational Logic for Resistance to Data Leakage from Hardware Trojan",
+            "venue": "IEEE Asian Hardware Oriented Security and Trust Symposium",
+            "year": 2016,
+            "location": "Taiwan"
+        },
+        {
+            "authors": "Jie Wu, Jinglan Liu, Sharon X. Hu and Yiyu Shi",
+            "title": "Privacy Protection via Appliance Scheduling in Smart Homes",
+            "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2016,
+            "location": "Austin, TX",
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Jie Wu, Ulf Schlichtmann and Yiyu Shi",
+            "title": "On the Measurement of Power Grid Robustness Under Load Uncertainties",
+            "venue": "IEEE Smatgridcomm",
+            "year": 2016,
+            "location": "Sydney, Australia"
+        },
+        {
+            "authors": "Zhuo Cheng, Kassan Unda, Yiyu Shi and Wei-Kai Shih",
+            "title": "A Novel Cross-Layer Framework for Early-Stage Power Delivery and Architecture Co-Exploration",
+            "venue": "Design Automation Conference (DAC)",
+            "year": 2016,
+            "location": "Austin, TX",
+            "highlight": "Nominated for Best Paper Award",
+            "notes": "acceptance rate 22.6%"
+        },
+        {
+            "authors": "Bingjun Xiao, Jinjun Xiong, Yiyu Shi",
+            "title": "Novel applications of deep learning hidden features for adaptive testing",
+            "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
+            "year": 2016,
+            "notes": "pp. 743–748"
+        },
+        {
+            "authors": "Jie Wu, Peter Feldmann, Jinjun Xiong and Yiyu Shi",
+            "title": "Multi-Threading Based Parallel Dynamic Simulator for Transient Behavior Analysis of Power Systems",
+            "venue": "IEEE SmartGridComm",
+            "year": 2015,
+            "location": "Miami, FL"
+        },
+        {
+            "authors": "Tao Wang, Jinglan Liu, Cheng Zhuo, and Yiyu Shi",
+            "title": "1-Bit Compressed Sensing Based Framework for Built-in Resonance Frequency Prediction Using On-Chip Noise Sensors",
+            "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2015,
+            "location": "Austin, TX",
+            "notes": "pp. 721–728"
+        },
+        {
+            "authors": "Jinglan Liu, Da-Cheng Juan, and Yiyu Shi",
+            "title": "Effective EDA Research in the Sea of Papers",
+            "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2015,
+            "location": "Austin, TX",
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Tianchen Wang, Sandeep K. Samal, Sungkyu Lim and Yiyu Shi",
+            "title": "A Novel Entropy Production Based Full-Chip TSV Fatigue Analysis",
+            "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2015,
+            "location": "Austin, TX"
+        },
+        {
+            "authors": "Yang Liu, Shiyan Hu, Jie Wu, Yiyu Shi, Yier Jin, Yu Hu and Xiaowei Li",
+            "title": "Impact Assessment of Net Metering on Smart Home Cyberattack Detection",
+            "venue": "Design Automation Conference (DAC)",
+            "year": 2015,
+            "location": "San Francisco, CA",
+            "notes": "acceptance rate 20.5%"
+        },
+        {
+            "authors": "Jie Wu, Jinjun Xiong, Prasenjit Shil and Yiyu Shi",
+            "title": "Optimal Selection of Phasor Measurement Units for Identifying Multiple Line Outages in Smart Grid",
+            "venue": "IEEE PES Conference on Innovative Smart Grid Technologies",
+            "year": 2015,
+            "location": "Washington, DC"
+        },
+        {
+            "authors": "Chang Xu, Peixin Li, Guojie Luo, Yiyu Shi and Iris Hui-Ru Jiang",
+            "title": "Analytical Clustering Score with Application to Post-Placement Multi-Bit Flip-Flop Merging",
+            "venue": "ACM International Symposium on Physical Design",
+            "year": 2015,
+            "location": "Monterey, CA",
+            "notes": "pp. 93–100"
+        },
+        {
+            "authors": "Yu-Guang Chen, Wan-Yu Wen, Tao Wang, Yiyu Shi and Shih-Chieh Chang",
+            "title": "Q-Learning Based Dynamic Voltage Scaling for Designs with Graceful Degradation",
+            "venue": "ACM International Symposium on Physical Design",
+            "year": 2015,
+            "location": "Monterey, CA",
+            "highlight": "Nominated for Best Paper Award"
+        },
+        {
+            "authors": "Yu-Wei Wu, Yiyu Shi and Tsung-Yi Ho",
+            "title": "Obstacle-Avoiding Wind Turbine Placement for Power-Loss and Wake-Effect Optimization",
+            "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
+            "year": 2015,
+            "location": "Japan",
+            "notes": "pp. 202–207"
+        },
+        {
+            "authors": "Khalid Al-Jabery, Donald C. Wunsch, Jinjun Xiong and Yiyu Shi",
+            "title": "A Novel Grid Load Management Technique Using Electric Water Heaters and Q-Learning",
+            "venue": "IEEE SmartGridComm",
+            "year": 2014,
+            "location": "Italy",
+            "notes": "pp. 776–781"
+        },
+        {
+            "authors": "Jie Wu, Jinjun Xiong, Prasenjit Shil and Yiyu Shi",
+            "title": "Real Time Anomaly Detection in Wide Area Monitoring of Smart Grids",
+            "venue": "International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2014,
+            "location": "San Jose, CA",
+            "notes": "acceptance rate 25%, invited paper"
+        },
+        {
+            "authors": "Umamaheswara Rao Tida, Varun Mittapalli, Cheng Zhuo and Yiyu Shi",
+            "title": "Opportunistic Through-Silicon-Via Inductor Utilization in Resonant Clock: Concept and Algorithms",
+            "venue": "International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2014,
+            "location": "San Jose, CA",
+            "notes": "acceptance rate 25%"
+        },
+        {
+            "authors": "Tao Wang, Chun Zhang, Jinjun Xiong, Pei-wen Luo, Liang-Chia Cheng and Yiyu Shi",
+            "title": "Variation Aware Optimal Threshold Voltage Computation for On-Chip Noise Sensors",
+            "venue": "International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2014,
+            "location": "San Jose, CA",
+            "notes": "pp. 205–212, acceptance rate 25%",
+            "highlight": "Best Paper in Track"
+        },
+        {
+            "authors": "Wenjian Yu, Chao Zhang, Qing Wang and Yiyu Shi",
+            "title": "Extraction for 3D ICs with Cylindrical Inter-Tier-Vias",
+            "venue": "International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2014,
+            "location": "San Jose, CA",
+            "notes": "pp. 702–709, acceptance rate 25%"
+        },
+        {
+            "authors": "Hsuesh-Ling Yu, Yih-Lang Li, Tzu-Yi Liao, Tianchen Wang, Yiyu Shi, and Shu-Fei Tsai",
+            "title": "Fast and Accurate Emissivity and Absolute Temperature Maps Measurement for Integrated Circuits",
+            "venue": "International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2014,
+            "location": "San Jose, CA",
+            "notes": "pp. 542–549, acceptance rate 25%"
+        },
+        {
+            "authors": "Jie Wu, Jinjun Xiong, Prasenjit Shil and Yiyu Shi",
+            "title": "Optimal PMU Placement for Identification of Multiple Power Line Outages in Smart Grids",
+            "venue": "International Midwest Symposium on Circuits and Systems",
+            "year": 2014,
+            "location": "College Station, TX",
+            "notes": "pp. 354–357, invited paper"
+        },
+        {
+            "authors": "Umamaheswara Rao Tida, Varun Mittapalli, Cheng Zhuo and Yiyu Shi",
+            "title": "\"Green\" On-chip Inductors in Three-Dimensional Integrated Circuits",
+            "venue": "IEEE Computer Society Annual Symposium on VLSI",
+            "year": 2014,
+            "location": "Tampa, FL",
+            "notes": "pp. 571–576, invited paper"
+        },
+        {
+            "authors": "Yuguang Chen, Tao Wang, Kuan-Yu Lai, Wen-Yu Wen, Yiyu Shi and Shih-Chieh Chang",
+            "title": "Critical Path Monitor Enabled Dynamic Voltage Scaling for Graceful Degradation in Sub-Threshold Designs",
+            "venue": "Design Automation Conference (DAC)",
+            "year": 2014,
+            "location": "San Francisco, CA",
+            "notes": "pp. 1–6"
+        },
+        {
+            "authors": "Jie Wu, Jinjun Xiong and Yiyu Shi",
+            "title": "Ambiguity Group Based Location Recognition of Multiple Power Line Outages in Smart Grids",
+            "venue": "IEEE PES Innovative Smart Grid Technologies Conference",
+            "year": 2014,
+            "location": "Washington, DC"
+        },
+        {
+            "authors": "Hui Geng, Luke Marecsa, Brian Cronquist, Zvi Or-Bach and Yiyu Shi",
+            "title": "Monolithic Three-Dimensional Integrated Circuits: Process and Design Implications",
+            "venue": "ECS Transactions, 225th Electrochemical Society Meeting",
+            "year": 2014,
+            "location": "Florida",
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Yiyu Shi and Hung-Ming Chen",
+            "title": "Memcomputing: the Cape of Good Hope",
+            "venue": "Design, Automation & Test in Europe (DATE)",
+            "year": 2014,
+            "location": "Germany",
+            "notes": "acceptance rate 23.1%, invited paper"
+        },
+        {
+            "authors": "Chun Zhang, Jinjun Xiong and Yiyu Shi",
+            "title": "Cycle Accurate Simulator for Memcomputing",
+            "venue": "Design, Automation & Test in Europe (DATE)",
+            "year": 2014,
+            "location": "Germany",
+            "notes": "acceptance rate 23.1%, invited paper"
+        },
+        {
+            "authors": "Yu-Guang Chen, Kuan-Yu Lai, Ming-Chao Lee, Yiyu Shi, Wing-Kai Hon and Shih-Chieh Chang",
+            "title": "Yield and Timing Constrained Spare TSV Assignment for Three-Dimensional Integrated Circuits",
+            "venue": "Design, Automation & Test in Europe (DATE)",
+            "year": 2014,
+            "location": "Germany",
+            "notes": "acceptance rate 23.1%"
+        },
+        {
+            "authors": "Hao Zhu and Yiyu Shi",
+            "title": "Phasor Measurement Unit Placement for Identifying Power Line Outages in Wide-Area Transmission System Monitoring",
+            "venue": "Hawaii International Conference on System Sciences",
+            "year": 2014,
+            "location": "Hawaii",
+            "notes": "pp. 2483–2492, acceptance rate ~50%"
+        },
+        {
+            "authors": "Umamaheswara Rao Tida, Cheng Zhuo and Yiyu Shi",
+            "title": "Through-Silicon-Via Inductor: Is it Real or Just A Fantasy?",
+            "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
+            "year": 2014,
+            "location": "Singapore",
+            "notes": "pp. 837–842, acceptance rate 31.4%"
+        },
+        {
+            "authors": "Tao Wang, Chun Zhang, Jinjun Xiong and Yiyu Shi",
+            "title": "Eagle-Eye: A Near-Optimal Statistical Framework for Noise Sensor Placement",
+            "venue": "International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2013,
+            "location": "San Jose, CA",
+            "notes": "pp. 437–443, acceptance rate 26%"
+        },
+        {
+            "authors": "Chun Zhang, Moongon Jung, Sung Kyu Lim and Yiyu Shi",
+            "title": "Novel Crack Sensor for TSV-based 3D Integrated Circuits: Design and Deployment Perspectives",
+            "venue": "International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2013,
+            "location": "San Jose, CA",
+            "notes": "pp. 371–378, acceptance rate 26%"
+        },
+        {
+            "authors": "Chung-Han Chou, Nien-Yu Tsai, Hao Yu, Yiyu Shi, Jui-Hung Chien and Shih-Chieh Chang",
+            "title": "On the Futility of Thermal Through-Silicon-Vias",
+            "venue": "International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
+            "year": 2013
+        },
+        {
+            "authors": "Chang-Cheng Tsai, Yiyu Shi, Guojie Luo and Iris Hui-Ru Jiang",
+            "title": "FF-Bond: Multi-bit Flip-Flop Bonding at Placement",
+            "venue": "International Symposium on Physical Design (ISPD)",
+            "year": 2013,
+            "notes": "pp. 147–153, acceptance rate 30%",
+            "highlight": "Nominated for Best Paper Award"
+        },
+        {
+            "authors": "Pei-Wen Luo, Chun Zhang, Yung-Tai Chang, Liang-Chia Cheng, Hung-Hsie Lee, Bih-Lan Sheu, Yu-Shih Su, Ding-Ming Kwai, and Yiyu Shi",
+            "title": "Benchmarking for Research in Power Delivery Networks of Three-Dimensional Integrated Circuits",
+            "venue": "International Symposium on Physical Design (ISPD)",
+            "year": 2013,
+            "notes": "pp. 17–24, acceptance rate 30%"
+        },
+        {
+            "authors": "Shuai Tao, Xiaoming Chen, Yu Wang, Yuchun Ma, Yiyu Shi, Hui Wang, Huazhong Yang",
+            "title": "HS3DPG: Hierarchical Simulation for 3D P/G Network",
+            "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
+            "year": 2013,
+            "notes": "pp. 509–514, acceptance rate 31%"
+        },
+        {
+            "authors": "Hui Geng, Yiyu Shi, Ming Dong and Runsheng Liu",
+            "title": "A Mater-Slave SOC Structure for HMM Based Speech Recognition",
+            "venue": "International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
+            "year": 2012,
+            "notes": "pp. 1–4"
+        },
+        {
+            "authors": "Hui Geng, Jun Wu, Minsu Choi and Yiyu Shi",
+            "title": "Randomized Computing in Cryptography: Where is the Tofu?",
+            "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2012,
+            "location": "",
+            "notes": "pp. 163–167, invited paper, acceptance rate 24%"
+        },
+        {
+            "authors": "Yu-Guang Chen, Yiyu Shi, Kuan-Yu Lai, Geng Hui and Shih-Chieh Chang",
+            "title": "Efficient Multiple-Bit Retention Register Assignment for Power Gated Design: Concept and Algorithms",
+            "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2012,
+            "location": "",
+            "notes": "pp. 309–316, acceptance rate 24%"
+        },
+        {
+            "authors": "Pei-Wen Luo, Tao Wang, Chin-Long Wey, Liang-Chia Cheng, Bih-Lan Sheu, and Yiyu Shi",
+            "title": "Reliable Power Delivery System Design for Three-Dimensional Integrated Circuits",
+            "venue": "IEEE Computer Society Annual Symposium on VLSI (ISVLSI)",
+            "year": 2012,
+            "location": "",
+            "notes": "pp. 356–361, invited paper"
+        },
+        {
+            "authors": "Zhihao Li, Chenye Wu, Jiong Chen, Yiyu Shi, Jinjun Xiong and Amy Yuexuan Wang",
+            "title": "Power Distribution Network Reconfiguration for Bounded Transient Power Loss",
+            "venue": "IEEE PES Innovative Smart Grid Technologies Asia",
+            "year": 2012,
+            "location": "",
+            "notes": "pp. 1–5"
+        },
+        {
+            "authors": "Ming-Chao Lee, Yiyu Shi, Yu-Guang Chen, Diana Marculescu and Shih-Chieh Chang",
+            "title": "Efficient On-line Module-Level Wake-Up Scheduling for High Performance Multi-Module Designs",
+            "venue": "International Symposium on Physical Design (ISPD)",
+            "year": 2012,
+            "location": "Napa Valley",
+            "notes": "pp. 97–104, acceptance rate 35.7%"
+        },
+        {
+            "authors": "Tao Wang, Pei-Wen Luo, Yu-Shih Su, Liang-Chia Cheng, Ding-Ming Kwai and Yiyu Shi",
+            "title": "Capturing the Phantom of the Power Grid - On the Runtime Adaptive Techniques for Noise Reduction",
+            "venue": "IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)",
+            "year": 2012,
+            "location": "Australia",
+            "notes": "pp. 640–645, invited paper, acceptance rate 34.4%"
+        },
+        {
+            "authors": "Chiao-Ling Lung, Jui-Hung Chien, Yiyu Shi and Shih-Chieh Chang",
+            "title": "TSV Fault-tolerant Mechanisms and an Application on 3D Clock Trees",
+            "venue": "International SOC Design Conference",
+            "year": 2011,
+            "location": "South Korea",
+            "notes": "pp. 127–130, invited paper"
+        },
+        {
+            "authors": "Siyu Yue, Jiong Chen, Yuantao Gu, Chenye Wu and Yiyu Shi",
+            "title": "Dual-Pricing Policy for Controller-Side Strategies in Demand Side Management",
+            "venue": "IEEE SmartGridComm",
+            "year": 2011,
+            "location": "Belgium",
+            "notes": "pp. 357–362, acceptance rate 40%"
+        },
+        {
+            "authors": "Yiyu Shi and Jinjun Xiong",
+            "title": "Contingency Constrained Economic Dispatch in Smart Grids with Correlated Demands",
+            "venue": "IEEE SmartGridComm",
+            "year": 2011,
+            "location": "Belgium",
+            "notes": "pp. 333–338, acceptance rate 40%"
+        },
+        {
+            "authors": "Chung-Han Chou, Nien-Yu Tsai, Hao Yu, Che-Rung Lee, Yiyu Shi and Shih-Chieh Chang",
+            "title": "On the Preconditioner of Conjugate Gradient Method - A Power Grid Simulation Perspective",
+            "venue": "International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2011,
+            "location": "San Jose",
+            "notes": "pp. 494–497, invited paper, acceptance rate 30%"
+        },
+        {
+            "authors": "Chunchun Sui, Jun Wu, Yiyu Shi, Yong-Bin Kim and Minsu Choi",
+            "title": "Random Dynamic Voltage Scaling Design to Enhance Security of NCL S-Box",
+            "venue": "International Midwest Symposium on Circuits and Systems",
+            "year": 2011,
+            "location": "Seoul, Korea"
+        },
+        {
+            "authors": "Tao Wang, Jingook Kim, Jun Fan and Yiyu Shi",
+            "title": "Compressed Sensing Based Analytical Modeling for Through-Silicon-Via Pairs",
+            "venue": "International Midwest Symposium on Circuits and Systems",
+            "year": 2011,
+            "location": "Seoul, Korea",
+            "notes": "invited paper"
+        },
+        {
+            "authors": "Tao Wang, Yiyu Shi, Songping Wu and Jun Fan",
+            "title": "Estimation of Crosstalk among Multiple Stripline Traces Crossing a Split by Compressed Sensing",
+            "venue": "EMC Symposium",
+            "year": 2011,
+            "location": "Long Beach",
+            "notes": "pp. 156–160"
+        },
+        {
+            "authors": "Hanfeng Wang, Jingook Kim, Yiyu Shi and Jun Fan",
+            "title": "The Effects of Substrate Doping Density on the Electrical Performance of Through-Silicon Vias",
+            "venue": "Asia-Pacific EMC Symposium",
+            "year": 2011,
+            "location": "Jeju Island, Korea"
+        },
+        {
+            "authors": "Chiao-Ling Lung, Yu-Shih Su, Hsih-Hsiu Huang, Yiyu Shi and Shih-Chieh Chang",
+            "title": "Fault Tolerant 3D Clock Scheme",
+            "venue": "Design Automation Conference (DAC)",
+            "year": 2011,
+            "location": "San Diego",
+            "notes": "pp. 645–651, acceptance rate 23%"
+        },
+        {
+            "authors": "Jason Cong, Guojie Luo and Yiyu Shi",
+            "title": "Thermal-aware Cell and Through-Silicon-Via Co-Placement for 3D ICs",
+            "venue": "Design Automation Conference (DAC)",
+            "year": 2011,
+            "location": "San Diego",
+            "notes": "pp. 670–675, acceptance rate 23%"
+        },
+        {
+            "authors": "Jun Wu, Yiyu Shi and Minsu Choi",
+            "title": "FPGA-based Measurement and Evaluation of Power Analysis Attack Resistant Asynchronous S-Box",
+            "venue": "International Instrumentation and Measurement Technology Conference",
+            "year": 2011,
+            "location": "Hangzhou, China"
+        },
+        {
+            "authors": "Yiyu Shi and Lei He",
+            "title": "Modeling and Design for Beyond-the-Die Power Integrity",
+            "venue": "International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2010,
+            "location": "San Jose",
+            "notes": "pp. 411–416, Tutorial, acceptance rate 30%"
+        },
+        {
+            "authors": "Bingjun Xiao, Yiyu Shi and Lei He",
+            "title": "A Universal State-of-Charge Algorithm for Batteries",
+            "venue": "Design Automation Conference (DAC)",
+            "year": 2010,
+            "location": "Anaheim",
+            "notes": "pp. 687–692, acceptance rate 22%"
+        },
+        {
+            "authors": "Fang Gong, Hao Yu, Yiyu Shi, Daesoo Kim, Junyan Ren and Lei He",
+            "title": "QuickYield: An Efficient Global-Search Based Parametric Yield Estimation with Performance Constraints",
+            "venue": "Design Automation Conference (DAC)",
+            "year": 2010,
+            "location": "Anaheim",
+            "notes": "pp. 392–397, acceptance rate 22%"
+        },
+        {
+            "authors": "Jinjun Xiong, Yiyu Shi, Vladimir Zolotov and Chandu Visweswariah",
+            "title": "Pre-ATPG Path Selection for Near Optimal Post-ATPG Process Space Coverage",
+            "venue": "International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2009,
+            "location": "San Jose",
+            "notes": "pp. 89–96, acceptance rate 26%"
+        },
+        {
+            "authors": "Wei Yao, Yiyu Shi, Lei He and Sudhakar Pamarti",
+            "title": "Joint Design-time and Post-silicon Optimization for Digitally Tuned Analog Circuits",
+            "venue": "International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2009,
+            "location": "San Jose",
+            "notes": "pp. 725–730, acceptance rate 26%"
+        },
+        {
+            "authors": "Yiyu Shi, Wei Yao, Lei He and Sudhakar Pamarti",
+            "title": "Joint Design-time and Post-silicon Optimization for Analog Circuits: A Case Study Using A High-speed Transmitter",
+            "venue": "SRC Techcon Conference",
+            "year": 2009,
+            "location": "Austin"
+        },
+        {
+            "authors": "Wei Yao, Yiyu Shi, Lei He and Sudhakar Pamarti",
+            "title": "Worst Case Timing Jitter and Amplitude Noise in Differential Signaling",
+            "venue": "SRC Techcon Conference",
+            "year": 2009,
+            "location": "Austin"
+        },
+        {
+            "authors": "Jinjun Xiong, Yiyu Shi, Vladimir Zolotov and Chandu Visweswariah",
+            "title": "Statistical Multilayer Process Space Coverage for At-Speed Test",
+            "venue": "Design Automation Conference (DAC)",
+            "year": 2009,
+            "location": "San Francisco",
+            "notes": "pp. 340–345, acceptance rate 22%",
+            "highlight": "Nominated for Best Paper Award (7/682)"
+        },
+        {
+            "authors": "Wei Yao, Yiyu Shi, Lei He and Sudhakar Pamarti",
+            "title": "Worst Case Timing Jitter and Amplitude Noise in Differential Signaling",
+            "venue": "International Symposium on Quality Electronic Design",
+            "year": 2009,
+            "location": "San Jose",
+            "notes": "pp. 40–46, acceptance rate 29%"
+        },
+        {
+            "authors": "Yiyu Shi, Wei Yao, Jinjun Xiong and Lei He",
+            "title": "Incremental and On-demand Random Walk for Iterative Power Distribution Network Analysis",
+            "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
+            "year": 2009,
+            "location": "",
+            "notes": "pp. 185–190, acceptance rate 33%"
+        },
+        {
+            "authors": "Yiyu Shi, Jinjun Xiong, Howard Chen and Lei He",
+            "title": "Clock Frequency Actuator with Efficient Stochastic Current Prediction for Runtime Resonance Noise Reduction",
+            "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
+            "year": 2009,
+            "location": "Japan",
+            "notes": "pp. 373–378, acceptance rate 33%",
+            "highlight": "Nominated for Best Paper Award (12/350)"
+        },
+        {
+            "authors": "Yiyu Shi, Lei He and C.-J. Richard Shi",
+            "title": "Scalable Symbolic Model Order Reduction",
+            "venue": "International Behavioral Modeling and Simulation Conference",
+            "year": 2008,
+            "location": "",
+            "notes": "pp. 112–117"
+        },
+        {
+            "authors": "Chunchen Liu, Junjie Su and Yiyu Shi",
+            "title": "Temperature Aware Routing Synthesis Considering Spatiotemporal Hotspot",
+            "venue": "International Conference on Computer Design",
+            "year": 2008,
+            "location": "Lake Tahoe",
+            "notes": "pp. 107–113, acceptance rate 31%",
+            "highlight": "Nominated for Best Paper Award (<6%)"
+        },
+        {
+            "authors": "Yiyu Shi, Jinjun Xiong, Chunchen Liu and Lei He",
+            "title": "Efficient Decoupling Capacitance Budgeting Considering Operation and Process Variations",
+            "venue": "International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2007,
+            "location": "San Jose",
+            "notes": "pp. 803–810, acceptance rate 27%",
+            "highlight": "Nominated for Best Paper Award (9/510)"
+        },
+        {
+            "authors": "Yiyu Shi and Lei He",
+            "title": "EMPIRE: An Efficient and Compact Multiple-Parameterized Model Order Reduction Method for Physical Optimization",
+            "venue": "SRC Techcon Conference",
+            "year": 2007,
+            "location": "Texas"
+        },
+        {
+            "authors": "Yiyu Shi and Lei He",
+            "title": "EMPIRE: An Efficient and Compact Multiple-Parameterized Model Order Reduction Method for Physical Optimization",
+            "venue": "International Symposium on Physical Design (ISPD)",
+            "year": 2007,
+            "location": "Texas",
+            "notes": "pp. 25–32, acceptance rate 34%"
+        },
+        {
+            "authors": "Hao Yu, Yiyu Shi and Lei He",
+            "title": "A First Order Block Structure Preserving Model Order Reduction with Inversed Inductance",
+            "venue": "International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2006,
+            "location": "San Jose",
+            "notes": "pp. 7–12, acceptance rate 23%"
+        },
+        {
+            "authors": "Hao Yu, Yiyu Shi, Lei He and Tanay Karnik",
+            "title": "A Hotspot-Driven Thermal Via Allocation for 3D ICs by Parameterized Sensitivity",
+            "venue": "International Symposium on Low Power Electronics and Design",
+            "year": 2006,
+            "location": "Germany",
+            "notes": "pp. 156–161, acceptance rate 35%"
+        },
+        {
+            "authors": "Hao Yu, Yiyu Shi and Lei He",
+            "title": "Fast Analysis of Structured Power Grid by Triangularization Based Structure Preserving Model Order Reduction",
+            "venue": "Design Automation Conference (DAC)",
+            "year": 2006,
+            "location": "San Francisco",
+            "notes": "pp. 205–210, acceptance rate 21%",
+            "highlight": "Nominated for Best Paper Award (10/1007)"
+        },
+        {
+            "authors": "Yiyu Shi, Paul Mesa, Hao Yu and Lei He",
+            "title": "Circuit Simulation Based Obstacle-aware Steiner Routing",
+            "venue": "Design Automation Conference (DAC)",
+            "year": 2006,
+            "location": "San Francisco",
+            "notes": "pp. 385–388, acceptance rate 21%"
+        },
+        {
+            "authors": "Yiyu Shi, Hao Yu and Lei He",
+            "title": "SAMSON: A Generalized Second-Order Arnoldi Method for Reducing Multiple Source Linear Network with Susceptance",
+            "venue": "International Symposium on Physical Design (ISPD)",
+            "year": 2006,
+            "location": "San Jose",
+            "notes": "pp. 25–32, acceptance rate 35%"
+        },
+        {
+            "authors": "Zhen Cao, Tong Jing, Yu Hu, Yiyu Shi, Xianlong Hong, Xiaodong Hu and Guiying Yan",
+            "title": "DraXRouter: Global Routing in X-Architecture with Dynamic Resource Assignment",
+            "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
+            "year": 2006,
+            "location": "Japan",
+            "notes": "pp. 618–623, acceptance rate 42%"
+        },
+        {
+            "authors": "Yiyu Shi, Tong Jing, Lei He and Zhe Feng",
+            "title": "CDCTree: Novel Obstacle-Avoiding Routing Tree Construction based on Current Driven Circuit Model",
+            "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
+            "year": 2006,
+            "location": "Japan",
+            "notes": "pp. 630–635, acceptance rate 42%"
+        }
+    ],
+    "workshop": [
+        {
+            "authors": "Xiaowei Xu, Qing Lu, Tianchen Wang, Jinglan Liu, Yu Hu, Yiyu Shi",
+            "title": "Efficient Hardware Implementation of Cellular Neural Networks with Powers-of-Two Based Incremental Quantization",
+            "venue": "Neuromorphic Computing Symposium",
+            "location": "Knoxville, Tennessee",
+            "year": 2017
+        },
+        {
+            "authors": "Zhongyang Liu, Shaoheng Luo, Xiaowei Xu, Yiyu Shi, Cheng Zhuo",
+            "title": "A Multi-Level Optimization Framework for Efficient FPGA-Based Cellular Neural Network Implementation",
+            "venue": "Neuromorphic Computing Symposium",
+            "location": "Knoxville, Tennessee",
+            "year": 2017
+        },
+        {
+            "authors": "Yu-Wei Wu, Yiyu Shi, Sudip Roy, Tsung-Yi Ho",
+            "title": "Obstacle-Avoiding Wind Turbine Placement for Power-Loss and Wake-Effect Optimization",
+            "venue": "19th Workshop on Synthesis And System Integration of Mixed Information Technologies",
+            "location": "Taiwan",
+            "year": 2015
+        },
+        {
+            "authors": "Tao Wang, Chun Zhang, Jinjun Xiong, Yiyu Shi",
+            "title": "A Near-Optimal Statistical Framework for Noise Sensor Placement",
+            "venue": "International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems",
+            "location": "Lake Tahoe",
+            "year": 2013
+        },
+        {
+            "authors": "Yu-Guang Chen, Yiyu Shi, Kuan-Yu Lai, Shih-Chieh Chang",
+            "title": "Efficient Retention Register Assignment for Power Gated Designs",
+            "venue": "International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems",
+            "location": "Taiwan",
+            "year": 2012
+        },
+        {
+            "authors": "Chung-Han Chou, Nien-Yu Tsai, Hao Yu, Jui-Hung Chien, Yiyu Shi, Shih-Chieh Chang",
+            "title": "On the Futility of Thermal Through-Silicon-Vias",
+            "venue": "International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems",
+            "location": "Taiwan",
+            "year": 2012
+        },
+        {
+            "authors": "Chung-Han Chou, Nien-Yu Tsai, Hao Yu, Che-Rung Lee, Yiyu Shi, Shih-Chieh Chang",
+            "title": "On the Preconditioner of Conjugate Gradient Method - A Power Grid Simulation Perspective",
+            "venue": "International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems",
+            "location": "Taiwan",
+            "year": 2012
+        },
+        {
+            "authors": "Ming-Chao Lee, Yiyu Shi, Yu-Guang Chen, Shih-Chieh Chang, Diana Marculescu",
+            "title": "Efficient Wake-Up Scheduling for Multi-Core Systems",
+            "venue": "International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems",
+            "location": "Santa Babara",
+            "year": 2011
+        },
+        {
+            "authors": "Chiao-Ling Lung, Yu-Shih Su, Hsih-Hsiu Huang, Yiyu Shi, Shih-Chieh Chang",
+            "title": "Fault Tolerant 3D Clock Scheme",
+            "venue": "International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems",
+            "location": "Santa Babara",
+            "year": 2011
+        },
+        {
+            "authors": "Jinjun Xiong, Yiyu Shi, Vladimir Zolotov, Chandu Visweswariah",
+            "title": "Statistical Multilayer Process Space Coverage for At-Speed Test",
+            "venue": "International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems",
+            "location": "Austin",
+            "year": 2009
+        }
+    ]
+}

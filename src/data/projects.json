@@ -1,0 +1,66 @@
+[
+    {
+        "title": "Reminiscence Therapy System",
+        "description": [
+            "Alzheimer’s disease and related dementias (ADRD) often lead to cognitive decline and increased caregiving demands, underscoring the need for supportive, engaging interventions. This project develops an intelligent agent–based Reminiscence Therapy System that leverages automatic speech recognition (ASR), large language model (LLM) reasoning, online information retrieval, and text-to-speech (TTS) technologies to enable natural, conversational interaction. A Unity-based graphical interface featuring a virtual avatar provides an intuitive and empathetic medium for communication.",
+            "The system aims to promote cognitive engagement among individuals with ADRD while alleviating the emotional and logistical burden on caregivers. By combining multimodal dialogue, personalized memory prompts, and real-time information access, the platform fosters meaningful social interaction and supports sustained mental stimulation. Ultimately, this project explores how human-centered AI and embodied interfaces can enhance quality of life and caregiving efficiency in dementia care."
+        ],
+        "image": "images/ongoing_jiahao.jpg",
+        "caption": "Figure 1. AI based interactive system for ADRD."
+
+    },
+
+    {
+        "title": "Hardware/Software Co-Exploration for Neural Architectures",
+        "description": [
+            "As the increasing number of applications (ranging from mobile and connected home to security, surveillance and automotive) that combine edge computing and machine learning, implementing neural networks on edge devices become ever more important; however, with limited hardware resources on the edge devices and the restricted timing specification, neural networks that attain state-of-the-art accuracy will not fit. We establish that in order to achieve the highest accuracy and hardware efficiency on the edge, it is best to co-explore hardware design and neural architecture (the above figure), rather than taking state-of-the-art approaches that either explore neural architecture only assuming fixed hardware, or explore hardware design only assuming fixed neural architecture. The proposed co-exploration framework opens up the hardware design freedom, which can significantly push forward the Pareto frontiers between hardware efficiency and test accuracy, and we can obtain much better design trade-offs than the existing approaches. Our contribution can be seen as an analogy to the concept of hardware-software co-design, which has prevailed due to its superior.",
+            "We aim to develop a full-stack tool to support co-exploration of neural architecture and hardware design from (1) optimization of fixed neural network on FPGAs; (2) FPGA-implementation aware NAS; (3) co-explore neural architectures on multiple FPGAs; (4) co-explore neural architecture on network-on-chip-based scalable hardware."
+        ],
+        "image": "images/ongoing_weiwen.png",
+        "caption": "Figure 2. Illustration of co-exploring neural architectures and hardware designs.",
+        "slides": "files/codesign-nas.pdf",
+        "publications": [
+            "Weiwen Jiang, Lei Yang, Edwin Sha, Qingfeng Zhuge, Shouzhen Gu, Yiyu Shi and Jingtong Hu, \"Hardware/Software Co-Exploration of Neural Architectures,\" IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (under review).",
+            "Weiwen Jiang, Xinyi Zhang, Edwin H.-M. Sha, Qingfeng Zhuge, Lei Yang, Yiyu Shi and Jingtong Hu, \"Accuracy vs. Efficiency: Achieving Both through FPGA-Implementation Aware Neural Architecture Search,\" in Proc. of IEEE/ACM Design Automation Conference, 2019 (Nominated for Best Paper Award) (acceptance rate 25%)",
+            "Weiwen Jiang, Edwin Sha, Xinyi Zhang, Lei Yang, Qingfeng Zhuge, Yiyu Shi and Jingtong Hu, \"Achieving Super-Linear Speedup across Multi-FPGA for Real-Time DNN Inference,\" IEEE/ACM International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS), New York, NY, 2019 (Nominated for Best Paper Award) (acceptance rate 29%).",
+            "Lei Yang, Weiwen Jiang, Weichen Liu, Edwin Sha, Yiyu Shi, and Jingtong Hu, “Co-Exploring Neural Architecture and Network-on-Chip Design for Real-Time Artificial Intelligence”, in Proc. of the Asia and South Pacific Design Automation Conference, ASP-DAC, 2019.",
+            "Qing Lu, Weiwen Jiang, Jingtong Hu and Yiyu Shi, \"On Neural Architecture Search for Resource-Constrained Hardware Platforms,\" in Proc. of IEEE/ACM International Conference On Computer-Aided Design, Westminster, CO, Nov. 2019. (Invited Paper)",
+            "Xinyi Zhang, Weiwen Jiang, Yiyu Shi and Jingtong Hu, \"When Neural Architecture Search Meets Hardware Implementation: from Hardware Awareness to Co-Design,\" in Proc. of IEEE Computer Society Annual Symposium on VLSI (ISVLSI), Miami, FL, Aug. 2019. (Invited Paper)"
+        ]
+    },
+    {
+        "title": "On-Device Personalized AI",
+        "description": [
+            "Artificial Intelligence and Machine Learning (AI/ML) techniques have been deployed in an increasing number of local devices at the user end for better privacy-preserving and quick response. The applications range from autonomous driving, personal health assitance, to comprehensive vital signs monitoring. In the real-world application scenarios, all these integrated advanced techniques are targeting an overarching goal: enhancing personalized experiences. This involves providing precise detection for each individual subject, as well as personalized plans and preventative actions based on the ambient environments. However, the inter- and intra-subject variability, changing system requirements as well as unstable conditions make it difficult to ensure optimal service across users. The AI/ML models need to be properly personalized for better user experiences. On the other hand, the limited hardware resources (in terms of memory capacity, computing power, energy budget, etc) of local devices greatly hinder the development of advanced AI/ML approaches on the local end.",
+            "We aim to develop a algorithm-system co-design framework to address the aforementioned challenges to support the development of personalized AI/ML on resource-constrained local-end hardware platforms. The framework ranges from 1) Optimizations on tiny deep model generalization; 2) Prior-incorported regulated deep model personalization; 3) AIGC-based self-supervised personalization; and 4) TinyML design paradigm."
+        ],
+        "image": "images/ongoing_zhenge.jpg",
+        "caption": "Figure 3. AIGC-based self-supervised personalization framework for implantable monitoring devices.",
+        "publications": [
+            "Zhenge Jia, Jianxu Chen, Xiaowei Xu, John Kheir, Jingtong Hu, Han Xiao, Sui Peng, Sharon Hu, Danny Chen, Yiyu Shi, “The Importance of Resource Awareness in Artificial Intelligence for Healthcare” in Nature Machine Intelligence (NMI), 2023.",
+            "Zhenge Jia, Dawei Li, Xiaowei Xu, Na Li, Feng Hong, Lichuan Ping, Yiyu Shi, “Life-Threatening Ventricular Arrhythmia Detection Challenge in Implantable Cardioverter Defibrillators” in Nature Machine Intelligence (NMI), 2023.",
+            "Zhenge Jia, Yiyu Shi, Jingtong Hu, “Personalized Neural Network for Patient-Specific Health Monitoring in IoT: A Meta-Learning Approach” in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022.",
+            "Zhenge Jia, Yiyu Shi, Samir Saba, Jingtong Hu, “On-Device Prior Knowledge Incorporated Learning for Personalized Atrial Fibrillation Detection” in Proc. International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES) in conjunction with (ESWEEK), Also appears as part of the ESWEEK-TECS Special Issue, ACM Transactions on Embedded Computing Systems (ACM TECS), Oct. 2021.",
+            "Zhenge Jia, Zhepeng Wang, Feng Hong, Lichuan Ping, Yiyu Shi, Jingtong Hu, “Learning to Learn Personalized Neural Network for Ventricular Arrhythmias Detection on Intracardiac EGMs” in Proc. The 30th International Joint Conference on Artificial Intelligence (IJCAI), Aug. 2021.",
+            "Zhenge Jia, Feng Hong, Lichuan Ping, Yiyu Shi, Jingtong Hu, “Enabling On-Device Model Personalization for Ventricular Arrhythmias Detection by Generative Adversarial Networks” in Proc. The 58th IEEE/ACM Design Automation Conference (DAC), July 2021.",
+            "Zhenge Jia, Zhepeng Wang, Feng Hong, Lichuan Ping, Yiyu Shi, Jingtong Hu, “Personalized Deep Learning for Ventricular Arrhythmias Detection on Medical IoT Systems” in Proc. IEEE/ACM International Conference On Computer-Aided Design (ICCAD), Nov. 2020."
+        ]
+    },
+    {
+        "title": "Unsupervised Medical Image Computing",
+        "description": [
+            "The success of deep learning heavily depends on the availability of large labeled training sets. However, it is hard to get large labeled datasets in the medical image domain because of the strict privacy concern and costly labeling efforts. Therefore, it is desirable that the DNNs can leverage the numerous unlabeled medical data to achieve higher performance with limited annotations. Contrastive learning, as a self-supervised learning (SSL) method, has shown great success in learning image-level features from large-scale unlabeled data. The main idea of contrastive learning is to contrast the similarities of sample pairs in the representation space through contrastive loss, pulling the representations of similar pairs (a.k.a. positive pairs) together and pushing the representations of dissimilar pairs (a.k.a. negative pairs) apart. After pre-training, the trained encoder can be used as the initialization to improve downstream tasks such as object detection and image segmentation.",
+            "We aim to leverage the underlying structural information in medical image for SSL and propose several techniques (e.g., contrastive image synthesis, positional contrastive learning, BYOL-TracIN, etc.) to enhance its representation learning ability in the medical image field."
+        ],
+        "image": "images/ongoing_dewen.png",
+        "caption": "Figure 4. Positional Contrastive Learning.",
+        "publications": [
+            "Xinrong Hu, Corey Wang and Yiyu Shi, \"Contrastive Image Synthesis and Self-supervised Feature Adaptation for Cross-Modality Biomedical Image Segmentation,\" International Conference on Computer Vision (ICCV) Workshop on Computer Vision for Automated Medical Diagnosis, 2023.",
+            "Xinrong Hu, Yu-Jen Chen, Tsung-Yi Ho and Yiyu Shi, \"Conditional Diffusion Models for Weakly Supervised Medical Image Segmentation,\" In Proc. of Medical Image Computing and Computer Assisted Interventions (MICCAI), 2023 (early accept, acceptance rate 14%).",
+            "Dewen Zeng, Yawen Wu, Xinrong Hu, Xiaowei Xu, Jingtong Hu and Yiyu Shi, \"Additional Positive Enables Better Representation Learning for Medical Images,\" In Proc. of Medical Image Computing and Computer Assisted Interventions (MICCAI), 2023 (early accept, acceptance rate 14%).",
+            "Dewen Zeng, Yawen Wu, Xinrong Hu, Xiaowei Xu, Haiyun Yuan, Meiping Hunag, Jian Zhuang, Jingtong Hu and Yiyu Shi, \"Positional Contrastive Learning for Volumetric Medical Image Segmentation,\" in Proc. of Medical Image Computing and Computer Assisted Interventions (MICCAI), Strasburg, France, 2021 (early accept, acceptance rate 13%)",
+            "Xinrong Hu, Dewen Zeng, Xiaowei Xu and Yiyu Shi, \"Semi-supervised Contrastive Learning for Label-efficient Medical Image Segmentation,\" in Proc. of Medical Image Computing and Computer Assisted Interventions (MICCAI), Strasburg, France, 2021 (early accept, acceptance rate 13%)",
+            "Yawen Wu, Dewen Zeng, Zhepeng Wang, Yiyu Shi and Jingtong Hu, \"Federated Contrastive Learning for Volumetric Medical Image Segmentation,\" in Proc. of Medical Image Computing and Computer Assisted Interventions (MICCAI), Strasburg, France, 2021 (early accept, acceptance rate 13%)"
+        ]
+    }
+]
