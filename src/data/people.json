@@ -15,83 +15,54 @@
         "group": "Graduate Students",
         "people": [
             {
-                "name": "Yuanbo Guo",
-                "image": "images/yuanbo.jpeg",
-                "homepage": "https://www.linkedin.com/in/yuanbo-guo-97781832a/",
-                "admission_year": "2021",
-                "research_interest": "Fairness in Healthcare"
-            },
-            {
-                "name": "Zixuan Pan",
-                "image": "images/zixuanpan.png",
-                "homepage": "https://zx-pan.github.io/",
-                "admission_year": "2022",
-                "research_interest": "Deep Learning for Medical Applications and Self-supervised Learning"
-            },
-            {
-                "name": "Yifan Qin",
-                "image": "images/yifanqin.png",
-                "homepage": "https://yifanqin-nd.github.io/",
-                "admission_year": "2022",
-                "research_interest": "Efficient and Robust AI, Software/Hardware Co-design, AI Accelerators, and Efficient LLMs"
-            },
-            {
-                "name": "Xueyang Li",
-                "image": "images/xueyangli.jpeg",
-                "homepage": "https://www.linkedin.com/in/xueyang-li-211015226/",
-                "admission_year": "2023",
-                "research_interest": "Medical Image Analysis, Agentic AI for Healthcare"
-            },
-            {
-                "name": "Gelei Xu",
-                "image": "images/geleixu.jpeg",
-                "homepage": "https://gracellgg.github.io/",
-                "admission_year": "2023",
-                "research_interest": "On-device Learning for Personalized Healthcare"
-            },
-            {
-                "name": "Jiahao (Pele) Zheng",
-                "image": "images/jiahaozheng.jpg",
-                "homepage": "https://www.linkedin.com/in/jiahao-zheng-827165222/",
-                "admission_year": "2024",
-                "research_interest": "Edge-based Large Language Models"
-            },
-            {
-                "name": "Qingyue Jiao",
-                "image": "images/qingyuejiao.jpg",
-                "homepage": "https://www.linkedin.com/in/sarahjiao/",
-                "admission_year": "2024",
-                "research_interest": "Quantum Machine Learning for Healthcare"
-            },
-            {
-                "name": "Ching-Hao Chiu",
-                "image": "images/Ching-Hao.jpg",
-                "homepage": "https://chiuhaohao.github.io/",
-                "admission_year": "2025",
-                "research_interest": "Promoting Fairness in AI Diagnostics Within the Medical Field"
-            },
-            {
-                "name": "Haoxinran (Alexander) Yu",
-                "image": "images/haoxinran.jpg",
+                "name": "Jianing Deng",
+                "image": "images/jndeng.jpg",
                 "homepage": "",
-                "admission_year": "2025",
-                "research_interest": "Large Language Models"
+                "admission_year": "2022",
+                "research_interest": ""
             },
             {
-                "name": "Naihao (Lucas) Xu",
-                "image": "images/naihaoxu.jpg",
-                "homepage": "https://www.linkedin.com/in/naihao-xu-2a772319a/",
-                "admission_year": "2025",
-                "research_interest": "Applied AI in Healthcare, Cutting-Edge Multimodal Model, and Long Video-sequencing Processing"
-            },
-            {
-                "name": "Shuqing Wu",
-                "image": "images/shuqingwu.jpg",
+                "name": "Pan Wang",
+                "image": "images/pwang.jpg",
                 "homepage": "",
-                "admission_year": "2025",
-                "research_interest": "AI for Automated Analysis"
+                "admission_year": "2023",
+                "research_interest": ""
+            },
+            {
+                "name": "Qiang Zhou",
+                "image": "images/qzhou.jpg",
+                "homepage": "",
+                "admission_year": "2023",
+                "research_interest": ""
+            },
+            {
+                "name": "Yukai Song",
+                "image": "images/yksong.jpg",
+                "homepage": "",
+                "admission_year": "2023",
+                "research_interest": ""
+            },
+            {
+                "name": "Zhimin Li",
+                "image": "images/zmli.jpg",
+                "homepage": "",
+                "admission_year": "2024",
+                "research_interest": ""
+            },
+            {
+                "name": "Jingxian Chen",
+                "image": "images/jxchen.jpg",
+                "homepage": "",
+                "admission_year": "2024",
+                "research_interest": ""
+            },
+            {
+                "name": "Aiden Seo",
+                "image": "images/aseo.jpg",
+                "homepage": "",
+                "admission_year": "2024",
+                "research_interest": ""
             }
-
         ]
     },
     {
@@ -106,132 +77,57 @@
         "group": "Alumni",
         "subgroups": [
             {
-                "title": "Postdocs",
-                "people": [
-                    {
-                        "name": "Zhenge Jia",
-                        "degree_info": "Postdoc",
-                        "first_job": "Full Professor at Shandong University"
-                    },
-                    {
-                        "name": "Yawen Wu",
-                        "degree_info": "Postdoc",
-                        "first_job": "Qualcomm"
-                    },
-                    {
-                        "name": "Weiwen Jiang",
-                        "degree_info": "Postdoc",
-                        "first_job": "Assistant Professor at George Mason University"
-                    },
-                    {
-                        "name": "Lei Yang",
-                        "degree_info": "Postdoc",
-                        "first_job": "Assistant Professor at University of New Mexico"
-                    },
-                    {
-                        "name": "Xiaowei Xu",
-                        "degree_info": "Postdoc",
-                        "first_job": "Assistant Professor at Guangdong General Hospital, China"
-                    },
-                    {
-                        "name": "Jie Wu",
-                        "degree_info": "Postdoc",
-                        "first_job": "Kneron"
-                    },
-                    {
-                        "name": "Chun Zhang",
-                        "degree_info": "Postdoc",
-                        "first_job": "Xilinx"
-                    }
-                ]
-            },
-            {
                 "title": "Ph.D.",
                 "people": [
                     {
-                        "name": "Dewen Zeng",
-                        "degree_info": "Ph.D. 2025",
-                        "first_job": "Pinterest"
-                    },
-                    {
-                        "name": "Ruiyang Qin",
-                        "degree_info": "Ph.D. 2025",
-                        "first_job": "Assistant Professor at Villanova University"
-                    },
-                    {
-                        "name": "Zheyu Yan",
+                        "name": "Yue Tang",
                         "degree_info": "Ph.D. 2024",
-                        "first_job": "Assistant Professor at Zhejiang University"
+                        "first_job": "Research Engineer at AMD"
                     },
                     {
-                        "name": "Zhiding Liang",
-                        "degree_info": "Ph.D. 2024",
-                        "first_job": "Assistant Professor at Rensselaer Polytechnic Institute"
-                    },
-                    {
-                        "name": "Xinrong Hu",
-                        "degree_info": "Ph.D. 2024",
-                        "first_job": "TikTok"
-                    },
-                    {
-                        "name": "Qing Lu",
+                        "name": "Yawen Wu",
                         "degree_info": "Ph.D. 2023",
-                        "first_job": "Meta"
+                        "first_job": "Research Engineer at Amazon"
                     },
                     {
-                        "name": "Boyang Li",
+                        "name": "Zhenge Jia",
                         "degree_info": "Ph.D. 2022",
-                        "first_job": "Meta, Current: Assistant Professor at Kean University"
+                        "first_job": "Full Professor at Shandong University, China"
                     },
                     {
-                        "name": "Yukun Ding",
-                        "degree_info": "Ph.D. 2020",
-                        "first_job": "Meta"
+                        "name": "Sebastien Ollivier",
+                        "degree_info": "Ph.D. 2022",
+                        "first_job": "System Simulation Engineer at Intel"
                     },
                     {
-                        "name": "Jinglan Liu",
-                        "degree_info": "Ph.D. 2020",
-                        "first_job": "Google"
+                        "name": "Xinyi Zhang",
+                        "degree_info": "Ph.D. 2022",
+                        "first_job": "Research Engineer at Meta (Facebook)"
                     },
                     {
-                        "name": "Tianchen Wang",
-                        "degree_info": "Ph.D. 2020",
-                        "first_job": "Research Scientist at Norfolk Southern Railway"
-                    },
-                    {
-                        "name": "Umamaheswara Rao Tida",
+                        "name": "Chen Pan",
                         "degree_info": "Ph.D. 2019",
-                        "first_job": "Assistant Professor at North Dakota State University"
+                        "first_job": "Tenure-Track Assistant Professor at University of Texas at San Antonio (UTSA)"
                     },
                     {
-                        "name": "Tao Wang",
+                        "name": "Mimi Xie",
+                        "degree_info": "Ph.D. 2019",
+                        "first_job": "Tenure-Track Assistant Professor at University of Texas at San Antonio (UTSA)"
+                    },
+                    {
+                        "name": "Lei Yang",
+                        "degree_info": "Ph.D. 2019",
+                        "first_job": "Assistant Professor at George Mason University"
+                    },
+                    {
+                        "name": "Weiwen Jiang",
+                        "degree_info": "Ph.D. 2019",
+                        "first_job": "Tenure-Track Assistant Professor at George Mason University (GMU)"
+                    },
+                    {
+                        "name": "Shouzhen Gu",
                         "degree_info": "Ph.D. 2015",
-                        "first_job": "Cadence Design Systems"
-                    },
-                    {
-                        "name": "Hui Geng",
-                        "degree_info": "Ph.D. 2015",
-                        "first_job": "Broadcom Corporation"
-                    }
-                ]
-            },
-            {
-                "title": "Visiting Scholars",
-                "people": [
-                    {
-                        "name": "Xuan Wang",
-                        "degree_info": "Shanghai Jiao Tong University",
-                        "first_job": "Synopsys, China"
-                    },
-                    {
-                        "name": "Chung-Han Chou",
-                        "degree_info": "Visiting Scholar",
-                        "first_job": "Assistant Professor at Feng Chia University, Taiwan"
-                    },
-                    {
-                        "name": "Chenye Wu",
-                        "degree_info": "Visiting Scholar",
-                        "first_job": "Assistant Professor at Tsinghua University, China"
+                        "first_job": "Associate Professor at Eastern China Normal University (ECNU)"
                     }
                 ]
             },
@@ -239,39 +135,39 @@
                 "title": "M.S.",
                 "people": [
                     {
-                        "name": "Zhuorui Zhao",
+                        "name": "Rui Tu",
+                        "degree_info": "M.S. 2025",
+                        "first_job": ""
+                    },
+                    {
+                        "name": "Brian Randall",
+                        "degree_info": "M.S. 2023",
+                        "first_job": "General Technical Services, LLC"
+                    },
+                    {
+                        "name": "Zhepeng Wang",
                         "degree_info": "M.S. 2021",
-                        "first_job": ""
+                        "first_job": "Amazon"
                     },
                     {
-                        "name": "Kassan Unda",
+                        "name": "Stephen Longofono",
                         "degree_info": "M.S. 2021",
-                        "first_job": "Intel"
+                        "first_job": "Blue Origin"
                     },
                     {
-                        "name": "Shengsheng Yuan",
-                        "degree_info": "M.S. 2019",
-                        "first_job": ""
+                        "name": "Anudeep Hegde",
+                        "degree_info": "M.S. 2016",
+                        "first_job": "Software Development Engineer at Pacific Life"
                     },
                     {
-                        "name": "Haiqiao Zhang",
-                        "degree_info": "M.S. 2019",
-                        "first_job": ""
+                        "name": "Cherwa Vang",
+                        "degree_info": "M.S. 2016",
+                        "first_job": "National Instruments"
                     },
                     {
-                        "name": "Qifeng Chen",
-                        "degree_info": "M.S. 2014",
-                        "first_job": "Xilinx"
-                    },
-                    {
-                        "name": "Rongbo Yang",
-                        "degree_info": "M.S. 2013",
-                        "first_job": "Nexus"
-                    },
-                    {
-                        "name": "Luke Maresca",
-                        "degree_info": "M.S. 2012",
-                        "first_job": "DCMA"
+                        "name": "Soroush Heidari",
+                        "degree_info": "M.S. 2016",
+                        "first_job": "Ph.D. at Arizona State University"
                     }
                 ]
             }
