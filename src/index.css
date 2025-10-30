@@ -6,10 +6,14 @@
   font-style: normal;
 }
 
-.nd-blue {
-  color: #0c2340;
+.pitt-blue {
+  color: #003594;
 }
 
-.nd-gold {
-  color: #ae9142;
+.pitt-bg-blue {
+  background-color: #003594;
+}
+
+.pitt-gold {
+  color: #ffb81c;
 }

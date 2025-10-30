@@ -16,28 +16,20 @@ const MenuBar: React.FC = () => {
     ];
 
     return (
-        <nav className="bg-white border-b border-gray-200 shadow-sm sticky top-0 z-50">
+    <nav className="pitt-bg-blue border-b border-gray-200 shadow-sm sticky top-0 z-50">
             <div className="max-w-5xl mx-auto px-4 flex items-center justify-between h-18">
                 {/* Left: Home logo and title */}
-				<Link to="/" className="bitcount-single mr-8 text-2xl leading-tight">
-				  <span className="block">
-				    <span className="inline-flex items-baseline gap-2 whitespace-nowrap">
-				      <span className="nd-blue">
-				        <span className="font-bold underline">N</span>eural
-				      </span>
-				      <span className="nd-gold">
-				        <span className="font-bold underline">E</span>mbedded
-				      </span>
-				    </span>
-				  </span>
-				  <span className="block">
-				    <span className="inline-flex gap-2 whitespace-nowrap">
-				      <span><span className="font-bold underline">X</span>&#8209;Disciplinary</span>
-				      <span className="nd-gold"><span className="font-bold underline">U</span>nified</span>
-				      <span className="nd-blue"><span className="font-bold underline">S</span>ystems</span>
-				    </span>
-				  </span>
-				</Link>
+                <Link to="/" className="flex items-center gap-3">
+                    <img src="/images/pitt_shield_white-home.png" alt="Pitt Shield" className="h-10" />
+                    <div className="bitcount-single text-2xl leading-tight md:text-3xl text-white whitespace-nowrap">
+                        N
+                        <span className="pitt-gold">E</span>
+                        X
+                        <span className="pitt-gold">U</span>
+                        S
+                        <span className="ml-2">Lab</span>
+                    </div>
+                </Link>
                 {/* Center/Right: Main navigation links and GitHub icon */}
                 <div className="hidden lg:flex items-center space-x-4 flex-1 justify-end">
                     {/* Render navigation links */}
@@ -45,27 +37,17 @@ const MenuBar: React.FC = () => {
                         <Link
                             key={idx}
                             to={link.to}
-                            className="px-3 py-2 rounded hover:bg-gray-100 font-medium text-lg"
+                            className="px-3 py-2 rounded hover:bg-blue-900 font-medium text-lg text-white"
                         >
                             {link.label}
                         </Link>
                     ))}
-                    {/* GitHub icon as the last nav item */}
-                    <a
-                        href="https://github.com/NEXUS-Pitt"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="flex items-center ml-2 hover:opacity-80"
-                        aria-label="GitHub"
-                    >
-                        <img src="github.svg" alt="GitHub Logo" height={28} width={28} />
-                    </a>
                 </div>
                 {/* Hamburger menu for mobile and tablet */}
                 <div className="lg:hidden">
                     <button
                         onClick={() => setMenuOpen(!menuOpen)}
-                        className="text-gray-700 focus:outline-none cursor-pointer"
+                        className="text-white focus:outline-none cursor-pointer"
                         aria-label="Toggle menu"
                     >
                         <svg className="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -80,30 +62,18 @@ const MenuBar: React.FC = () => {
                 </div>
             </div>
             {menuOpen && (
-                <div className="lg:hidden bg-white border-t border-gray-200">
+                <div className="lg:hidden pitt-bg-blue border-t border-gray-200">
                     {/* Render navigation links in drawer */}
                     {navLinks.map((link, idx) => (
                         <Link
                             key={idx}
                             to={link.to}
-                            className="block px-4 py-2 hover:bg-gray-100 font-medium text-lg"
+                            className="block px-4 py-2 hover:bg-blue-900 font-medium text-lg text-white"
                             onClick={() => setMenuOpen(false)}
                         >
                             {link.label}
                         </Link>
                     ))}
-                    {/* GitHub icon in drawer menu */}
-                    <a
-                        href="https://github.com/NEXUS-Pitt"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="block px-4 py-2 hover:bg-gray-100 font-medium text-lg flex items-center"
-                        aria-label="GitHub"
-                        onClick={() => setMenuOpen(false)}
-                    >
-                        <img src="github.svg" alt="GitHub Logo" height={20} width={20} className="mr-2" />
-                        GitHub
-                    </a>
                 </div>
             )}
         </nav>
