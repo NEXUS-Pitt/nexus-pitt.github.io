@@ -19,49 +19,49 @@
                 "image": "images/jndeng.jpg",
                 "homepage": "",
                 "admission_year": "2022",
-                "research_interest": ""
+                "research_interest": "Efficient AI; Computer Vision/Graphics; LLMs"
             },
             {
                 "name": "Pan Wang",
                 "image": "images/pwang.jpg",
                 "homepage": "",
                 "admission_year": "2023",
-                "research_interest": ""
+                "research_interest": "Multimodal Learning"
             },
             {
                 "name": "Qiang Zhou",
-                "image": "images/qzhou.jpg",
+                "image": "images/qzhou.png",
                 "homepage": "",
                 "admission_year": "2023",
-                "research_interest": ""
+                "research_interest": "Multi-agent System; RL"
             },
             {
                 "name": "Yukai Song",
                 "image": "images/yksong.jpg",
                 "homepage": "",
                 "admission_year": "2023",
-                "research_interest": ""
+                "research_interest": "LLMs in Psychology; Safe and Trustworthy AI"
             },
             {
                 "name": "Zhimin Li",
                 "image": "images/zmli.jpg",
                 "homepage": "",
                 "admission_year": "2024",
-                "research_interest": ""
+                "research_interest": "Medical Imaging; Fairness"
             },
             {
                 "name": "Jingxian Chen",
                 "image": "images/jxchen.jpg",
                 "homepage": "",
                 "admission_year": "2024",
-                "research_interest": ""
+                "research_interest": "Autonomous Vehicles; Efficient AI; Safety & Reliability"
             },
             {
                 "name": "Aiden Seo",
-                "image": "images/aseo.jpg",
+                "image": "images/aseo.png",
                 "homepage": "",
                 "admission_year": "2024",
-                "research_interest": ""
+                "research_interest": "Computer Vision, LLM,  Efficient AI"
             }
         ]
     },
