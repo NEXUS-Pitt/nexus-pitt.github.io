@@ -810,733 +810,855 @@
       {
       "authors": "Pan Wang, Qiang Zhou, Yawen Wu, Tianlong Chen, Jingtong Hu",
       "title": "DLF: Disentangled-Language-Focused Multimodal Sentiment Analysis",
-      "venue": "AAAI-25, Sponsored by the Association for the Advancement of Artificial Intelligence, February 25 - March 4, 2025, Philadelphia, PA, USA",
+      "venue": "AAAI-25, Sponsored by the Association for the Advancement of Artificial Intelligence",
+      "location": "Philadelphia, PA, USA",
       "year": 2025
       },
       {
       "authors": "Yancheng Zhang, Mengxin Zheng, Xun Chen, Jingtong Hu, Weidong Shi, Lei Ju, Yan Solihin, Qian Lou",
       "title": "zkVC: Fast Zero-Knowledge Proof for Private and Verifiable Computing",
-      "venue": "62nd ACM/IEEE Design Automation Conference, DAC 2025, San Francisco, CA, USA, June 22-25, 2025",
+      "venue": "62nd ACM/IEEE Design Automation Conference, DAC",
+      "location": "San Francisco, CA, USA",
       "year": 2025
       },
       {
       "authors": "Shixin Ji, Xingzhen Chen, Wei Zhang, Zhuoping Yang, Jinming Zhuang, Sarah Schultz, Yukai Song, Jingtong Hu, Alex K. Jones, Zheng Dong, Peipei Zhou",
       "title": "Towards Accelerator Customization in Real-time Safety-critical Systems",
-      "venue": "Proceedings of the 2025 ACM/SIGDA International Symposium on Field Programmable Gate Arrays, FPGA 2025, Monterey, CA, USA, 27 February 2025 - 1 March 2025",
+      "venue": "Proceedings of the 2025 ACM/SIGDA International Symposium on Field Programmable Gate Arrays, FPGA",
+      "location": "Monterey, CA, USA",
       "year": 2025
       },
       {
       "authors": "Shixin Ji, Xingzhen Chen, Jinming Zhuang, Wei Zhang, Zhuoping Yang, Sarah Schultz, Yukai Song, Jingtong Hu, Alex K. Jones, Zheng Dong, Peipei Zhou",
       "title": "ART: Customizing Accelerators for DNN-Enabled Real-Time Safety-Critical Systems",
-      "venue": "Proceedings of the Great Lakes Symposium on VLSI 2025, GLSVLSI 2025, New Orleans, LA, USA, 30 June 2025 - 2 July 2025",
+      "venue": "Proceedings of the Great Lakes Symposium on VLSI 2025, GLSVLSI",
+      "location": "New Orleans, LA, USA",
       "year": 2025
       },
       {
       "authors": "Gelei Xu, Yawen Wu, Zhenge Jia, Jingtong Hu, Yiyu Shi",
       "title": "Fair Dermatological Disease Diagnosis Through Auto-weighted Federated Learning and Performance-Aware Personalization",
-      "venue": "Fairness of AI in Medical Imaging - Third International Workshop, FAIMI 2025, Held in Conjunction with MICCAI 2025, Daejeon, South Korea, September 23, 2025, Proceedings",
+      "venue": "Fairness of AI in Medical Imaging - Third International Workshop, FAIMI 2025, Held in Conjunction with MICCAI, Proceedings",
+      "location": "Daejeon, South Korea",
       "year": 2025
       },
       {
       "authors": "Xiao Dong, Songyu Sun, Yangfan Jiang, Jingtong Hu, Dawei Gao, Cheng Zhuo",
       "title": "SPIRAL: Signal-Power Integrity Co-Analysis for High-Speed Inter-Chiplet Serial Links Validation",
-      "venue": "Proceedings of the 29th Asia and South Pacific Design Automation Conference, ASPDAC 2024, Incheon, Korea, January 22-25, 2024",
+      "venue": "Proceedings of the 29th Asia and South Pacific Design Automation Conference, ASPDAC",
+      "location": "Incheon, Korea",
       "year": 2024
       },
       {
       "authors": "Ruiyang Qin, Jun Xia, Zhenge Jia, Meng Jiang, Ahmed Abbasi, Peipei Zhou, Jingtong Hu, Yiyu Shi",
       "title": "Enabling On-Device Large Language Model Personalization with Self-Supervised Data Selection and Synthesis",
-      "venue": "Proceedings of the 61st ACM/IEEE Design Automation Conference, DAC 2024, San Francisco, CA, USA, June 23-27, 2024",
+      "venue": "Proceedings of the 61st ACM/IEEE Design Automation Conference, DAC",
+      "location": "San Francisco, CA, USA",
       "year": 2024
       },
       {
       "authors": "Jinming Zhuang, Zhuoping Yang, Shixin Ji, Heng Huang, Alex K. Jones, Jingtong Hu, Yiyu Shi, Peipei Zhou",
       "title": "SSR: Spatial Sequential Hybrid Architecture for Latency Throughput Tradeoff in Transformer Acceleration",
-      "venue": "Proceedings of the 2024 ACM/SIGDA International Symposium on Field Programmable Gate Arrays, FPGA 2024, Monterey, CA, USA, March 3-5, 2024",
+      "venue": "Proceedings of the 2024 ACM/SIGDA International Symposium on Field Programmable Gate Arrays, FPGA",
+      "location": "Monterey, CA, USA",
       "year": 2024
       },
       {
       "authors": "Shengjie Xu, Clara Hobbs, Yukai Song, Bineet Ghosh, Tingan Zhu, Sharmin Aktar, Lei Yang, Yi Sheng, Weiwen Jiang, Jingtong Hu, Parasara Sridhar Duggirala, Samarjit Chakraborty",
       "title": "GPU Partitioning & Neural Architecture Sizing for Safety-Driven Sensing in Autonomous Systems",
-      "venue": "International Conference on Assured Autonomy, ICAA 2024, Nashville, TN, USA, October 10-11, 2024",
+      "venue": "International Conference on Assured Autonomy, ICAA",
+      "location": "Nashville, TN, USA",
       "year": 2024
       },
       {
       "authors": "Shengjie Xu, Clara Hobbs, Yukai Song, Bineet Ghosh, Sharmin Aktar, Lei Yang, Yi Sheng, Weiwen Jiang, Jingtong Hu, Parasara Sridhar Duggirala, Samarjit Chakraborty",
       "title": "Poster Abstract: Neural Architecture Sizing for Autonomous Systems",
-      "venue": "15th ACM/IEEE International Conference on Cyber-Physical Systems, ICCPS 2024, Hong Kong, May 13-16, 2024",
+      "venue": "15th ACM/IEEE International Conference on Cyber-Physical Systems, ICCPS",
+      "location": "Hong Kong",
       "year": 2024
       },
       {
       "authors": "Shixin Ji, Zhuoping Yang, Xingzhen Chen, Stephen Cahoon, Jingtong Hu, Yiyu Shi, Alex K. Jones, Peipei Zhou",
       "title": "SCARIF: Towards Carbon Modeling of Cloud Servers with Accelerators",
-      "venue": "IEEE Computer Society Annual Symposium on VLSI, ISVLSI 2024, Knoxville, TN, USA, July 1-3, 2024",
+      "venue": "IEEE Computer Society Annual Symposium on VLSI, ISVLSI",
+      "location": "Knoxville, TN, USA",
       "year": 2024
       },
       {
       "authors": "Qingpeng Kong, Ching-Hao Chiu, Dewen Zeng, Yu-Jen Chen, Tsung-Yi Ho, Jingtong Hu, Yiyu Shi",
       "title": "Achieving Fairness Through Channel Pruning for Dermatological Disease Diagnosis",
-      "venue": "Medical Image Computing and Computer Assisted Intervention - MICCAI 2024 - 27th International Conference, Marrakesh, Morocco, October 6-10, 2024, Proceedings, Part X",
+      "venue": "Medical Image Computing and Computer Assisted Intervention - MICCAI 2024 - 27th International Conference, Proceedings",
+      "location": "Marrakesh, Morocco",
       "year": 2024
       },
       {
       "authors": "Yi Sheng, Junhuan Yang, Jinyang Li, James Alaina, Xiaowei Xu, Yiyu Shi, Jingtong Hu, Weiwen Jiang, Lei Yang",
       "title": "Data-Algorithm-Architecture Co-Optimization for Fair Neural Networks on Skin Lesion Dataset",
-      "venue": "Medical Image Computing and Computer Assisted Intervention - MICCAI 2024 - 27th International Conference, Marrakesh, Morocco, October 6-10, 2024, Proceedings, Part X",
+      "venue": "Medical Image Computing and Computer Assisted Intervention - MICCAI 2024 - 27th International Conference, Proceedings",
+      "location": "Marrakesh, Morocco",
       "year": 2024
       },
       {
       "authors": "Yuanbo Guo, Zhenge Jia, Jingtong Hu, Yiyu Shi",
       "title": "FairQuantize: Achieving Fairness Through Weight Quantization for Dermatological Disease Diagnosis",
-      "venue": "Medical Image Computing and Computer Assisted Intervention - MICCAI 2024 - 27th International Conference, Marrakesh, Morocco, October 6-10, 2024, Proceedings, Part X",
+      "venue": "Medical Image Computing and Computer Assisted Intervention - MICCAI 2024 - 27th International Conference, Proceedings",
+      "location": "Marrakesh, Morocco",
       "year": 2024
       },
       {
       "authors": "Yawen Wu, Zhepeng Wang, Dewen Zeng, Yiyu Shi, Jingtong Hu",
       "title": "Synthetic Data Can Also Teach: Synthesizing Effective Data for Unsupervised Visual Representation Learning",
-      "venue": "Thirty-Seventh AAAI Conference on Artificial Intelligence, AAAI 2023, Thirty-Fifth Conference on Innovative Applications of Artificial Intelligence, IAAI 2023, Thirteenth Symposium on Educational Advances in Artificial Intelligence, EAAI 2023, Washington, DC, USA, February 7-14, 2023",
+      "venue": "Thirty-Seventh AAAI Conference on Artificial Intelligence, AAAI 2023, Thirty-Fifth Conference on Innovative Applications of Artificial Intelligence, IAAI 2023, Thirteenth Symposium on Educational Advances in Artificial Intelligence, EAAI",
+      "location": "Washington, DC, USA",
       "year": 2023
       },
       {
       "authors": "Qing Lu, Weiwen Jiang, Xiaowei Xu, Jingtong Hu, Yiyu Shi",
       "title": "Quantization through Search: A Novel Scheme to Quantize Convolutional Neural Networks in Finite Weight Space",
-      "venue": "Proceedings of the 28th Asia and South Pacific Design Automation Conference, ASPDAC 2023, Tokyo, Japan, January 16-19, 2023",
+      "venue": "Proceedings of the 28th Asia and South Pacific Design Automation Conference, ASPDAC",
+      "location": "Tokyo, Japan",
       "year": 2023
       },
       {
       "authors": "Yi Sheng, Junhuan Yang, Lei Yang, Yiyu Shi, Jingtong Hu, Weiwen Jiang",
       "title": "Muffin: A Framework Toward Multi-Dimension AI Fairness by Uniting Off-the-Shelf Models",
-      "venue": "60th ACM/IEEE Design Automation Conference, DAC 2023, San Francisco, CA, USA, July 9-13, 2023",
+      "venue": "60th ACM/IEEE Design Automation Conference, DAC",
+      "location": "San Francisco, CA, USA",
       "year": 2023
       },
       {
       "authors": "Jinming Zhuang, Jason Lau, Hanchen Ye, Zhuoping Yang, Yubo Du, Jack Lo, Kristof Denolf, Stephen Neuendorffer, Alex K. Jones, Jingtong Hu, Deming Chen, Jason Cong, Peipei Zhou",
       "title": "CHARM: Composing Heterogeneous AcceleRators for Matrix Multiply on Versal ACAP Architecture",
-      "venue": "Proceedings of the 2023 ACM/SIGDA International Symposium on Field Programmable Gate Arrays, FPGA 2023, Monterey, CA, USA, February 12-14, 2023",
+      "venue": "Proceedings of the 2023 ACM/SIGDA International Symposium on Field Programmable Gate Arrays, FPGA",
+      "location": "Monterey, CA, USA",
       "year": 2023
       },
       {
       "authors": "Peipei Zhou, Jinming Zhuang, Stephen Cahoon, Yue Tang, Zhuoping Yang, Xingzhen Chen, Yiyu Shi, Jingtong Hu, Alex K. Jones",
       "title": "REFRESH FPGAs: Sustainable FPGA Chiplet Architectures",
-      "venue": "Proceedings of the 14th International Green and Sustainable Computing Conference, IGSC 2023, Toronto, ON, Canada, October 28-29, 2023",
+      "venue": "Proceedings of the 14th International Green and Sustainable Computing Conference, IGSC",
+      "location": "Toronto, ON, Canada",
       "year": 2023
       },
       {
       "authors": "Dewen Zeng, Yawen Wu, Xinrong Hu, Xiaowei Xu, Jingtong Hu, Yiyu Shi",
       "title": "Additional Positive Enables Better Representation Learning for Medical Images",
-      "venue": "Medical Image Computing and Computer Assisted Intervention - MICCAI 2023 - 26th International Conference, Vancouver, BC, Canada, October 8-12, 2023, Proceedings, Part I",
+      "venue": "Medical Image Computing and Computer Assisted Intervention - MICCAI 2023 - 26th International Conference, Proceedings",
+      "location": "Vancouver, BC, Canada",
       "year": 2023
       },
       {
       "authors": "Qing Lu, Zhenge Jia, Jingtong Hu, Yiyu Shi",
       "title": "ICD-BAS: Detecting Ventricular Arrhythmia using Binary Architecture Search for Implantable Cardioverter Defibrillators",
-      "venue": "IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies, CHASE 2022, Arlington, VA, USA, November 17-19, 2022",
+      "venue": "IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies, CHASE",
+      "location": "Arlington, VA, USA",
       "year": 2022
       },
       {
       "authors": "Yi Sheng, Junhuan Yang, Yawen Wu, Kevin Mao, Yiyu Shi, Jingtong Hu, Weiwen Jiang, Lei Yang",
       "title": "The larger the fairer?: small neural networks can achieve fairness for edge devices",
-      "venue": "DAC '22: 59th ACM/IEEE Design Automation Conference, San Francisco, California, USA, July 10 - 14, 2022",
+      "venue": "DAC '22: 59th ACM/IEEE Design Automation Conference",
+      "location": "San Francisco, California, USA",
       "year": 2022
       },
       {
       "authors": "Xinyi Zhang, Cong Hao, Peipei Zhou, Alex K. Jones, Jingtong Hu",
       "title": "H2H: heterogeneous model to heterogeneous system mapping with computation and communication awareness",
-      "venue": "DAC '22: 59th ACM/IEEE Design Automation Conference, San Francisco, California, USA, July 10 - 14, 2022",
+      "venue": "DAC '22: 59th ACM/IEEE Design Automation Conference",
+      "location": "San Francisco, California, USA",
       "year": 2022
       },
       {
       "authors": "Kacper Wardega, Wenchao Li, Hyoseung Kim, Yawen Wu, Zhenge Jia, Jingtong Hu",
       "title": "Opportunistic Communication with Latency Guarantees for Intermittently-Powered Devices",
-      "venue": "2022 Design, Automation & Test in Europe Conference & Exhibition, DATE 2022, Antwerp, Belgium, March 14-23, 2022",
+      "venue": "2022 Design, Automation & Test in Europe Conference & Exhibition, DATE",
+      "location": "Antwerp, Belgium",
       "year": 2022
       },
       {
       "authors": "Jingtong Hu",
       "title": "Session details: Session 3B: VLSI for Machine Learning and Artifical Intelligence 1",
-      "venue": "GLSVLSI '22: Great Lakes Symposium on VLSI 2022, Irvine CA USA, June 6 - 8, 2022",
+      "venue": "GLSVLSI '22: Great Lakes Symposium on VLSI",
+      "location": "Irvine CA USA",
       "year": 2022
       },
       {
       "authors": "Jingtong Hu",
       "title": "Session details: Session 4B: VLSI for Machine Learning and Artifical Intelligence 2",
-      "venue": "GLSVLSI '22: Great Lakes Symposium on VLSI 2022, Irvine CA USA, June 6 - 8, 2022",
+      "venue": "GLSVLSI '22: Great Lakes Symposium on VLSI",
+      "location": "Irvine CA USA",
       "year": 2022
       },
       {
       "authors": "Yawen Wu, Zhepeng Wang, Dewen Zeng, Meng Li, Yiyu Shi, Jingtong Hu",
       "title": "Decentralized Unsupervised Learning of Visual Representations",
-      "venue": "Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence, IJCAI 2022, Vienna, Austria, 23-29 July 2022",
+      "venue": "Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence, IJCAI",
+      "location": "Vienna, Austria",
       "year": 2022
       },
       {
       "authors": "Yawen Wu, Jingtong Hu",
       "title": "Towards Independent On-device Artificial Intelligence",
-      "venue": "IEEE Computer Society Annual Symposium on VLSI, ISVLSI 2022, Nicosia, Cyprus, July 4-6, 2022",
+      "venue": "IEEE Computer Society Annual Symposium on VLSI, ISVLSI",
+      "location": "Nicosia, Cyprus",
       "year": 2022
       },
       {
       "authors": "Qing Lu, Weiwen Jiang, Meng Jiang, Jingtong Hu, Yiyu Shi",
       "title": "Hardware/Software Co-Exploration for Graph Neural Architectures on FPGAs",
-      "venue": "IEEE Computer Society Annual Symposium on VLSI, ISVLSI 2022, Nicosia, Cyprus, July 4-6, 2022",
+      "venue": "IEEE Computer Society Annual Symposium on VLSI, ISVLSI",
+      "location": "Nicosia, Cyprus",
       "year": 2022
       },
       {
       "authors": "Yawen Wu, Dewen Zeng, Xiaowei Xu, Yiyu Shi, Jingtong Hu",
       "title": "FairPrune: Achieving Fairness Through Pruning for Dermatological Disease Diagnosis",
-      "venue": "Medical Image Computing and Computer Assisted Intervention - MICCAI 2022 - 25th International Conference, Singapore, September 18-22, 2022, Proceedings, Part I",
+      "venue": "Medical Image Computing and Computer Assisted Intervention - MICCAI 2022 - 25th International Conference, Proceedings",
+      "location": "Singapore",
       "year": 2022
       },
       {
       "authors": "Sébastien Ollivier, Stephen Longofono, Prayash Dutta, Jingtong Hu, Sanjukta Bhanja, Alex K. Jones",
       "title": "CORUSCANT: Fast Efficient Processing-in-Racetrack Memories",
-      "venue": "55th IEEE/ACM International Symposium on Microarchitecture, MICRO 2022, Chicago, IL, USA, October 1-5, 2022",
+      "venue": "55th IEEE/ACM International Symposium on Microarchitecture, MICRO",
+      "location": "Chicago, IL, USA",
       "year": 2022
       },
       {
       "authors": "Zhepeng Wang, Yawen Wu, Zhenge Jia, Yiyu Shi, Jingtong Hu",
       "title": "Lightweight Run-Time Working Memory Compression for Deployment of Deep Neural Networks on Resource-Constrained MCUs",
-      "venue": "ASPDAC '21: 26th Asia and South Pacific Design Automation Conference, Tokyo, Japan, January 18-21, 2021",
+      "venue": "ASPDAC '21: 26th Asia and South Pacific Design Automation Conference",
+      "location": "Tokyo, Japan",
       "year": 2021
       },
       {
       "authors": "Zhenge Jia, Feng Hong, Lichuan Ping, Yiyu Shi, Jingtong Hu",
       "title": "Enabling On-Device Model Personalization for Ventricular Arrhythmias Detection by Generative Adversarial Networks",
-      "venue": "58th ACM/IEEE Design Automation Conference, DAC 2021, San Francisco, CA, USA, December 5-9, 2021",
+      "venue": "58th ACM/IEEE Design Automation Conference, DAC",
+      "location": "San Francisco, CA, USA",
       "year": 2021
       },
       {
       "authors": "Yawen Wu, Zhepeng Wang, Dewen Zeng, Yiyu Shi, Jingtong Hu",
       "title": "Enabling On-Device Self-Supervised Contrastive Learning with Selective Data Contrast",
-      "venue": "58th ACM/IEEE Design Automation Conference, DAC 2021, San Francisco, CA, USA, December 5-9, 2021",
+      "venue": "58th ACM/IEEE Design Automation Conference, DAC",
+      "location": "San Francisco, CA, USA",
       "year": 2021
       },
       {
       "authors": "Dewen Zeng, Yukun Ding, Haiyun Yuan, Meiping Huang, Xiaowei Xu, Jian Zhuang, Jingtong Hu, Yiyu Shi",
       "title": "Invited: Hardware-aware Real-time Myocardial Segmentation Quality Control in Contrast Echocardiography",
-      "venue": "58th ACM/IEEE Design Automation Conference, DAC 2021, San Francisco, CA, USA, December 5-9, 2021",
+      "venue": "58th ACM/IEEE Design Automation Conference, DAC",
+      "location": "San Francisco, CA, USA",
       "year": 2021
       },
       {
       "authors": "Yawen Wu, Dewen Zeng, Zhepeng Wang, Yi Sheng, Lei Yang, Alaina J. James, Yiyu Shi, Jingtong Hu",
       "title": "Federated Contrastive Learning for Dermatological Disease Diagnosis via On-device Learning (Invited Paper)",
-      "venue": "IEEE/ACM International Conference On Computer Aided Design, ICCAD 2021, Munich, Germany, November 1-4, 2021",
+      "venue": "IEEE/ACM International Conference On Computer Aided Design, ICCAD",
+      "location": "Munich, Germany",
       "year": 2021
       },
       {
       "authors": "Zhenge Jia, Zhepeng Wang, Feng Hong, Lichuan Ping, Yiyu Shi, Jingtong Hu",
       "title": "Learning to Learn Personalized Neural Network for Ventricular Arrhythmias Detection on Intracardiac EGMs",
-      "venue": "Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence, IJCAI 2021, Virtual Event / Montreal, Canada, 19-27 August 2021",
+      "venue": "Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence, IJCAI",
+      "location": "Canada",
       "year": 2021
       },
       {
       "authors": "Yuyang Li, Yawen Wu, Xincheng Zhang, Ehab A. Hamed, Jingtong Hu, Inhee Lee",
       "title": "Developing a Miniature Energy-Harvesting-Powered Edge Device with Multi-Exit Neural Network",
-      "venue": "IEEE International Symposium on Circuits and Systems, ISCAS 2021, Daegu, South Korea, May 22-28, 2021",
+      "venue": "IEEE International Symposium on Circuits and Systems, ISCAS",
+      "location": "Daegu, South Korea",
       "year": 2021
       },
       {
       "authors": "Dewen Zeng, Yawen Wu, Xinrong Hu, Xiaowei Xu, Haiyun Yuan, Meiping Huang, Jian Zhuang, Jingtong Hu, Yiyu Shi",
       "title": "Positional Contrastive Learning for Volumetric Medical Image Segmentation",
-      "venue": "Medical Image Computing and Computer Assisted Intervention - MICCAI 2021 - 24th International Conference, Strasbourg, France, September 27 - October 1, 2021, Proceedings, Part II",
+      "venue": "Medical Image Computing and Computer Assisted Intervention - MICCAI 2021 - 24th International Conference, Proceedings",
+      "location": "Strasbourg, France",
       "year": 2021
       },
       {
       "authors": "Yawen Wu, Dewen Zeng, Zhepeng Wang, Yiyu Shi, Jingtong Hu",
       "title": "Federated Contrastive Learning for Volumetric Medical Image Segmentation",
-      "venue": "Medical Image Computing and Computer Assisted Intervention - MICCAI 2021 - 24th International Conference, Strasbourg, France, September 27 - October 1, 2021, Proceedings, Part III",
+      "venue": "Medical Image Computing and Computer Assisted Intervention - MICCAI 2021 - 24th International Conference, Proceedings",
+      "location": "Strasbourg, France",
       "year": 2021
       },
       {
       "authors": "Lei Yang, Weiwen Jiang, Weichen Liu, Edwin H.-M. Sha, Yiyu Shi, Jingtong Hu",
       "title": "Co-Exploring Neural Architecture and Network-on-Chip Design for Real-Time Artificial Intelligence",
-      "venue": "25th Asia and South Pacific Design Automation Conference, ASP-DAC 2020, Beijing, China, January 13-16, 2020",
+      "venue": "25th Asia and South Pacific Design Automation Conference, ASP-DAC",
+      "location": "Beijing, China",
       "year": 2020
       },
       {
       "authors": "Yawen Wu, Zhepeng Wang, Zhenge Jia, Yiyu Shi, Jingtong Hu",
       "title": "Intermittent Inference with Nonuniformly Compressed Multi-Exit Neural Network for Energy Harvesting Powered Devices",
-      "venue": "57th ACM/IEEE Design Automation Conference, DAC 2020, San Francisco, CA, USA, July 20-24, 2020",
+      "venue": "57th ACM/IEEE Design Automation Conference, DAC",
+      "location": "San Francisco, CA, USA",
       "year": 2020
       },
       {
       "authors": "Keni Qiu, Mengying Zhao, Zhenge Jia, Jingtong Hu, Chun Jason Xue, Kaisheng Ma, Xueqing Li, Yongpan Liu, Vijaykrishnan Narayanan",
       "title": "Design Insights of Non-volatile Processors and Accelerators in Energy Harvesting Systems",
-      "venue": "GLSVLSI '20: Great Lakes Symposium on VLSI 2020, Virtual Event, China, September 7-9, 2020",
+      "venue": "GLSVLSI '20: Great Lakes Symposium on VLSI",
+      "location": "China",
       "year": 2020
       },
       {
       "authors": "Zhenge Jia, Zhepeng Wang, Feng Hong, Lichuan Ping, Yiyu Shi, Jingtong Hu",
       "title": "Personalized Deep Learning for Ventricular Arrhythmias Detection on Medical loT Systems",
-      "venue": "IEEE/ACM International Conference On Computer Aided Design, ICCAD 2020, San Diego, CA, USA, November 2-5, 2020",
+      "venue": "IEEE/ACM International Conference On Computer Aided Design, ICCAD",
+      "location": "San Diego, CA, USA",
       "year": 2020
       },
       {
       "authors": "Dewen Zeng, Weiwen Jiang, Tianchen Wang, Xiaowei Xu, Haiyun Yuan, Meiping Huang, Jian Zhuang, Jingtong Hu, Yiyu Shi",
       "title": "Towards Cardiac Intervention Assistance: Hardware-aware Neural Architecture Exploration for Real-Time 3D Cardiac Cine MRI Segmentation",
-      "venue": "IEEE/ACM International Conference On Computer Aided Design, ICCAD 2020, San Diego, CA, USA, November 2-5, 2020",
+      "venue": "IEEE/ACM International Conference On Computer Aided Design, ICCAD",
+      "location": "San Diego, CA, USA",
       "year": 2020
       },
       {
       "authors": "Xinyi Zhang, Weiwen Jiang, Jingtong Hu",
       "title": "Achieving Full Parallelism in LSTM via a Unified Accelerator Design",
-      "venue": "38th IEEE International Conference on Computer Design, ICCD 2020, Hartford, CT, USA, October 18-21, 2020",
+      "venue": "38th IEEE International Conference on Computer Design, ICCD",
+      "location": "Hartford, CT, USA",
       "year": 2020
       },
       {
       "authors": "Yawen Wu, Zhenge Jia, Fei Fang, Jingtong Hu",
       "title": "Cooperative communication between two transiently powered sensors by reinforcement learning: work-in-progress",
-      "venue": "Proceedings of the International Conference on Hardware/Software Codesign and System Synthesis Companion, CODES+ISSS 2019, part of ESWEEK 2019, New York, NY, USA, October 13-18, 2019",
+      "venue": "Proceedings of the International Conference on Hardware/Software Codesign and System Synthesis Companion, CODES+ISSS 2019, part of ESWEEK",
+      "location": "New York, NY, USA",
       "year": 2019
       },
       {
       "authors": "Zhenge Jia, Yawen Wu, Jingtong Hu",
       "title": "Q-learning based routing for transiently powered wireless sensor network: work-in-progress",
-      "venue": "Proceedings of the International Conference on Hardware/Software Codesign and System Synthesis Companion, CODES+ISSS 2019, part of ESWEEK 2019, New York, NY, USA, October 13-18, 2019",
+      "venue": "Proceedings of the International Conference on Hardware/Software Codesign and System Synthesis Companion, CODES+ISSS 2019, part of ESWEEK",
+      "location": "New York, NY, USA",
       "year": 2019
       },
       {
       "authors": "Weiwen Jiang, Xinyi Zhang, Edwin Hsing-Mean Sha, Lei Yang, Qingfeng Zhuge, Yiyu Shi, Jingtong Hu",
       "title": "Accuracy vs. Efficiency: Achieving Both through FPGA-Implementation Aware Neural Architecture Search",
-      "venue": "Proceedings of the 56th Annual Design Automation Conference 2019, DAC 2019, Las Vegas, NV, USA, June 02-06, 2019",
+      "venue": "Proceedings of the 56th Annual Design Automation Conference 2019, DAC",
+      "location": "Las Vegas, NV, USA",
       "year": 2019
       },
       {
       "authors": "Weiwen Jiang, Xinyi Zhang, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Lei Yang, Yiyu Shi, Jingtong Hu",
       "title": "XFER: A Novel Design to Achieve Super-Linear Performance on Multiple FPGAs for Real-Time AI",
-      "venue": "Proceedings of the 2019 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, FPGA 2019, Seaside, CA, USA, February 24-26, 2019",
+      "venue": "Proceedings of the 2019 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, FPGA",
+      "location": "Seaside, CA, USA",
       "year": 2019
       },
       {
       "authors": "Xinyi Zhang, Weiwen Jiang, Yiyu Shi, Jingtong Hu",
       "title": "When Neural Architecture Search Meets Hardware Implementation: from Hardware Awareness to Co-Design",
-      "venue": "2019 IEEE Computer Society Annual Symposium on VLSI, ISVLSI 2019, Miami, FL, USA, July 15-17, 2019",
+      "venue": "2019 IEEE Computer Society Annual Symposium on VLSI, ISVLSI",
+      "location": "Miami, FL, USA",
       "year": 2019
       },
       {
       "authors": "Mimi Xie, Yawen Wu, Zhenge Jia, Jingtong Hu",
       "title": "In-memory AES Implementation for Emerging Non-Volatile Main Memory",
-      "venue": "2019 IEEE Computer Society Annual Symposium on VLSI, ISVLSI 2019, Miami, FL, USA, July 15-17, 2019",
+      "venue": "2019 IEEE Computer Society Annual Symposium on VLSI, ISVLSI",
+      "location": "Miami, FL, USA",
       "year": 2019
       },
       {
       "authors": "Mimi Xie, Shuangchen Li, Alvin Oliver Glova, Jingtong Hu, Yuangang Wang, Yuan Xie",
       "title": "AIM: Fast and energy-efficient AES in-memory implementation for emerging non-volatile main memory",
-      "venue": "2018 Design, Automation & Test in Europe Conference & Exhibition, DATE 2018, Dresden, Germany, March 19-23, 2018",
+      "venue": "2018 Design, Automation & Test in Europe Conference & Exhibition, DATE",
+      "location": "Dresden, Germany",
       "year": 2018
       },
       {
       "authors": "Xiaolong Ma, Yipeng Zhang, Geng Yuan, Ao Ren, Zhe Li, Jie Han, Jingtong Hu, Yanzhi Wang",
       "title": "An area and energy efficient design of domain-wall memory-based deep convolutional neural networks using stochastic computing",
-      "venue": "19th International Symposium on Quality Electronic Design, ISQED 2018, Santa Clara, CA, USA, March 13-14, 2018",
+      "venue": "19th International Symposium on Quality Electronic Design, ISQED",
+      "location": "Santa Clara, CA, USA",
       "year": 2018
       },
       {
       "authors": "Xinyi Zhang, Clay Patterson, Yongpan Liu, Chengmo Yang, Chun Jason Xue, Jingtong Hu",
       "title": "Low Overhead Online Checkpoint for Intermittently Powered Non-volatile FPGAs",
-      "venue": "2018 IEEE Computer Society Annual Symposium on VLSI, ISVLSI 2018, Hong Kong, China, July 8-11, 2018",
+      "venue": "2018 IEEE Computer Society Annual Symposium on VLSI, ISVLSI",
+      "location": "Hong Kong, China",
       "year": 2018
       },
       {
       "authors": "Yawen Wu, Yinan Sun, Zhenge Jia, Lefan Zhang, Yongpan Liu, Jingtong Hu",
       "title": "Prototyping Energy Harvesting Powered Systems with Nonvolatile Processor (Invited Paper)",
-      "venue": "2018 International Symposium on Rapid System Prototyping, RSP 2018, Torino, Italy, October 4-5, 2018",
+      "venue": "2018 International Symposium on Rapid System Prototyping, RSP",
+      "location": "Torino, Italy",
       "year": 2018
       },
       {
       "authors": "Yuan Xue, Chengmo Yang, Jingtong Hu",
       "title": "Age-aware Logic and Memory Co-Placement for RRAM-FPGAs",
-      "venue": "Proceedings of the 54th Annual Design Automation Conference, DAC 2017, Austin, TX, USA, June 18-22, 2017",
+      "venue": "Proceedings of the 54th Annual Design Automation Conference, DAC",
+      "location": "Austin, TX, USA",
       "year": 2017
       },
       {
       "authors": "Jinyang Li, Qingwei Guo, Fang Su, Zhe Yuan, Jinshan Yue, Jingtong Hu, Huazhong Yang, Yongpan Liu",
       "title": "CNN-based pattern recognition on nonvolatile IoT platform for smart ultraviolet monitoring: (Invited paper)",
-      "venue": "2017 IEEE/ACM International Conference on Computer-Aided Design, ICCAD 2017, Irvine, CA, USA, November 13-16, 2017",
+      "venue": "2017 IEEE/ACM International Conference on Computer-Aided Design, ICCAD",
+      "location": "Irvine, CA, USA",
       "year": 2017
       },
       {
       "authors": "Ke Liu, Mengying Zhao, Lei Ju, Zhiping Jia, Chun Jason Xue, Jingtong Hu",
       "title": "Design Exploration for Multiple Level Cell Based Non-Volatile FPGAs",
-      "venue": "2017 IEEE International Conference on Computer Design, ICCD 2017, Boston, MA, USA, November 5-8, 2017",
+      "venue": "2017 IEEE International Conference on Computer Design, ICCD",
+      "location": "Boston, MA, USA",
       "year": 2017
       },
       {
       "authors": "Bicheng Liu, Shouzhen Gu, Mingsong Chen, Wang Kang, Jingtong Hu, Qingfeng Zhuge, Edwin Hsing-Mean Sha",
       "title": "An Efficient Racetrack Memory-Based Processing-in-Memory Architecture for Convolutional Neural Networks",
-      "venue": "2017 IEEE International Symposium on Parallel and Distributed Processing with Applications and 2017 IEEE International Conference on Ubiquitous Computing and Communications (ISPA/IUCC), Guangzhou, China, December 12-15, 2017",
+      "venue": "2017 IEEE International Symposium on Parallel and Distributed Processing with Applications and 2017 IEEE International Conference on Ubiquitous Computing and Communications (ISPA/IUCC)",
+      "location": "Guangzhou, China",
       "year": 2017
       },
       {
       "authors": "Chen Pan, Mimi Xie, Yongpan Liu, Yanzhi Wang, Chun Jason Xue, Yuangang Wang, Yiran Chen, Jingtong Hu",
       "title": "A lightweight progress maximization scheduler for non-volatile processor under unstable energy harvesting",
-      "venue": "Proceedings of the 18th ACM SIGPLAN/SIGBED Conference on Languages, Compilers, and Tools for Embedded Systems, LCTES 2017, Barcelona, Spain, June 21-22, 2017",
+      "venue": "Proceedings of the 18th ACM SIGPLAN/SIGBED Conference on Languages, Compilers, and Tools for Embedded Systems, LCTES",
+      "location": "Barcelona, Spain",
       "year": 2017
       },
       {
       "authors": "Qian Lou, Mengying Zhao, Lei Ju, Chun Jason Xue, Jingtong Hu, Zhiping Jia",
       "title": "Runtime and reconfiguration dual-aware placement for SRAM-NVM hybrid FPGAs",
-      "venue": "IEEE 6th Non-Volatile Memory Systems and Applications Symposium, NVMSA 2017, Hsinchu, Taiwan, August 16-18, 2017",
+      "venue": "IEEE 6th Non-Volatile Memory Systems and Applications Symposium, NVMSA",
+      "location": "Hsinchu, Taiwan",
       "year": 2017
       },
       {
       "authors": "Chen Pan, Mimi Xie, Jingtong Hu",
       "title": "Maximize energy utilization for ultra-low energy harvesting powered embedded systems",
-      "venue": "23rd IEEE International Conference on Embedded and Real-Time Computing Systems and Applications, RTCSA 2017, Hsinchu, Taiwan, August 16-18, 2017",
+      "venue": "23rd IEEE International Conference on Embedded and Real-Time Computing Systems and Applications, RTCSA",
+      "location": "Hsinchu, Taiwan",
       "year": 2017
       },
       {
       "authors": "Yuan Xue, Patrick Cronin, Chengmo Yang, Jingtong Hu",
       "title": "Routing path reuse maximization for efficient NV-FPGA reconfiguration",
-      "venue": "21st Asia and South Pacific Design Automation Conference, ASP-DAC 2016, Macao, Macao, January 25-28, 2016",
+      "venue": "21st Asia and South Pacific Design Automation Conference, ASP-DAC",
+      "location": "Macao, Macao",
       "year": 2016
       },
       {
       "authors": "Huizhang Luo, Jingtong Hu, Liang Shi, Chun Jason Xue, Qingfeng Zhuge",
       "title": "Peak-to-average pumping efficiency improvement for charge pump in Phase Change Memories",
-      "venue": "21st Asia and South Pacific Design Automation Conference, ASP-DAC 2016, Macao, Macao, January 25-28, 2016",
+      "venue": "21st Asia and South Pacific Design Automation Conference, ASP-DAC",
+      "location": "Macao, Macao",
       "year": 2016
       },
       {
       "authors": "Mimi Xie, Mengying Zhao, Chen Pan, Hehe Li, Yongpan Liu, Youtao Zhang, Chun Jason Xue, Jingtong Hu",
       "title": "Checkpoint aware hybrid cache architecture for NV processor in energy harvesting powered systems",
-      "venue": "Proceedings of the Eleventh IEEE/ACM/IFIP International Conference on Hardware/Software Codesign and System Synthesis, CODES 2016, Pittsburgh, Pennsylvania, USA, October 1-7, 2016",
+      "venue": "Proceedings of the Eleventh IEEE/ACM/IFIP International Conference on Hardware/Software Codesign and System Synthesis, CODES",
+      "location": "Pittsburgh, Pennsylvania, USA",
       "year": 2016
       },
       {
       "authors": "Mengjie Mao, Wujie Wen, Xiaoxiao Liu, Jingtong Hu, Danghui Wang, Yiran Chen, Hai Li",
       "title": "TEMP: thread batch enabled memory partitioning for GPU",
-      "venue": "Proceedings of the 53rd Annual Design Automation Conference, DAC 2016, Austin, TX, USA, June 5-9, 2016",
+      "venue": "Proceedings of the 53rd Annual Design Automation Conference, DAC",
+      "location": "Austin, TX, USA",
       "year": 2016
       },
       {
       "authors": "Hehe Li, Yongpan Liu, Chenchen Fu, Chun Jason Xue, Donglai Xiang, Jinshan Yue, Jinyang Li, Daming Zhang, Jingtong Hu, Huazhong Yang",
       "title": "Performance-aware task scheduling for energy harvesting nonvolatile processors considering power switching overhead",
-      "venue": "Proceedings of the 53rd Annual Design Automation Conference, DAC 2016, Austin, TX, USA, June 5-9, 2016",
+      "venue": "Proceedings of the 53rd Annual Design Automation Conference, DAC",
+      "location": "Austin, TX, USA",
       "year": 2016
       },
       {
       "authors": "Huizhang Luo, Jingtong Hu, Liang Shi, Chun Jason Xue, Qingfeng Zhuge",
       "title": "Two-step state transition minimization for lifetime and performance improvement on MLC STT-RAM",
-      "venue": "Proceedings of the 53rd Annual Design Automation Conference, DAC 2016, Austin, TX, USA, June 5-9, 2016",
+      "venue": "Proceedings of the 53rd Annual Design Automation Conference, DAC",
+      "location": "Austin, TX, USA",
       "year": 2016
       },
       {
       "authors": "Ning Liu, Caiwen Ding, Yanzhi Wang, Jingtong Hu",
       "title": "Neural Network-based Prediction Algorithms for In-Door Multi-Source Energy Harvesting System for Non-Volatile Processors",
-      "venue": "Proceedings of the 26th edition on Great Lakes Symposium on VLSI, GLVLSI 2016, Boston, MA, USA, May 18-20, 2016",
+      "venue": "Proceedings of the 26th edition on Great Lakes Symposium on VLSI, GLVLSI",
+      "location": "Boston, MA, USA",
       "year": 2016
       },
       {
       "authors": "Caiwen Ding, Hongjia Li, Jingtong Hu, Yongpan Liu, Yanzhi Wang",
       "title": "Dynamic converter reconfiguration for near-threshold non-volatile processors using in-door energy harvesting",
-      "venue": "34th IEEE International Conference on Computer Design, ICCD 2016, Scottsdale, AZ, USA, October 2-5, 2016",
+      "venue": "34th IEEE International Conference on Computer Design, ICCD",
+      "location": "Scottsdale, AZ, USA",
       "year": 2016
       },
       {
       "authors": "Caiwen Ding, Soroush Heidari, Yanzhi Wang, Yongpan Liu, Jingtong Hu",
       "title": "Multi-source in-door energy harvesting for non-volatile processors",
-      "venue": "IEEE International Symposium on Circuits and Systems, ISCAS 2016, Montreal, QC, Canada, May 22-25, 2016",
+      "venue": "IEEE International Symposium on Circuits and Systems, ISCAS",
+      "location": "Montreal, QC, Canada",
       "year": 2016
       },
       {
       "authors": "Mengying Zhao, Keni Qiu, Yuan Xie, Jingtong Hu, Chun Jason Xue",
       "title": "Redesigning software and systems for non-volatile processors on self-powered devices",
-      "venue": "2016 IFIP/IEEE International Conference on Very Large Scale Integration, VLSI-SoC 2016, Tallinn, Estonia, September 26-28, 2016",
+      "venue": "2016 IFIP/IEEE International Conference on Very Large Scale Integration, VLSI-SoC 2016",
+      "location": "Tallinn, Estonia",
       "year": 2016
       },
       {
       "authors": "Mimi Xie, Chen Pan, Jingtong Hu, Chengmo Yang, Yiran Chen",
       "title": "Checkpoint-aware instruction scheduling for nonvolatile processor with multiple functional units",
-      "venue": "The 20th Asia and South Pacific Design Automation Conference, ASP-DAC 2015, Chiba, Japan, January 19-22, 2015",
+      "venue": "The 20th Asia and South Pacific Design Automation Conference, ASP-DAC",
+      "location": "Chiba, Japan",
       "year": 2015
       },
       {
       "authors": "Renhai Chen, Yi Wang, Jingtong Hu, Duo Liu, Zili Shao, Yong Guan",
       "title": "Unified non-volatile memory and NAND flash memory architecture in smartphones",
-      "venue": "The 20th Asia and South Pacific Design Automation Conference, ASP-DAC 2015, Chiba, Japan, January 19-22, 2015",
+      "venue": "The 20th Asia and South Pacific Design Automation Conference, ASP-DAC",
+      "location": "Chiba, Japan",
       "year": 2015
       },
       {
       "authors": "Hoda Aghaei Khouzani, Chengmo Yang, Jingtong Hu",
       "title": "Improving performance and lifetime of DRAM-PCM hybrid main memory through a proactive page allocation strategy",
-      "venue": "The 20th Asia and South Pacific Design Automation Conference, ASP-DAC 2015, Chiba, Japan, January 19-22, 2015",
+      "venue": "The 20th Asia and South Pacific Design Automation Conference, ASP-DAC",
+      "location": "Chiba, Japan",
       "year": 2015
       },
       {
       "authors": "Shouzhen Gu, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Yiran Chen, Jingtong Hu",
       "title": "Area and performance co-optimization for domain wall memory in application-specific embedded systems",
-      "venue": "Proceedings of the 52nd Annual Design Automation Conference, San Francisco, CA, USA, June 7-11, 2015",
+      "venue": "Proceedings of the 52nd Annual Design Automation Conference",
+      "location": "San Francisco, CA, USA",
       "year": 2015
       },
       {
       "authors": "Mengjie Mao, Jingtong Hu, Yiran Chen, Hai Li",
       "title": "VWS: a versatile warp scheduler for exploring diverse cache localities of GPGPU applications",
-      "venue": "Proceedings of the 52nd Annual Design Automation Conference, San Francisco, CA, USA, June 7-11, 2015",
+      "venue": "Proceedings of the 52nd Annual Design Automation Conference",
+      "location": "San Francisco, CA, USA",
       "year": 2015
       },
       {
       "authors": "Qing'an Li, Mengying Zhao, Jingtong Hu, Yongpan Liu, Yanxiang He, Chun Jason Xue",
       "title": "Compiler directed automatic stack trimming for efficient non-volatile processors",
-      "venue": "Proceedings of the 52nd Annual Design Automation Conference, San Francisco, CA, USA, June 7-11, 2015",
+      "venue": "Proceedings of the 52nd Annual Design Automation Conference",
+      "location": "San Francisco, CA, USA",
       "year": 2015
       },
       {
       "authors": "Mimi Xie, Mengying Zhao, Chen Pan, Jingtong Hu, Yongpan Liu, Chun Jason Xue",
       "title": "Fixing the broken time machine: consistency-aware checkpointing for energy harvesting powered non-volatile processor",
-      "venue": "Proceedings of the 52nd Annual Design Automation Conference, San Francisco, CA, USA, June 7-11, 2015",
+      "venue": "Proceedings of the 52nd Annual Design Automation Conference",
+      "location": "San Francisco, CA, USA",
       "year": 2015
       },
       {
       "authors": "Jie Guo, Wujie Wen, Jingtong Hu, Danghui Wang, Hai Li, Yiran Chen",
       "title": "FlexLevel: a novel NAND flash storage system design for LDPC latency reduction",
-      "venue": "Proceedings of the 52nd Annual Design Automation Conference, San Francisco, CA, USA, June 7-11, 2015",
+      "venue": "Proceedings of the 52nd Annual Design Automation Conference",
+      "location": "San Francisco, CA, USA",
       "year": 2015
       },
       {
       "authors": "Mengying Zhao, Qing'an Li, Mimi Xie, Yongpan Liu, Jingtong Hu, Chun Jason Xue",
       "title": "Software assisted non-volatile register reduction for energy harvesting based cyber-physical system",
-      "venue": "Proceedings of the 2015 Design, Automation & Test in Europe Conference & Exhibition, DATE 2015, Grenoble, France, March 9-13, 2015",
+      "venue": "Proceedings of the 2015 Design, Automation & Test in Europe Conference & Exhibition, DATE",
+      "location": "Grenoble, France",
       "year": 2015
       },
       {
       "authors": "Chen Pan, Mimi Xie, Chengmo Yang, Zili Shao, Jingtong Hu",
       "title": "Nonvolatile main memory aware garbage collection in high-level language virtual machine",
-      "venue": "2015 International Conference on Embedded Software, EMSOFT 2015, Amsterdam, Netherlands, October 4-9, 2015",
+      "venue": "2015 International Conference on Embedded Software, EMSOFT",
+      "location": "Amsterdam, Netherlands",
       "year": 2015
       },
       {
       "authors": "Yuan Xue, Patrick Cronin, Chengmo Yang, Jingtong Hu",
       "title": "Fine-tuning CLB placement to speed up reconfigurations in NVM-based FPGAs",
-      "venue": "25th International Conference on Field Programmable Logic and Applications, FPL 2015, London, United Kingdom, September 2-4, 2015",
+      "venue": "25th International Conference on Field Programmable Logic and Applications, FPL",
+      "location": "London, United Kingdom",
       "year": 2015
       },
       {
       "authors": "Soroush Heidari, Caiwen Ding, Yongpan Liu, Yanzhi Wang, Jingtong Hu",
       "title": "Multi-source energy harvesting management and optimization for non-volatile processors",
-      "venue": "Sixth International Green and Sustainable Computing Conference, IGSC 2015, Las Vegas, NV, USA, December 14-16, 2015",
+      "venue": "Sixth International Green and Sustainable Computing Conference, IGSC",
+      "location": "Las Vegas, NV, USA",
       "year": 2015
       },
       {
       "authors": "Renhai Chen, Yi Wang, Jingtong Hu, Duo Liu, Zili Shao, Yong Guan",
       "title": "Virtual Machine Image Content Aware I/O Optimization for Mobile Virtualization",
-      "venue": "17th IEEE International Conference on High Performance Computing and Communications, HPCC 2015, 7th IEEE International Symposium on Cyberspace Safety and Security, CSS 2015, and 12th IEEE International Conference on Embedded Software and Systems, ICESS 2015, New York, NY, USA, August 24-26, 2015",
+      "venue": "17th IEEE International Conference on High Performance Computing and Communications, HPCC 2015, 7th IEEE International Symposium on Cyberspace Safety and Security, CSS 2015, and 12th IEEE International Conference on Embedded Software and Systems, ICESS",
+      "location": "New York, NY, USA",
       "year": 2015
       },
       {
       "authors": "Yuan Xue, Patrick Cronin, Chengmo Yang, Jingtong Hu",
       "title": "Non-volatile memories in FPGAs: Exploiting logic similarity to accelerate reconfiguration and increase programming cycles",
-      "venue": "2015 IFIP/IEEE International Conference on Very Large Scale Integration, VLSI-SoC 2015, Daejeon, South Korea, October 5-7, 2015",
+      "venue": "2015 IFIP/IEEE International Conference on Very Large Scale Integration, VLSI-SoC 2015",
+      "location": "Daejeon, South Korea",
       "year": 2015
       },
       {
       "authors": "Chen Pan, Mimi Xie, Jingtong Hu, Yiran Chen, Chengmo Yang",
       "title": "3M-PCM: Exploiting multiple write modes MLC phase change main memory in embedded systems",
-      "venue": "2014 International Conference on Hardware/Software Codesign and System Synthesis, CODES+ISSS 2014, Uttar Pradesh, India, October 12-17, 2014",
+      "venue": "2014 International Conference on Hardware/Software Codesign and System Synthesis, CODES+ISSS",
+      "location": "Uttar Pradesh, India",
       "year": 2014
       },
       {
       "authors": "Meikang Qiu, Longbin Chen, Yongxin Zhu, Jingtong Hu, Xiao Qin",
       "title": "Online Data Allocation for Hybrid Memories on Embedded Tele-health Systems",
-      "venue": "2014 IEEE International Conference on High Performance Computing and Communications, 6th IEEE International Symposium on Cyberspace Safety and Security, 11th IEEE International Conference on Embedded Software and Systems, HPCC/CSS/ICESS 2014, Paris, France, August 20-22, 2014",
+      "venue": "2014 IEEE International Conference on High Performance Computing and Communications, 6th IEEE International Symposium on Cyberspace Safety and Security, 11th IEEE International Conference on Embedded Software and Systems, HPCC/CSS/ICESS",
+      "location": "Paris, France",
       "year": 2014
       },
       {
       "authors": "Renhai Chen, Yi Wang, Jingtong Hu, Duo Liu, Zili Shao, Yong Guan",
       "title": "Virtual-machine metadata optimization for I/O traffic reduction in mobile virtualization",
-      "venue": "IEEE Non-Volatile Memory Systems and Applications Symposium, NVMSA 2014, Chongqing, China, August 20-21, 2014",
+      "venue": "IEEE Non-Volatile Memory Systems and Applications Symposium, NVMSA",
+      "location": "Chongqing, China",
       "year": 2014
       },
       {
       "authors": "Shouzhen Gu, Qingfeng Zhuge, Jingtong Hu, Juan Yi, Edwin Hsing-Mean Sha",
       "title": "Minimum-cost data allocation with guaranteed probability on multiple types of memory",
-      "venue": "2014 IEEE 20th International Conference on Embedded and Real-Time Computing Systems and Applications, Chongqing, China, August 20-22, 2014",
+      "venue": "2014 IEEE 20th International Conference on Embedded and Real-Time Computing Systems and Applications",
+      "location": "Chongqing, China",
       "year": 2014
       },
       {
       "authors": "Chen Pan, Mimi Xie, Jingtong Hu, Meikang Qiu, Qingfeng Zhuge",
       "title": "Wear-leveling for PCM main memory on embedded system via page management and process scheduling",
-      "venue": "2014 IEEE 20th International Conference on Embedded and Real-Time Computing Systems and Applications, Chongqing, China, August 20-22, 2014",
+      "venue": "2014 IEEE 20th International Conference on Embedded and Real-Time Computing Systems and Applications",
+      "location": "Chongqing, China",
       "year": 2014
       },
       {
       "authors": "Mimi Xie, Chen Pan, Jingtong Hu, Chun Jason Xue, Qingfeng Zhuge",
       "title": "Non-volatile registers aware instruction selection for embedded systems",
-      "venue": "2014 IEEE 20th International Conference on Embedded and Real-Time Computing Systems and Applications, Chongqing, China, August 20-22, 2014",
+      "venue": "2014 IEEE 20th International Conference on Embedded and Real-Time Computing Systems and Applications",
+      "location": "Chongqing, China",
       "year": 2014
       },
       {
       "authors": "Ruirui Lu, Gang Wu, Bin Xie, Jingtong Hu",
       "title": "Stream Bench: Towards Benchmarking Modern Distributed Stream Computing Frameworks",
-      "venue": "Proceedings of the 7th IEEE/ACM International Conference on Utility and Cloud Computing, UCC 2014, London, United Kingdom, December 8-11, 2014",
+      "venue": "Proceedings of the 7th IEEE/ACM International Conference on Utility and Cloud Computing, UCC",
+      "location": "London, United Kingdom",
       "year": 2014
       },
       {
       "authors": "Jingtong Hu, Qingfeng Zhuge, Chun Jason Xue, Wei-Che Tseng, Edwin Hsing-Mean Sha",
       "title": "Software enabled wear-leveling for hybrid PCM main memory on embedded systems",
-      "venue": "Design, Automation and Test in Europe, DATE 13, Grenoble, France, March 18-22, 2013",
+      "venue": "Design, Automation and Test in Europe, DATE 13",
+      "location": "Grenoble, France",
       "year": 2013
       },
       {
       "authors": "Shouzhen Gu, Qingfeng Zhuge, Jingtong Hu, Juan Yi, Edwin Hsing-Mean Sha",
       "title": "Efficient task assignment and scheduling for MPSoC DSPS with VS-SPM considering concurrent accesses through data allocation",
-      "venue": "IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2013, Vancouver, BC, Canada, May 26-31, 2013",
+      "venue": "IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP",
+      "location": "Vancouver, BC, Canada",
       "year": 2013
       },
       {
       "authors": "Linbo Long, Duo Liu, Jingtong Hu, Shouzhen Gu, Qingfeng Zhuge, Edwin Hsing-Mean Sha",
       "title": "A space-based wear leveling for PCM-based embedded systems",
-      "venue": "2013 IEEE 19th International Conference on Embedded and Real-Time Computing Systems and Applications, RTCSA 2013, Taipei, Taiwan, August 19-21, 2013",
+      "venue": "2013 IEEE 19th International Conference on Embedded and Real-Time Computing Systems and Applications, RTCSA",
+      "location": "Taipei, Taiwan",
       "year": 2013
       },
       {
       "authors": "Juan Yi, Qingfeng Zhuge, Jingtong Hu, Shouzhen Gu, Mingwen Qin, Edwin Hsing-Mean Sha",
       "title": "Optimizing task assignment for heterogeneous multiprocessor system with guaranteed reliability and timing constraint",
-      "venue": "2013 IEEE 19th International Conference on Embedded and Real-Time Computing Systems and Applications, RTCSA 2013, Taipei, Taiwan, August 19-21, 2013",
+      "venue": "2013 IEEE 19th International Conference on Embedded and Real-Time Computing Systems and Applications, RTCSA",
+      "location": "Taipei, Taiwan",
       "year": 2013
       },
       {
       "authors": "Yibo Guo, Qingfeng Zhuge, Jun Zhang, Jingtong Hu, Edwin Hsing-Mean Sha",
       "title": "Optimal data allocation algorithm for loop-centric applications on scratch-PAD memories",
-      "venue": "IEEE Workshop on Signal Processing Systems, SiPS 2013, Taipei City, Taiwan, October 16-18, 2013",
+      "venue": "IEEE Workshop on Signal Processing Systems, SiPS 2013",
+      "location": "Taipei City, Taiwan",
       "year": 2013
       },
       {
       "authors": "Qing'an Li, Yingchao Zhao, Jingtong Hu, Chun Jason Xue, Edwin Hsing-Mean Sha, Yanxiang He",
       "title": "MGC: Multiple graph-coloring for non-volatile memory based hybrid Scratchpad Memory",
-      "venue": "16th Workshop on Interaction between Compilers and Computer Architectures, INTERACT 2012, New Orleans, LA, USA, February 25, 2012",
+      "venue": "16th Workshop on Interaction between Compilers and Computer Architectures, INTERACT",
+      "location": "New Orleans, LA, USA",
       "year": 2012
       },
       {
       "authors": "Wei-Che Tseng, Chun Jason Xue, Qingfeng Zhuge, Jingtong Hu, Edwin Hsing-Mean Sha",
       "title": "PRR: A low-overhead cache replacement algorithm for embedded processors",
-      "venue": "Proceedings of the 17th Asia and South Pacific Design Automation Conference, ASP-DAC 2012, Sydney, Australia, January 30 - February 2, 2012",
+      "venue": "Proceedings of the 17th Asia and South Pacific Design Automation Conference, ASP-DAC",
+      "location": "Sydney, Australia",
       "year": 2012
       },
       {
       "authors": "Li Wang, Jing Liu, Jingtong Hu, Qingfeng Zhuge, Duo Liu, Edwin Hsing-Mean Sha",
       "title": "Efficient Task Assignment on Heterogeneous Multicore Systems Considering Communication Overhead",
-      "venue": "Algorithms and Architectures for Parallel Processing - 12th International Conference, ICA3PP 2012, Fukuoka, Japan, September 4-7, 2012, Proceedings, Part I",
+      "venue": "Algorithms and Architectures for Parallel Processing - 12th International Conference, ICA3PP, Proceedings",
+      "location": "Fukuoka, Japan",
       "year": 2012
       },
       {
       "authors": "Yan Wang, Jiayi Du, Jingtong Hu, Qingfeng Zhuge, Edwin Hsing-Mean Sha",
       "title": "Loop scheduling optimization for chip-multiprocessors with non-volatile main memory",
-      "venue": "2012 IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2012, Kyoto, Japan, March 25-30, 2012",
+      "venue": "2012 IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP",
+      "location": "Kyoto, Japan",
       "year": 2012
       },
       {
       "authors": "Gang Wu, Huxing Zhang, Yaozu Dong, Jingtong Hu",
       "title": "CAR: Securing PCM Main Memory System with Cache Address Remapping",
-      "venue": "18th IEEE International Conference on Parallel and Distributed Systems, ICPADS 2012, Singapore, December 17-19, 2012",
+      "venue": "18th IEEE International Conference on Parallel and Distributed Systems, ICPADS",
+      "location": "Singapore",
       "year": 2012
       },
       {
       "authors": "Jingtong Hu, Qingfeng Zhuge, Chun Jason Xue, Wei-Che Tseng, Edwin Hsing-Mean Sha",
       "title": "Optimizing Data Allocation and Memory Configuration for Non-Volatile Memory Based Hybrid SPM on Embedded CMPs",
-      "venue": "26th IEEE International Parallel and Distributed Processing Symposium Workshops & PhD Forum, IPDPS 2012, Shanghai, China, May 21-25, 2012",
+      "venue": "26th IEEE International Parallel and Distributed Processing Symposium Workshops & PhD Forum, IPDPS",
+      "location": "Shanghai, China",
       "year": 2012
       },
       {
       "authors": "Li Wang, Jing Liu, Jingtong Hu, Qingfeng Zhuge, Edwin Hsing-Mean Sha",
       "title": "Optimal Assignment for Tree-Structure Task Graph on Heterogeneous Multicore Systems Considering Time Constraint",
-      "venue": "IEEE 6th International Symposium on Embedded Multicore/Manycore SoCs, MCSoC 2012, Fukushima, Japan, September 20-22, 2012",
+      "venue": "IEEE 6th International Symposium on Embedded Multicore/Manycore SoCs, MCSoC 2012",
+      "location": "Fukushima, Japan",
       "year": 2012
       },
       {
       "authors": "Jingtong Hu, Chun Jason Xue, Qingfeng Zhuge, Wei-Che Tseng, Edwin Hsing-Mean Sha",
       "title": "Towards energy efficient hybrid on-chip Scratch Pad Memory with non-volatile memory",
-      "venue": "Design, Automation and Test in Europe, DATE 2011, Grenoble, France, March 14-18, 2011",
+      "venue": "Design, Automation and Test in Europe, DATE",
+      "location": "Grenoble, France",
       "year": 2011
       },
       {
       "authors": "Yibo Guo, Qingfeng Zhuge, Jingtong Hu, Meikang Qiu, Edwin Hsing-Mean Sha",
       "title": "Optimal Data Allocation for Scratch-Pad Memory on Embedded Multi-core Systems",
-      "venue": "International Conference on Parallel Processing, ICPP 2011, Taipei, Taiwan, September 13-16, 2011",
+      "venue": "International Conference on Parallel Processing, ICPP",
+      "location": "Taipei, Taiwan",
       "year": 2011
       },
       {
       "authors": "Yibo Guo, Qingfeng Zhuge, Jingtong Hu, Edwin Hsing-Mean Sha",
       "title": "Optimal Data Placement for Memory Architectures with Scratch-Pad Memories",
-      "venue": "IEEE 10th International Conference on Trust, Security and Privacy in Computing and Communications, TrustCom 2011, Changsha, China, 16-18 November, 2011",
+      "venue": "IEEE 10th International Conference on Trust, Security and Privacy in Computing and Communications, TrustCom 2011",
+      "location": "Changsha, China",
       "year": 2011
       },
       {
       "authors": "Jiayin Li, Meikang Qiu, Jianwei Niu, Meiqin Liu, Bin Wang, Jingtong Hu",
       "title": "Impacts of Inaccurate Information on Resource Allocation for Multi-Core Embedded Systems",
-      "venue": "10th IEEE International Conference on Computer and Information Technology, CIT 2010, Bradford, West Yorkshire, UK, June 29-July 1, 2010",
+      "venue": "10th IEEE International Conference on Computer and Information Technology, CIT",
+      "location": "Bradford, West Yorkshire, UK",
       "year": 2010
       },
       {
       "authors": "Jingtong Hu, Chun Jason Xue, Wei-Che Tseng, Yi He, Meikang Qiu, Edwin Hsing-Mean Sha",
       "title": "Reducing write activities on non-volatile memories in embedded CMPs via data migration and recomputation",
-      "venue": "Proceedings of the 47th Design Automation Conference, DAC 2010, Anaheim, California, USA, July 13-18, 2010",
+      "venue": "Proceedings of the 47th Design Automation Conference, DAC",
+      "location": "Anaheim, California, USA",
       "year": 2010
       },
       {
       "authors": "Liang Shi, Chun Jason Xue, Jingtong Hu, Wei-Che Tseng, Xuehai Zhou, Edwin Hsing-Mean Sha",
       "title": "Write activity reduction on flash main memory via smart victim cache",
-      "venue": "Proceedings of the 20th ACM Great Lakes Symposium on VLSI 2009, Providence, Rhode Island, USA, May 16-18 2010",
+      "venue": "Proceedings of the 20th ACM Great Lakes Symposium on VLSI",
+      "location": "Providence, Rhode Island, USA",
       "year": 2010
       },
       {
       "authors": "Jingtong Hu, Chun Jason Xue, Wei-Che Tseng, Qingfeng Zhuge, Edwin Hsing-Mean Sha",
       "title": "Minimizing write activities to non-volatile memory via scheduling and recomputation",
-      "venue": "IEEE 8th Symposium on Application Specific Processors, SASP 2010, Anaheim, CA, USA, June 13-14, 2010",
+      "venue": "IEEE 8th Symposium on Application Specific Processors, SASP",
+      "location": "Anaheim, CA, USA",
       "year": 2010
       },
       {
       "authors": "Wei-Che Tseng, Chun Jason Xue, Qingfeng Zhuge, Jingtong Hu, Edwin Hsing-Mean Sha",
       "title": "Optimal scheduling to minimize non-volatile memory access time with hardware cache",
-      "venue": "18th IEEE/IFIP VLSI-SoC 2010, IEEE/IFIP WG 10.5 International Conference on Very Large Scale Integration of System-on-Chip, Madrid, Spain, 27-29 September 2010",
+      "venue": "18th IEEE/IFIP VLSI-SoC 2010, IEEE/IFIP WG 10.5 International Conference on Very Large Scale Integration of System-on-Chip",
+      "location": "Madrid, Spain",
       "year": 2010
       },
       {
       "authors": "Jingtong Hu, Chun Jason Xue, Wei-Che Tseng, Meikang Qiu, Yingchao Zhao, Edwin Hsing-Mean Sha",
       "title": "Minimizing Memory Access Schedule for Memories",
-      "venue": "15th IEEE International Conference on Parallel and Distributed Systems, ICPADS 2009, Shenzhen, China, December 8-11, 2009",
+      "venue": "15th IEEE International Conference on Parallel and Distributed Systems, ICPADS",
+      "location": "Shenzhen, China",
       "year": 2009
       },
       {
       "authors": "Meikang Qiu, Gang Wu, Jingtong Hu, Wei-Che Tseng, Edwin Hsing-Mean Sha",
       "title": "Energy Minimization and Latency Hiding for Heterogeneous Parallel Memory",
-      "venue": "15th IEEE International Conference on Parallel and Distributed Systems, ICPADS 2009, Shenzhen, China, December 8-11, 2009",
+      "venue": "15th IEEE International Conference on Parallel and Distributed Systems, ICPADS",
+      "location": "Shenzhen, China",
       "year": 2009
       },
       {
       "authors": "Jingtong Hu, Chun Xue, Yi He, Edwin Hsing-Mean Sha",
       "title": "Reprogramming with Minimal Transferred Data on Wireless Sensor Network",
-      "venue": "IEEE 6th International Conference on Mobile Adhoc and Sensor Systems, MASS 2009, 12-15 October 2009, Macau (S.A.R.), China",
+      "venue": "IEEE 6th International Conference on Mobile Adhoc and Sensor Systems, MASS",
+      "location": "Macau (S.A.R.), China",
       "year": 2009
       },
       {
       "authors": "Meikang Qiu, Jiande Wu, Chun Jason Xue, Jingtong Hu, Wei-Che Tseng, Edwin Hsing-Mean Sha",
       "title": "QoS for Networked Heterogeneous Real-Time Embedded Systems",
-      "venue": "ISCA 21st International Conference on Parallel and Distributed Computing and Communication Systems, PDCCS 2008, September 24-26, 2008, Holiday Inn Downtown-Superdome, New Orleans, Louisiana, USA",
+      "venue": "ISCA 21st International Conference on Parallel and Distributed Computing and Communication Systems, PDCCS",
+      "location": "New Orleans, Louisiana, USA",
       "year": 2008
       },
       {
       "authors": "Meikang Qiu, Jiande Wu, Jingtong Hu, Yi He, Edwin Hsing-Mean Sha",
       "title": "Dynamic and Leakage Power Minimization with Loop Voltage Scheduling and Assignment",
-      "venue": "2008 IEEE/IPIP International Conference on Embedded and Ubiquitous Computing (EUC 2008), Shanghai, China, December 17-20, 2008, Volume I",
+      "venue": "2008 IEEE/IPIP International Conference on Embedded and Ubiquitous Computing (EUC 2008)",
+      "location": "Shanghai, China",
       "year": 2008
       },
       {
       "authors": "Meikang Qiu, Jiande Wu, Chun Jason Xue, Jingtong Hu, Wei-Che Tseng, Edwin Hsing-Mean Sha",
       "title": "Loop scheduling and assignment to minimize energy while hiding latency for heterogeneous multi-bank memory",
-      "venue": "FPL 2008, International Conference on Field Programmable Logic and Applications, Heidelberg, Germany, 8-10 September 2008",
+      "venue": "FPL 2008, International Conference on Field Programmable Logic and Applications",
+      "location": "Heidelberg, Germany",
       "year": 2008
       },
       {
       "authors": "Chun Jason Xue, Tiantian Liu, Zili Shao, Jingtong Hu, Zhiping Jia, Weijia Jia, Edwin Hsing-Mean Sha",
       "title": "Address assignment sensitive variable partitioning and scheduling for DSPS with multiple memory banks",
-      "venue": "Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2008, March 30 - April 4, 2008, Caesars Palace, Las Vegas, Nevada, USA",
+      "venue": "Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP",
+      "location": "Las Vegas, Nevada, USA",
       "year": 2008
       },
       {
       "authors": "Jingtong Hu, Chun Jason Xue, Meikang Qiu, Wei-Che Tseng, Cathy Qun Xu, Lei Zhang, Edwin Hsing-Mean Sha",
       "title": "Minimizing Transferred Data for Code Update on Wireless Sensor Network",
-      "venue": "Wireless Algorithms, Systems, and Applications, Third International Conference, WASA 2008, Dallas, TX, USA, October 26-28, 2008. Proceedings",
+      "venue": "Wireless Algorithms, Systems, and Applications, Third International Conference, WASA, Proceedings",
+      "location": "Dallas, TX, USA",
       "year": 2008
       }
   ]
