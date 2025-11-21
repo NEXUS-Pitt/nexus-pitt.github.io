@@ -40,7 +40,7 @@ const IntroSection: React.FC = () => (
                         Lab
                     </span>	
                 </span>
-            </span><span>  focuses on the design, development, and implementation of embedded systems that incorporate artificial intelligence (AI) to perform complex tasks autonomously and adaptively. These labs bridge the gap between hardware, software, and AI algorithms to create "smart" devices.
+            </span><span>  focuses on the design, development, and implementation of embedded systems that incorporate artificial intelligence (AI) to perform complex tasks autonomously and adaptively. These labs bridge the gap between hardware, software, and AI algorithms to create "smart" devices. We focus on four research themes:
             </span>
         </p>
         <ul className="max-w-xl text-left list-disc pl-6">
