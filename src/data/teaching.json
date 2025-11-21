@@ -1,104 +1,82 @@
 [
     {
-        "code": "CSE 20221",
-        "name": "Digital Logic",
-        "level": "Sophomore",
-        "semester": "Spring 2017"
+        "code": "ECE 2195",
+        "name": "Information Security",
+        "semester": "Spring 2025"
     },
     {
-        "code": "CSE 40522",
-        "name": "Capstone Design",
-        "level": "Senior",
-        "semester": "Spring 2017"
+        "code": "COE 1502",
+        "name": "Advanced Digital Design",
+        "semester": "Spring 2020"
     },
     {
-        "code": "CSE 20221",
-        "name": "Digital Logic",
-        "level": "Sophomore",
-        "semester": "Spring 2016"
+        "code": "ECE 2195",
+        "name": "Information Security",
+        "semester": "Fall 2019"
     },
     {
-        "code": "CSE 40522",
-        "name": "Capstone Design",
-        "level": "Senior",
-        "semester": "Spring 2016"
+        "code": "ECE 142 ",
+        "name": "Computer Organization",
+        "semester": "Fall 2018"
     },
     {
-        "code": "CpE 6220",
-        "name": "Design Automation of VLSI System",
-        "level": "Graduate",
-        "semester": "Winter 2015"
+        "code": "ECE 1770",
+        "name": "Microprocessor based Electronics Systems",
+        "semester": "Spring 2019"
     },
     {
-        "code": "CpE 5220",
-        "name": "Digital System Modeling",
-        "level": "Senior/Graduate",
-        "semester": "Winter 2015"
+        "code": "ECE 0202",
+        "name": "Embedded Processors and Interfacing",
+        "semester": "Spring 2020"
     },
     {
-        "code": "CpE 6210",
-        "name": "Digital Logic",
-        "level": "Graduate",
-        "semester": "Fall 2014"
-    },
-    {
-        "code": "CpE 5210",
-        "name": "Introduction to VLSI Design",
-        "level": "Senior/Graduate",
-        "semester": "Fall 2014"
-    },
-    {
-        "code": "CpE 318",
-        "name": "Digital System Modeling",
-        "level": "Senior/Graduate",
-        "semester": "Winter 2014"
-    },
-    {
-        "code": "CpE 111",
-        "name": "Introduction to Computer Engineering",
-        "level": "Sophomore",
+        "code": "ECEN3233",
+        "name": "Digital Logic Design",
         "semester": "Fall 2013"
     },
     {
-        "code": "CpE 311",
-        "name": "Introduction to VLSI Design",
-        "level": "Senior/Graduate",
-        "semester": "Fall 2013"
+        "code": "ECEN3233",
+        "name": "Digital Logic Design",
+        "semester": "Spring 2014"
     },
     {
-        "code": "CpE 409",
-        "name": "Design Automation of VLSI Systems",
-        "level": "Graduate",
-        "semester": "Winter 2013"
+        "code": "ECEN3233",
+        "name": "Digital Logic Design",
+        "semester": "Fall 2015"
     },
     {
-        "code": "CpE 311",
-        "name": "Introduction to VLSI Design",
-        "level": "Senior/Graduate",
-        "semester": "Fall 2012"
+        "code": "ECEN3233",
+        "name": "Digital Logic Design",
+        "semester": "Fall 2016"
+    },	
+    {
+        "code": "ENSC3213",
+        "name": "Computer Based System",
+        "semester": "Fall 2014"
     },
     {
-        "code": "CpE 318",
-        "name": "Digital System Modeling",
-        "level": "Senior/Graduate",
-        "semester": "Winter 2012"
+        "code": "ENSC3213",
+        "name": "Computer Based System",
+        "semester": "Fall 2015"
     },
     {
-        "code": "CpE 111",
-        "name": "Introduction to Computer Engineering",
-        "level": "Sophomore",
-        "semester": "Fall 2011"
+        "code": "ECEN4243",
+        "name": "Computer Architecture",
+        "semester": "Spring 2016"
     },
     {
-        "code": "CpE 318",
-        "name": "Digital System Modeling",
-        "level": "Senior/Graduate",
-        "semester": "Winter 2011"
+        "code": "ECEN4243",
+        "name": "Computer Architecture",
+        "semester": "Spring 2017"
     },
     {
-        "code": "CpE 311",
-        "name": "Introduction to VLSI Design",
-        "level": "Senior/Graudate",
-        "semester": "Fall 2010"
+        "code": "ECEN4010/5060",
+        "name": "Parallel Architecture and Programming",
+        "semester": "Spring 2015"
+    },
+    {
+        "code": "ECEN4010/5060",
+        "name": "Parallel Architecture and Programming",
+        "semester": "Fall 2016"
     }
 ]
