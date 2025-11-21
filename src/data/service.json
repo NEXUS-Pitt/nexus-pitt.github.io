@@ -1,22 +1,310 @@
 [
-    {
+  {
+    "group": "Department, SSoE, and University committees (leadership)",
+    "items": [
+      {
+        "year": "2020",
+        "content": "ECE T/TS Faculty Search Committee, Pitt"
+      },
+      {
+        "year": "2019",
+        "content": "Undergraduate Laboratory Committee, Pitt"
+      },
+      {
+        "year": "2019",
+        "content": "ECE T/TS Faculty Search Committee, Pitt"
+      },
+      {
+        "year": "2018",
+        "content": "ECE NTS Faculty Search Committee, Pitt"
+      },
+      {
+        "year": "2017",
+        "content": "ECE Curriculum Committee, Pitt"
+      },
+      {
+        "year": "2016",
+        "content": "Publicity Committee, ECE, OSU"
+      },
+      {
+        "year": "2015",
+        "content": "Advisory Committee to the Department Head, ECE, OSU"
+      },
+      {
+        "year": "2014-2015",
+        "content": "Computer Engineering Faculty Search Committee, ECE, OSU"
+      },
+      {
+        "year": "2014-2015",
+        "content": "Oversight Committee, CEAT, Oklahoma State University"
+      },
+      {
+        "year": "2014-2015",
+        "content": "OSU Technology Service Fee Committee, Oklahoma State University"
+      },
+      {
+        "year": "2013-2014",
+        "content": "Strategic Planning Committee, ECE, Oklahoma State University"
+      }
+    ]
+  },
+  {
+    "group": "Leadership roles in professional and technical societies",
+    "items": [
+      {
+        "year": "1",
+        "content": "Executive Committee Member and Education Chair for Association for Computing Machinery Special Interest Group on Design Automation (ACM SIGDA)"
+      }
+    ]
+  },
+  {
+    "group": "Conference chair and organization roles",
+    "items": [
+      {
+        "year": "2024",
+        "content": "General Chair, ACM International Workshop on Energy Harvesting & Energy-Neutral Sensing Systems (ENSsys), Hangzhou, China"
+      },
+      {
+        "year": "2024",
+        "content": "Finance Chair, IEEE/ACM Embedded Systems Week (ESWEEK), Raleigh, NC, U.S."
+      },
+      {
+        "year": "2022",
+        "content": "Finance Chair, IEEE/ACM Embedded Systems Week (ESWEEK), Shanghai, China"
+      },
+      {
+        "year": "2019",
+        "content": "Chair, System Design Contest at IEEE/ACM Design Automation Conference (DAC), Las Vegas, NV, U.S."
+      },
+      {
+        "year": "2018",
+        "content": "Chair, SIGDA Student Research Forum at IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Jeju Island, South Korea"
+      },
+      {
+        "year": "2017",
+        "content": "Chair, SIGDA's CADathlon Contest at IEEE/ACM International Conference on Computer Aided Design (ICCAD), Irvine, CA, U.S."
+      },
+      {
+        "year": "2023",
+        "content": "TPC Track Chair, Hardware Systems and Architectures for AI at IEEE/ACM International Conference on Computer Aided Design (ICCAD), San Francisco, CA, U.S."
+      },
+      {
+        "year": "2024",
+        "content": "TPC Track Chair, Hardware Systems and Architectures for AI at IEEE/ACM International Conference on Computer Aided Design (ICCAD), Newark, NJ, U.S."
+      },
+      {
+        "year": "2022",
+        "content": "TPC Track Chair, Memory and Storage, Shanghai at International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES), China"
+      },
+      {
+        "year": "2022",
+        "content": "TPC Track Chair, ACM Great Lakes Symposium on VLSI (GLSVLSI) – VLSI for ML & AI, Irvine, CA, U.S."
+      },
+      {
+        "year": "2021",
+        "content": "TPC Track Chair, Memory Architecture and Near/In Memory Computing at IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan"
+      },
+      {
+        "year": "2022",
+        "content": "TPC Track Chair, Memory Architecture and Near/In Memory Computing at IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Taipei, Taiwan"
+      },
+      {
+        "year": "2023",
+        "content": "TPC Track Chair, Memory Architecture and Near/In Memory Computing at IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan"
+      },
+      {
+        "year": "2025",
+        "content": "TPC Track Chair, Memory Architecture and Near/In Memory Computing at IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan"
+      },
+      {
+        "year": "2019",
+        "content": "TPC Track Chair, IEEE/ACM Design Automation Conference (DAC) – Embedded Memory and Storage Track, Las Vegas, NV, U.S."
+      },
+      {
+        "year": "2018",
+        "content": "TPC Track Chair, ACM Symposium on Applied Computing (SAC) – CPS Track, Pau, France"
+      },
+      {
+        "year": "2019",
+        "content": "TPC Track Chair, ACM Symposium on Applied Computing (SAC) – CPS Track, Limassol, Cyprus"
+      },
+      {
+        "year": "2019",
+        "content": "Publicity Chair, ACM Great Lakes Symposium on VLSI (GLSVLSI), Tysons Corner, VA, U.S."
+      },
+      {
+        "year": "2016",
+        "content": "Publicity Chair, IEEE Computer Society Annual Symposium on VLSI (ISVLSI), Pittsburgh, PA, U.S."
+      },
+      {
+        "year": "2019",
+        "content": "Publicity Chair, IEEE Computer Society Annual Symposium on VLSI (ISVLSI), Miami, FL, U.S."
+      },
+      {
+        "year": "2018",
+        "content": "Local Arrangement Chair, International Green and Sustainable Computing Conference (IGSC), Pittsburgh, PA, U.S."
+      },
+      {
+        "year": "2021",
+        "content": "Publication Chair, IEEE Computer Society Annual Symposium on VLSI (ISVLSI), Tampa, FL, U.S."
+      },
+      {
+        "year": "2018",
+        "content": "Vice Chair, SIGDA System Design Contest at IEEE/ACM Design Automation Conference (DAC), San Francisco, CA, U.S."
+      },
+      {
+        "year": "2016",
+        "content": "Vice Chair, SIGDA CADathlon Competition at IEEE/ACM International Conference on Computer Aided Design (ICCAD), Austin, TX, U.S."
+      },
+      {
+        "year": "2015",
+        "content": "Vice Chair, SIGDA CADathlon Competition at IEEE/ACM International Conference on Computer Aided Design (ICCAD), Austin, TX, U.S."
+      },
+      {
         "year": "2014",
-        "content": "Chair, IEEE Rolla Subsection"
-    },
-    {
-        "year": "2012-2013",
-        "content": "Treasurer and Secretary, IEEE Rolla Subsection"
-    },
-    {
-        "year": "2010-2014",
-        "content": "Freshman Engineering Advisor"
-    },
-    {
-        "year": "2012-2014",
-        "content": "PRO Advisor"
-    },
-    {
-        "year": "2012-2014",
-        "content": "Radio Control Club Advisor"
-    }
+        "content": "Vice Chair, SIGDA CADathlon Competition at IEEE/ACM International Conference on Computer Aided Design (ICCAD), San Jose, CA, U.S."
+      },
+      {
+        "year": "2015",
+        "content": "Publication Chair, IEEE International Conference on Nonvolatile Memory Systems and Applications (NVMSA), Hong Kong, China"
+      },
+      {
+        "year": "2014",
+        "content": "Publication Chair, IEEE International Conference on Nonvolatile Memory Systems and Applications (NVMSA), Chongqing, China"
+      }
+    ]
+  },
+  {
+    "group": "Conference technical program committees and reviewing",
+    "items": [
+      {
+        "year": "2015-2017",
+        "content": "Asia and South Pacific Design Automation Conference (ASP-DAC 2015, 2016, 2017)"
+      },
+      {
+        "year": "2015-2016",
+        "content": "Design, Automation and Test in Europe (DATE 2015, 2016)"
+      },
+      {
+        "year": "2017-2020",
+        "content": "Design Automation Conference (DAC 2017, 2018, 2019, 2020)"
+      },
+      {
+        "year": "2014-2018",
+        "content": "IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA 2014, 2015, 2016, 2017, 2018)"
+      },
+      {
+        "year": "2016",
+        "content": "IEEE Real-Time Systems Symposium (RTSS 2016)"
+      },
+      {
+        "year": "2016-2022",
+        "content": "International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (ESWEEK - CASES 2016, 2017, 2018, 2019, 2020, 2021, 2022)"
+      },
+      {
+        "year": "2021",
+        "content": "ACM/IEEE Conference on Internet of Things Design and Implementation (CPS-IoT Week - IoTDI 2021)"
+      },
+      {
+        "year": "2015-2020",
+        "content": "IEEE International Conference on Embedded Software and Systems (ICESS 2015, 2016, 2017, 2018, 2019, 2020)"
+      },
+      {
+        "year": "2014-2016",
+        "content": "International Conference on VLSI Design and Embedded Systems (VLSID 2014, 2015, 2016)"
+      },
+      {
+        "year": "2015-2017",
+        "content": "IFIP/IEEE International Conference on Very Large-Scale Integration (VLSI-SoC 2015, 2016, 2017)"
+      },
+      {
+        "year": "2015-2020",
+        "content": "IEEE Non-Volatile Memory Systems and Applications Symposium (NVMSA 2015, 2016, 2017, 2018, 2019, 2020)"
+      },
+      {
+        "year": "2020",
+        "content": "IEEE International Conference on Computer Design (ICCD 2020)"
+      },
+      {
+        "year": "",
+        "content": "Reviewer for many journals including ACM Transactions on Design Automation of Electronic Systems (ACM TODAES), ACM Transactions on Embedded Computing Systems (ACM TECS), ACM Transactions on Cyber-Physical Systems (ACM TCPS), ACM Transactions on Storage (ACM TOS), IEEE Transactions on Computers (IEEE TC), IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD), IEEE Transactions on Very Large Scale Integration Systems (IEEE TVLSI), IEEE Transactions on Emerging Topics in Computing (IEEE TETC), IEEE Transactions on Circuits and Systems (IEEE TCAS), IEEE Transactions on Cloud Computing (IEEE TCC), IEEE Embedded Systems Letters (IEEE ESL), Design Automation for Embedded Systems (DAEM), Sensors, Computing, Journal of Signal Processing Systems (JSPS), Journal of Systems Architecture (JSA), Journal of Computers (JCP), Journal of Electrical and Electronics Engineering Research (JEEER), Journal of Low Power Electronics and Applications (JLPEA), Journal of Applied Mathematics (JAM), Journal of Network and Computer Applications (JNCA), International Journal of Parallel, Emergent and Distributed Systems (IJPEDS)"
+      }
+    ]
+  },
+  {
+    "group": "Journal editorships and editorial board service",
+    "items": [
+      {
+        "year": "1",
+        "content": "Guest Editor, ACM Transactions on Embedded Computing Systems, Special Issue on In/Near Memory and Storage Computing for Embedded Systems"
+      },
+      {
+        "year": "2",
+        "content": "Guest Editor, IEEE Transactions on Computers, Special Issue on Non-Volatile Memories"
+      },
+      {
+        "year": "3",
+        "content": "Guest Editor, ACM Transactions on Cyber-Physical Systems, Special Issue on Artificial Intelligence and Cyber-Physical Systems"
+      },
+      {
+        "year": "4",
+        "content": "Guest Editor, Sensors, Special Issue on 'Intelligent IoT Circuits and Systems'"
+      },
+      {
+        "year": "5",
+        "content": "Associate Editor, IEEE Embedded Systems Letters"
+      },
+      {
+        "year": "6",
+        "content": "Associate Editor, ACM Transactions on Cyber-Physical Systems"
+      },
+      {
+        "year": "7",
+        "content": "Associate Editor, The Journal of Systems Architecture: Embedded Software Design (JSA)"
+      },
+      {
+        "year": "8",
+        "content": "Associate Editor, ACM Transactions on Design Automation of Electronic Systems"
+      },
+      {
+        "year": "9",
+        "content": "Associate Editor, ACM Transactions on Computing for Healthcare (HEALTH)"
+      }
+    ]
+  },
+  {
+    "group": "New curricula developed or university-wide centers led",
+    "items": [
+      {
+        "year": "1",
+        "content": "ECE 0202: Embedded Processors and Interfacing (Undergraduate Core, 4 credits) – led the development and refinement of this course, including lecture and lab components"
+      },
+      {
+        "year": "2",
+        "content": "ECE 2156/2195: Advanced Information Security / Special Topics: Computers - Information Security (Graduate Elective) – developed this graduate course on security in computer systems"
+      }
+    ]
+  },
+  {
+    "group": "Interdisciplinary proposals led as PI or Co-PI",
+    "items": [
+      {
+        "year": "1",
+        "content": "National Institute of Health, NIBIB, R01EB033387 Achieve Fairness in AI-Assisted Mobile Healthcare Apps through Unsupervised Federated Learning"
+      },
+      {
+        "year": "2",
+        "content": "National Science Foundation, Expeditions: HAPPI: The Heartfelt Peripheral AI: Human Psychology Fused Intelligent Companion for Mental Well-being"
+      }
+    ]
+  },
+  {
+    "group": "Other professional service",
+    "items": [
+      {
+        "year": "1",
+        "content": "IPSJ/IEEE-CS Young Computer Researcher Award Selection Committee"
+      }
+    ]
+  }
 ]
