@@ -15,7 +15,7 @@ const DirectorSection: React.FC = () => (
                 <figcaption className="text-center text-base text-gray-600 mt-2">Dr. Jingtong Hu</figcaption>
                 <div className="flex justify-center">
                     <a
-                        href="files/cv-shi.pdf"
+                        href="files/cv-jthu.pdf"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-center text-xs inline-block mt-2 px-4 py-2 bg-stone-600 text-white rounded hover:bg-stone-400 transition"
