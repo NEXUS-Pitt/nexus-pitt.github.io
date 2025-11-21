@@ -2,97 +2,97 @@
     {
         "code": "ECE 2195",
         "name": "Information Security",
-        "level": "",
+        "level": "Graduate",
         "semester": "Spring 2025"
+    },
+    {
+        "code": "ECE 0202",
+        "name": "Embedded Processors and Interfacing",
+        "level": "Undergrad",
+        "semester": "Spring 2020"
     },
     {
         "code": "COE 1502",
         "name": "Advanced Digital Design",
-        "level": "",
+        "level": "Undergraduate",
         "semester": "Spring 2020"
     },
     {
         "code": "ECE 2195",
         "name": "Information Security",
-        "level": "",
+        "level": "Graduate",
         "semester": "Fall 2019"
-    },
-    {
-        "code": "ECE 142 ",
-        "name": "Computer Organization",
-        "level": "",
-        "semester": "Fall 2018"
     },
     {
         "code": "ECE 1770",
         "name": "Microprocessor based Electronics Systems",
-        "level": "",
+        "level": "Undergrad",
         "semester": "Spring 2019"
     },
     {
-        "code": "ECE 0202",
-        "name": "Embedded Processors and Interfacing",
-        "level": "",
-        "semester": "Spring 2020"
-    },
-    {
-        "code": "ECEN3233",
-        "name": "Digital Logic Design",
-        "level": "",
-        "semester": "Fall 2013"
-    },
-    {
-        "code": "ECEN3233",
-        "name": "Digital Logic Design",
-        "level": "",
-        "semester": "Spring 2014"
-    },
-    {
-        "code": "ECEN3233",
-        "name": "Digital Logic Design",
-        "level": "",
-        "semester": "Fall 2015"
-    },
-    {
-        "code": "ECEN3233",
-        "name": "Digital Logic Design",
-        "level": "",
-        "semester": "Fall 2016"
-    },	
-    {
-        "code": "ENSC3213",
-        "name": "Computer Based System",
-        "level": "",
-        "semester": "Fall 2014"
-    },
-    {
-        "code": "ENSC3213",
-        "name": "Computer Based System",
-        "level": "",
-        "semester": "Fall 2015"
+        "code": "ECE 142 ",
+        "name": "Computer Organization",
+        "level": "Undergraduate",
+        "semester": "Fall 2018"
     },
     {
         "code": "ECEN4243",
         "name": "Computer Architecture",
-        "level": "",
-        "semester": "Spring 2016"
-    },
-    {
-        "code": "ECEN4243",
-        "name": "Computer Architecture",
-        "level": "",
+        "level": "Undergraduate",
         "semester": "Spring 2017"
     },
     {
         "code": "ECEN4010/5060",
         "name": "Parallel Architecture and Programming",
-        "level": "",
-        "semester": "Spring 2015"
+        "level": "Undergraduate/Graduate",
+        "semester": "Fall 2016"
+    },
+    {
+        "code": "ECEN3233",
+        "name": "Digital Logic Design",
+        "level": "Undergraduate",
+        "semester": "Fall 2016"
+    },	
+    {
+        "code": "ECEN4243",
+        "name": "Computer Architecture",
+        "level": "Undergraduate",
+        "semester": "Spring 2016"
+    },
+    {
+        "code": "ECEN3233",
+        "name": "Digital Logic Design",
+        "level": "Undergraduate",
+        "semester": "Fall 2015"
+    },
+    {
+        "code": "ENSC3213",
+        "name": "Computer Based System",
+        "level": "Undergraduate",
+        "semester": "Fall 2015"
     },
     {
         "code": "ECEN4010/5060",
         "name": "Parallel Architecture and Programming",
-        "level": "",
-        "semester": "Fall 2016"
+        "level": "Undergraduate/Graduate",
+        "semester": "Spring 2015"
+    },
+    {
+        "code": "ENSC3213",
+        "name": "Computer Based System",
+        "level": "Undergraduate",
+        "semester": "Fall 2014"
+    },
+    {
+        "code": "ECEN3233",
+        "name": "Digital Logic Design",
+        "level": "Undergraduate",
+        "semester": "Spring 2014"
+    },
+    {
+        "code": "ECEN3233",
+        "name": "Digital Logic Design",
+        "level": "Undergraduate",
+        "semester": "Fall 2013"
     }
 ]
