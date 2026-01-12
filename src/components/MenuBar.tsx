@@ -9,7 +9,7 @@ const MenuBar: React.FC = () => {
     const navLinks = [
         { to: "/people", label: "People" },
         { to: "/publications", label: "Publications" },
-        // { to: "/projects", label: "Projects" },
+        { to: "/course", label: "Course" },
         { to: "/teaching", label: "Teaching" },
         { to: "/awards", label: "Awards" },
         { to: "/service", label: "Service" },
