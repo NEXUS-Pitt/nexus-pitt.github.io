@@ -88,7 +88,7 @@ const CoursePage: React.FC = () => {
                         <div className="flex items-center gap-4">
                             <img
                                 src="https://nexus-pitt.github.io/images/jthu.jpg"
-                                alt="Song Han"
+                                alt="Jingtong Hu"
                                 className="h-14 w-14 rounded-full object-cover"
                             />
                             <div>
