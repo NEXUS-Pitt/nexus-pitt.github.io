@@ -87,7 +87,7 @@ const CoursePage: React.FC = () => {
                         <h3 className="text-2xl font-bold text-stone-700">Instructor</h3>
                         <div className="flex items-center gap-4">
                             <img
-                                src="https://han98115.github.io/images/jthu.jpg"
+                                src="https://nexus-pitt.github.io/images/jthu.jpg"
                                 alt="Song Han"
                                 className="h-14 w-14 rounded-full object-cover"
                             />
