@@ -142,6 +142,7 @@ const CoursePage: React.FC = () => {
                                         <td className="py-3 font-semibold">Jan. 12</td>
                                         <td className="py-3">
                                             Introduction to Efficient ML; Basics of Deep Learning
+                                            &nbsp;<a href="https://youtu.be/XprK7HnkxLY" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a> 
                                         </td>
                                         <td className="py-3" />
                                     </tr>
@@ -150,7 +151,9 @@ const CoursePage: React.FC = () => {
                                         <td className="py-3">
                                             Model Pruning and Sparsity (Part I &amp; II)
                                         </td>
-                                        <td className="py-3 text-blue-600">Lab 1 Out</td>
+                                        <td className="py-3 text-blue-600">
+                                        <a href="https://colab.research.google.com/drive/1gSaSvJxIizc8rd4nYevCbhvpIgVi69UO" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">Lab 1</a> Out
+                                        </td>
                                     </tr>
                                     <tr className="border-b border-gray-200">
                                         <td className="py-3 font-semibold">Feb. 2</td>
