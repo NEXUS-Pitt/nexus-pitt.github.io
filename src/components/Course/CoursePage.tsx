@@ -141,8 +141,11 @@ const CoursePage: React.FC = () => {
                                     <tr className="border-b border-gray-200">
                                         <td className="py-3 font-semibold">Jan. 12</td>
                                         <td className="py-3">
-                                            Introduction to Efficient ML; Basics of Deep Learning
-                                            &nbsp;<a href="https://youtu.be/XprK7HnkxLY" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a> 
+                                            Lecture 1: Introduction to Efficient ML
+                                            &nbsp;<a href="https://youtu.be/amAnp0bzS14" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>
+                                            <br />
+                                            Lecture 2: Basics of Deep Learning
+                                            &nbsp;<a href="https://youtu.be/rm6u0G9SKKA" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a> 
                                         </td>
                                         <td className="py-3" />
                                     </tr>
