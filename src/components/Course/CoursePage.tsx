@@ -147,7 +147,9 @@ const CoursePage: React.FC = () => {
                                             Basics of Deep Learning
                                             &nbsp;<a href="https://youtu.be/rm6u0G9SKKA" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a> 
                                         </td>
-                                        <td className="py-3" />
+                                        <td className="py-3 text-blue-600">
+                                        <a href="https://colab.research.google.com/drive/1U5-7mX9DuV8_krZR9eMocZoO-kabR0qT" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">Lab 0</a> Out
+                                        </td>
                                     </tr>
                                     <tr className="border-b border-gray-200">
                                         <td className="py-3 font-semibold">Jan. 26</td>
