@@ -155,6 +155,7 @@ const CoursePage: React.FC = () => {
                                         <td className="py-3 font-semibold">Jan. 26</td>
                                         <td className="py-3">
                                             Model Pruning and Sparsity (Part I &amp; II)
+                                            &nbsp;<a href="https://youtu.be/nnuggn9JqRM" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>
                                         </td>
                                         <td className="py-3 text-blue-600">
                                         <a href="https://colab.research.google.com/drive/1gSaSvJxIizc8rd4nYevCbhvpIgVi69UO" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">Lab 1</a> Out
