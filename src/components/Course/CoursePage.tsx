@@ -162,7 +162,7 @@ const CoursePage: React.FC = () => {
                                     </tr>
                                     <tr className="border-b border-gray-200">
                                         <td className="py-3 font-semibold">Feb. 2</td>
-                                        <td className="py-3">Quantization (Part I &amp; II)</td>
+                                        <td className="py-3">Quantization (Part I:&nbsp;<a href="https://youtu.be/ygHu89v09a0" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a> &amp;Part II:&nbsp;<a href="https://youtu.be/PBGt6YNSjTQ" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>)</td>
                                         <td className="py-3" />
                                     </tr>
                                     <tr className="border-b border-gray-200">
