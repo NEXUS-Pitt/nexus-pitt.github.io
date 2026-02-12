@@ -32,12 +32,6 @@
       "year": 2025
       },
       {
-      "authors": "Dongwei Wang, Zijie Liu, Song Wang, Yuxin Ren, Jianing Deng, Jingtong Hu, Tianlong Chen, Huanrui Yang",
-      "title": "FIER: Fine-Grained and Efficient KV Cache Retrieval for Long-context LLM Inference",
-      "venue": "CoRR",
-      "year": 2025
-      },
-      {
       "authors": "Zhenge Jia, Tianren Zhou, Zheyu Yan, Jingtong Hu, Yiyu Shi",
       "title": "Personalized Meta-Federated Learning for IoT-Enabled Health Monitoring",
       "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
