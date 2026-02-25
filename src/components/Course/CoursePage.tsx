@@ -185,9 +185,9 @@ const CoursePage: React.FC = () => {
                                     </tr>
                                     <tr className="border-b border-gray-200">
                                         <td className="py-3 font-semibold">Feb. 23</td>
-                                        <td className="py-3">Efficient Transformers and LLMs</td>
+                                        <td className="py-3">Efficient Transformers, LLM, and RAG (Part I:&nbsp;<a href="https://youtu.be/y1xsK0Y7VcM" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a> &amp;Part II:&nbsp;<a href="https://youtu.be/4iDcSwhs7yY" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>)</td>
                                         <td className="py-3 text-blue-600">
-                                            Lab 2 Due, Lab 3 Out
+                                            Lab 2 Due, <a href="https://colab.research.google.com/drive/1OrvTHqG-kQRLZ2JotLo2DTif5zHZ9cbt" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">Lab 3</a> Out
                                         </td>
                                     </tr>
                                     <tr className="border-b border-gray-200">
