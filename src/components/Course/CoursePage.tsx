@@ -142,10 +142,10 @@ const CoursePage: React.FC = () => {
                                         <td className="py-3 font-semibold">Jan. 12</td>
                                         <td className="py-3">
                                             Introduction to Efficient ML
-                                            &nbsp;<a href="https://youtu.be/amAnp0bzS14" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>
+                                            &nbsp;(<a href="https://youtu.be/amAnp0bzS14" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>)
                                             <br />
                                             Basics of Deep Learning
-                                            &nbsp;<a href="https://youtu.be/rm6u0G9SKKA" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a> 
+                                            &nbsp;(<a href="https://youtu.be/rm6u0G9SKKA" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>) 
                                         </td>
                                         <td className="py-3 text-blue-600">
                                         <a href="https://colab.research.google.com/drive/1U5-7mX9DuV8_krZR9eMocZoO-kabR0qT" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">Lab 0</a> Out
@@ -176,10 +176,10 @@ const CoursePage: React.FC = () => {
                                         <td className="py-3 font-semibold">Feb. 16</td>
                                         <td className="py-3">
                                             Knowledge Distillation
-                                            &nbsp;<a href="https://youtu.be/khDgn1rU0s4" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>
+                                            &nbsp;(<a href="https://youtu.be/khDgn1rU0s4" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>)
                                             <br />
                                             TinyML
-                                            &nbsp;<a href="https://youtu.be/Vuw6rFj4gn8" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a> 
+                                            &nbsp;(<a href="https://youtu.be/Vuw6rFj4gn8" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>)
                                         </td>
                                         <td className="py-3" />
                                     </tr>
@@ -193,14 +193,18 @@ const CoursePage: React.FC = () => {
                                     <tr className="border-b border-gray-200">
                                         <td className="py-3 font-semibold">Mar. 2</td>
                                         <td className="py-3">
-                                            Efficient LLM Deployment; Long Context LLMs
+                                            Efficient Transformers, LLM, and RAG
+                                            &nbsp;(Part III &nbsp;<a href="https://youtu.be/sVclQpdWsx8" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>)
+                                            <br />
+                                            Efficient LLM Deployment
+                                            &nbsp;(<a href="https://youtu.be/6-bbvFbBAJk" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>)
                                         </td>
                                         <td className="py-3" />
                                     </tr>
                                     <tr className="border-b border-gray-200">
                                         <td className="py-3 font-semibold">Mar. 16</td>
                                         <td className="py-3">
-                                            Vision Transformers (ViT); Efficient GANs &amp; Video Models
+                                            Long Context LLMs; Vision Transformers (ViT); Efficient GANs &amp; Video Models
                                         </td>
                                         <td className="py-3 text-blue-600">
                                             Lab 3 Due, Lab 4 Out
