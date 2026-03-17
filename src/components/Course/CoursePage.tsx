@@ -204,7 +204,11 @@ const CoursePage: React.FC = () => {
                                     <tr className="border-b border-gray-200">
                                         <td className="py-3 font-semibold">Mar. 16</td>
                                         <td className="py-3">
-                                            Long Context LLMs; Vision Transformers (ViT); Efficient GANs &amp; Video Models
+                                            Long Context LLMs
+                                            &nbsp;<a href="https://youtu.be/xbd3LhddVLA" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>
+                                            <br />
+                                            Vision Transformers (ViT)
+                                            &nbsp;<a href="https://youtu.be/bGF4W6qiD3A" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>
                                         </td>
                                         <td className="py-3 text-blue-600">
                                             Lab 3 Due, <a href="https://colab.research.google.com/drive/10AZWtmIGRjOj1OW-TSIOoPniI_nyHz53" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">Lab 4</a> Out
