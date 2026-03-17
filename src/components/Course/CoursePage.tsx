@@ -207,7 +207,7 @@ const CoursePage: React.FC = () => {
                                             Long Context LLMs; Vision Transformers (ViT); Efficient GANs &amp; Video Models
                                         </td>
                                         <td className="py-3 text-blue-600">
-                                            Lab 3 Due, Lab 4 Out
+                                            Lab 3 Due, <a href="https://colab.research.google.com/drive/10AZWtmIGRjOj1OW-TSIOoPniI_nyHz53" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">Lab 4</a> Out
                                         </td>
                                     </tr>
                                     <tr className="border-b border-gray-200">
