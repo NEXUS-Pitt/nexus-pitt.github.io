@@ -232,7 +232,6 @@ const CoursePage: React.FC = () => {
                                         <td className="py-3 font-semibold">Apr. 6</td>
                                         <td className="py-3">Distributed Training (Part II)</td>
                                         <td className="py-3 text-blue-600">
-                                            Final Project Proposal Due
                                         </td>
                                     </tr>
                                     <tr className="border-b border-gray-200">
