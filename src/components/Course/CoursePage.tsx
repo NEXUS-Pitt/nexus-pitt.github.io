@@ -216,12 +216,14 @@ const CoursePage: React.FC = () => {
                                     </tr>
                                     <tr className="border-b border-gray-200">
                                         <td className="py-3 font-semibold">Mar. 23</td>
-                                        <td className="py-3">Efficient Diffusion Models</td>
-                                        <td className="py-3 text-blue-600">Final Project Ideas Out</td>
+                                        <td className="py-3">Specialized Hardware for Efficient ML
+                                            &nbsp;<a href="https://youtu.be/XEPaQLQtE9k" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>
+										</td>
+                                        <td className="py-3 text-blue-600"></td>
                                     </tr>
                                     <tr className="border-b border-gray-200">
                                         <td className="py-3 font-semibold">Mar. 30</td>
-                                        <td className="py-3">Distributed Training (Part I)</td>
+                                        <td className="py-3">Efficient Diffusion Models; Distributed Training (Part I)</td>
                                         <td className="py-3 text-blue-600">
                                             Lab 4 Due, Lab 5 Out
                                         </td>
