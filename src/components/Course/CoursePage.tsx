@@ -223,26 +223,30 @@ const CoursePage: React.FC = () => {
                                     </tr>
                                     <tr className="border-b border-gray-200">
                                         <td className="py-3 font-semibold">Mar. 30</td>
-                                        <td className="py-3">Efficient Diffusion Models; Distributed Training (Part I)</td>
+                                        <td className="py-3">
+                                        Efficient GANs, Video, and Point Cloud
+                                        <br />
+                                        Efficient Diffusion Models
+                                        </td>
                                         <td className="py-3 text-blue-600">
                                             Lab 4 Due, Lab 5 Out
                                         </td>
                                     </tr>
                                     <tr className="border-b border-gray-200">
                                         <td className="py-3 font-semibold">Apr. 6</td>
-                                        <td className="py-3">Distributed Training (Part II)</td>
+                                        <td className="py-3">Distributed Training (Part I)</td>
                                         <td className="py-3 text-blue-600">
                                         </td>
                                     </tr>
                                     <tr className="border-b border-gray-200">
                                         <td className="py-3 font-semibold">Apr. 13</td>
-                                        <td className="py-3">On-Device Training and Transfer Learning</td>
+                                        <td className="py-3">Distributed Training (Part II)</td>
                                         <td className="py-3 text-blue-600">Lab 5 Due</td>
                                     </tr>
                                     <tr className="border-b border-gray-200">
                                         <td className="py-3 font-semibold">Apr. 20</td>
                                         <td className="py-3">
-                                            Hardware Accelerators/Process-in-Memory; Course Summary
+                                            On-Device Training and Transfer Learning; Course Summary
                                         </td>
                                         <td className="py-3" />
                                     </tr>
