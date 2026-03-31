@@ -224,7 +224,14 @@ const CoursePage: React.FC = () => {
                                     <tr className="border-b border-gray-200">
                                         <td className="py-3 font-semibold">Mar. 30</td>
                                         <td className="py-3">
-                                        Efficient HART, GANs, and Diffusion Models
+                                            Hybrid Autoregressive Transformer (HART)
+                                            &nbsp;<a href="https://youtu.be/oBzdkV5NNFw" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>
+                                            <br />
+                                            Efficient GANs
+                                            &nbsp;<a href="https://youtu.be/iF3aAEmpzZ8" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>
+                                            <br />
+                                            Diffusion Models
+                                            &nbsp;<a href="https://youtu.be/uZ3CYy869yI" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>
                                         </td>
                                         <td className="py-3 text-blue-600">
                                             Lab 4 Due, Lab 5 Out
