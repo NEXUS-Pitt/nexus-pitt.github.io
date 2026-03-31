@@ -225,10 +225,10 @@ const CoursePage: React.FC = () => {
                                         <td className="py-3 font-semibold">Mar. 30</td>
                                         <td className="py-3">
                                             Hybrid Autoregressive Transformer (HART)
-                                            &nbsp;<a href="https://youtu.be/oBzdkV5NNFw" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>
+                                            &nbsp;<a href="https://youtu.be/ysjhwLjSXyo" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>
                                             <br />
                                             Efficient GANs
-                                            &nbsp;<a href="https://youtu.be/iF3aAEmpzZ8" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>
+                                            &nbsp;<a href="https://youtu.be/Xn0XAZYNGuQ" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>
                                             <br />
                                             Diffusion Models
                                             &nbsp;<a href="https://youtu.be/uZ3CYy869yI" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>
