@@ -1,6 +1,12 @@
 [
     {
         "code": "ECE 2195",
+        "name": "Efficient Deep Learning",
+        "level": "Graduate",
+        "semester": "Spring 2026"
+    },
+    {
+        "code": "ECE 2195",
         "name": "Information Security",
         "level": "Graduate",
         "semester": "Spring 2025"
