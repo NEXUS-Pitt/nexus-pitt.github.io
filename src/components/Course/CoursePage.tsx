@@ -234,7 +234,7 @@ const CoursePage: React.FC = () => {
                                             &nbsp;<a href="https://youtu.be/uZ3CYy869yI" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>
                                         </td>
                                         <td className="py-3 text-blue-600">
-                                            Lab 4 Due, Lab 5 Out
+                                            Lab 4 Due
                                         </td>
                                     </tr>
                                     <tr className="border-b border-gray-200">
@@ -246,7 +246,7 @@ const CoursePage: React.FC = () => {
                                     <tr className="border-b border-gray-200">
                                         <td className="py-3 font-semibold">Apr. 13</td>
                                         <td className="py-3">Distributed Training (Part II)</td>
-                                        <td className="py-3 text-blue-600">Lab 5 Due</td>
+                                        <td className="py-3 text-blue-600"></td>
                                     </tr>
                                     <tr className="border-b border-gray-200">
                                         <td className="py-3 font-semibold">Apr. 20</td>
