@@ -239,7 +239,9 @@ const CoursePage: React.FC = () => {
                                     </tr>
                                     <tr className="border-b border-gray-200">
                                         <td className="py-3 font-semibold">Apr. 6</td>
-                                        <td className="py-3">Distributed Training (Part I)</td>
+                                        <td className="py-3">Distributed Training (Part I)
+                                        &nbsp;<a href="https://youtu.be/uJ61xHRMwG8" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>
+										</td>
                                         <td className="py-3 text-blue-600">
                                         </td>
                                     </tr>
