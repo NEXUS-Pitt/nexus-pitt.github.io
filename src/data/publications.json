@@ -2,6 +2,12 @@
   "book_chapter": [],
   "journal": [
       {
+      "authors": "Heyang Zhang, Abby Maier, Melvin Mathews, Jingtong Hu, Xiayun Zhao",
+      "title": "Development of open-architecture two-wavelength grayscale digital light processing for advanced vat photopolymerization",
+      "venue": "Additive Manufacturing",
+      "year": 2025
+      },
+      {
       "authors": "Xiao Dong, Songyu Sun, Yangfan Jiang, Jingtong Hu, Dawei Gao, Zhiguo Shi, Cheng Zhuo",
       "title": "SPIRAL+: Efficient Signal-Power Integrity Co-Analysis for Interchiplet Links Validation",
       "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
