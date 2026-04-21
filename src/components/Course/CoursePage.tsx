@@ -253,6 +253,7 @@ const CoursePage: React.FC = () => {
                                         <td className="py-3 font-semibold">Apr. 20</td>
                                         <td className="py-3">
                                             On-Device Training and Transfer Learning; Course Summary
+                                            &nbsp;<a href="https://youtu.be/Zgrql4LMo1M" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">[Video]</a>
                                         </td>
                                         <td className="py-3" />
                                     </tr>
