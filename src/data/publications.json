@@ -808,6 +808,13 @@
   ],
   "conference": [
       {
+      "authors": "Pan Wang, Lipeng Ke, Huajun Ying, Pritish Mohapatra, Rohan Sarkar, Suresh Lakhani, Sankar Venkataraman, Jingtong Hu",
+      "title": "ConsMSA: Semantic Distribution Consistency Learning for Multimodal Sentiment Analysis",
+      "venue": "International Conference on Machine Learning (ICML)",
+      "location": "Seoul, South Korea",
+      "year": 2026
+      },
+      {
       "authors": "Jianing Deng, Song Wang, Dongwei Wang, Zijie Liu, Tianlong Chen, Huanrui Yang, Jingtong Hu",
       "title": "GEMQ: Global Expert-Level Mixed-Precision Quantization for MoE LLMs",
       "venue": "International Conference on Machine Learning (ICML)",
