@@ -2,6 +2,12 @@
   "book_chapter": [],
   "journal": [
       {
+      "authors": "Pan Wang, Siwei Song, Hui Ji, Siqi Cao, Heng Yu, Zhijian Liu, Huanrui Yang, Yingyan (Celine) Lin, Beidi Chen, Mohit Bansal, Xiaoming Liu, Pengfei Zhou, Ming-Hsuan Yang, Tianlong Chen, Jingtong Hu",
+      "title": "From Models to Systems: A Comprehensive Survey of Efficient Multimodal Learning",
+      "venue": "TechRxiv",
+      "year": 2026
+      },
+      {
       "authors": "Heyang Zhang, Abby Maier, Melvin Mathews, Jingtong Hu, Xiayun Zhao",
       "title": "Development of Open-Architecture Two-Wavelength Grayscale Digital Light Processing for Advanced Vat Photopolymerization",
       "venue": "Additive Manufacturing",
