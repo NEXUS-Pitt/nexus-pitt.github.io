@@ -808,6 +808,20 @@
   ],
   "conference": [
       {
+      "authors": "Jianing Deng, Song Wang, Dongwei Wang, Zijie Liu, Tianlong Chen, Huanrui Yang, Jingtong Hu",
+      "title": "GEMQ: Global Expert-Level Mixed-Precision Quantization for MoE LLMs",
+      "venue": "International Conference on Machine Learning (ICML)",
+      "location": "Seoul, South Korea",
+      "year": 2026
+      },
+      {
+      "authors": "Qiang Zhou, Hanzhen Zhu, Pan Wang, Rui Tu, Huaizhi Qu, Zhuoran Wang, Xin Hu, Lei Li, Tianlong Chen, Jingtong Hu",
+      "title": "Modeling Attributional Style at Scale: A Dataset and Analysis for Psychological Attribution Assessment and Reframing",
+      "venue": "International Conference on Machine Learning (ICML)",
+      "location": "Seoul, South Korea",
+      "year": 2026
+      },
+      {
       "authors": "Dongwei Wang, Zijie Liu, Song Wang, Yuxin Ren, Jianing Deng, Jingtong Hu, Tianlong Chen, Huanrui Yang",
       "title": "FIER: Fine-Grained and Efficient KV Cache Retrieval for Long-context LLM Inference",
       "venue": "Empirical Methods in Natural Language Processing, EMNLP",
