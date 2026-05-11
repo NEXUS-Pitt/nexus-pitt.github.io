@@ -2,6 +2,12 @@
   "book_chapter": [],
   "journal": [
       {
+      "authors": "Jingxian Chen, Yukai Song, Shengjie Xu, Kyle Kessler, Prateek Ganguli, Arkaprava Gupta, Bineet Ghosh, Sridhar Duggirala, Tianlong Chen, Samarjit Chakraborty, Jingtong Hu",
+      "title": "Controller-aware Perception Neural Network Pruning for CPS Safety Optimization",
+      "venue": "ACM Transactions on Cyber-Physical Systems (TCPS)",
+      "year": 2026
+      },
+      {
       "authors": "Pan Wang, Siwei Song, Hui Ji, Siqi Cao, Heng Yu, Zhijian Liu, Huanrui Yang, Yingyan (Celine) Lin, Beidi Chen, Mohit Bansal, Xiaoming Liu, Pengfei Zhou, Ming-Hsuan Yang, Tianlong Chen, Jingtong Hu",
       "title": "From Models to Systems: A Comprehensive Survey of Efficient Multimodal Learning",
       "venue": "Transactions on Machine Learning Research (TMLR)",
