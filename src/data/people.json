@@ -55,13 +55,6 @@
                 "homepage": "",
                 "admission_year": "2024",
                 "research_interest": "Autonomous Vehicles; Efficient AI; Safety & Reliability"
-            },
-            {
-                "name": "Aiden Seo",
-                "image": "images/aseo.png",
-                "homepage": "",
-                "admission_year": "2024",
-                "research_interest": "Computer Vision, LLM,  Efficient AI"
             }
         ]
     },
@@ -135,6 +128,7 @@
                 "title": "M.S.",
                 "people": [
                     {
+                        "name": "Aiden Seo",
                         "name": "Rui Tu",
                         "degree_info": "M.S. 2025",
                         "first_job": ""
