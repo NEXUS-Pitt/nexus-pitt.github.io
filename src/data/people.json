@@ -129,6 +129,10 @@
                 "people": [
                     {
                         "name": "Aiden Seo",
+                        "degree_info": "M.S. 2026",
+                        "first_job": "Qualcomm"
+                    },
+					{
                         "name": "Rui Tu",
                         "degree_info": "M.S. 2025",
                         "first_job": ""
