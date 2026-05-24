@@ -44,12 +44,6 @@
       "year": 2025
       },
       {
-      "authors": "Yancheng Zhang, Mengxin Zheng, Xun Chen, Jingtong Hu, Weidong Shi, Lei Ju, Yan Solihin, Qian Lou",
-      "title": "zkVC: Fast Zero-Knowledge Proof for Private and Verifiable Computing",
-      "venue": "CoRR",
-      "year": 2025
-      },
-      {
       "authors": "Zhenge Jia, Tianren Zhou, Zheyu Yan, Jingtong Hu, Yiyu Shi",
       "title": "Personalized Meta-Federated Learning for IoT-Enabled Health Monitoring",
       "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
@@ -80,12 +74,6 @@
       "year": 2024
       },
       {
-      "authors": "Jinming Zhuang, Zhuoping Yang, Shixin Ji, Heng Huang, Alex K. Jones, Jingtong Hu, Yiyu Shi, Peipei Zhou",
-      "title": "SSR: Spatial Sequential Hybrid Architecture for Latency Throughput Tradeoff in Transformer Acceleration",
-      "venue": "CoRR",
-      "year": 2024
-      },
-      {
       "authors": "Sheng Li, Geng Yuan, Yawen Wu, Yue Dai, Chao Wu, Alex K. Jones, Jingtong Hu, Yanzhi Wang, Xulong Tang",
       "title": "EdgeOL: Efficient in-situ Online Learning on Edge Devices",
       "venue": "CoRR",
@@ -94,18 +82,6 @@
       {
       "authors": "Shixin Ji, Zhuoping Yang, Xingzhen Chen, Jingtong Hu, Yiyu Shi, Alex K. Jones, Peipei Zhou",
       "title": "Towards Data-center Level Carbon Modeling and Optimization for Deep Learning Inference",
-      "venue": "CoRR",
-      "year": 2024
-      },
-      {
-      "authors": "Qingpeng Kong, Ching-Hao Chiu, Dewen Zeng, Yu-Jen Chen, Tsung-Yi Ho, Jingtong Hu, Yiyu Shi",
-      "title": "Achieving Fairness Through Channel Pruning for Dermatological Disease Diagnosis",
-      "venue": "CoRR",
-      "year": 2024
-      },
-      {
-      "authors": "Yi Sheng, Junhuan Yang, Jinyang Li, James Alaina, Xiaowei Xu, Yiyu Shi, Jingtong Hu, Weiwen Jiang, Lei Yang",
-      "title": "Data-Algorithm-Architecture Co-Optimization for Fair Neural Networks on Skin Lesion Dataset",
       "venue": "CoRR",
       "year": 2024
       },
@@ -152,38 +128,8 @@
       "year": 2023
       },
       {
-      "authors": "Jinming Zhuang, Jason Lau, Hanchen Ye, Zhuoping Yang, Yubo Du, Jack Lo, Kristof Denolf, Stephen Neuendorffer, Alex K. Jones, Jingtong Hu, Deming Chen, Jason Cong, Peipei Zhou",
-      "title": "CHARM: Composing Heterogeneous Accelerators for Matrix Multiply on Versal ACAP Architecture",
-      "venue": "CoRR",
-      "year": 2023
-      },
-      {
       "authors": "Tsung-Han Kuo, Zhenge Jia, Tei-Wei Kuo, Jingtong Hu",
       "title": "BiTrackGAN: Cascaded CycleGANs to Constraint Face Aging",
-      "venue": "CoRR",
-      "year": 2023
-      },
-      {
-      "authors": "Dewen Zeng, Yawen Wu, Xinrong Hu, Xiaowei Xu, Jingtong Hu, Yiyu Shi",
-      "title": "Additional Positive Enables Better Representation Learning for Medical Images",
-      "venue": "CoRR",
-      "year": 2023
-      },
-      {
-      "authors": "Yi Sheng, Junhuan Yang, Lei Yang, Yiyu Shi, Jingtong Hu, Weiwen Jiang",
-      "title": "Muffin: A Framework Toward Multi-Dimension AI Fairness by Uniting Off-the-Shelf Models",
-      "venue": "CoRR",
-      "year": 2023
-      },
-      {
-      "authors": "Ruiyang Qin, Jun Xia, Zhenge Jia, Meng Jiang, Ahmed Abbasi, Peipei Zhou, Jingtong Hu, Yiyu Shi",
-      "title": "Enabling On-Device Large Language Model Personalization with Self-Supervised Data Selection and Synthesis",
-      "venue": "CoRR",
-      "year": 2023
-      },
-      {
-      "authors": "Peipei Zhou, Jinming Zhuang, Stephen Cahoon, Yue Tang, Zhuoping Yang, Xingzhen Chen, Yiyu Shi, Jingtong Hu, Alex K. Jones",
-      "title": "REFRESH FPGAs: Sustainable FPGA Chiplet Architectures",
       "venue": "CoRR",
       "year": 2023
       },
@@ -254,56 +200,8 @@
       "year": 2022
       },
       {
-      "authors": "Yawen Wu, Dewen Zeng, Zhepeng Wang, Yi Sheng, Lei Yang, Alaina J. James, Yiyu Shi, Jingtong Hu",
-      "title": "Federated Contrastive Learning for Dermatological Disease Diagnosis via On-device Learning",
-      "venue": "CoRR",
-      "year": 2022
-      },
-      {
-      "authors": "Yue Tang, Xinyi Zhang, Peipei Zhou, Jingtong Hu",
-      "title": "EF-Train: Enable Efficient On-device CNN Training on FPGA Through Data Reshaping for Online Adaptation or Personalization",
-      "venue": "CoRR",
-      "year": 2022
-      },
-      {
-      "authors": "Yi Sheng, Junhuan Yang, Yawen Wu, Kevin Mao, Yiyu Shi, Jingtong Hu, Weiwen Jiang, Lei Yang",
-      "title": "The Larger The Fairer? Small Neural Networks Can Achieve Fairness for Edge Devices",
-      "venue": "CoRR",
-      "year": 2022
-      },
-      {
-      "authors": "Yawen Wu, Dewen Zeng, Xiaowei Xu, Yiyu Shi, Jingtong Hu",
-      "title": "FairPrune: Achieving Fairness Through Pruning for Dermatological Disease Diagnosis",
-      "venue": "CoRR",
-      "year": 2022
-      },
-      {
-      "authors": "Yawen Wu, Dewen Zeng, Zhepeng Wang, Yiyu Shi, Jingtong Hu",
-      "title": "Federated Contrastive Learning for Volumetric Medical Image Segmentation",
-      "venue": "CoRR",
-      "year": 2022
-      },
-      {
       "authors": "Sébastien Ollivier, Xinyi Zhang, Yue Tang, Chayanika Choudhuri, Jingtong Hu, Alex K. Jones",
       "title": "FPIRM: Floating-point Processing in Racetrack Memories",
-      "venue": "CoRR",
-      "year": 2022
-      },
-      {
-      "authors": "Xinyi Zhang, Cong Hao, Peipei Zhou, Alex K. Jones, Jingtong Hu",
-      "title": "H2H: Heterogeneous Model to Heterogeneous System Mapping with Computation and Communication Awareness",
-      "venue": "CoRR",
-      "year": 2022
-      },
-      {
-      "authors": "Sébastien Ollivier, Sheng Li, Yue Tang, Chayanika Chaudhuri, Peipei Zhou, Xulong Tang, Jingtong Hu, Alex K. Jones",
-      "title": "Sustainable AI Processing at the Edge",
-      "venue": "CoRR",
-      "year": 2022
-      },
-      {
-      "authors": "Yawen Wu, Dewen Zeng, Zhepeng Wang, Yiyu Shi, Jingtong Hu",
-      "title": "Distributed Contrastive Learning for Medical Image Segmentation",
       "venue": "CoRR",
       "year": 2022
       },
@@ -316,12 +214,6 @@
       {
       "authors": "Yawen Wu, Dewen Zeng, Zhepeng Wang, Yi Sheng, Lei Yang, Alaina J. James, Yiyu Shi, Jingtong Hu",
       "title": "Federated Self-Supervised Contrastive Learning and Masked Autoencoder for Dermatological Disease Diagnosis",
-      "venue": "CoRR",
-      "year": 2022
-      },
-      {
-      "authors": "Yue Tang, Yawen Wu, Peipei Zhou, Jingtong Hu",
-      "title": "Enabling Weakly-Supervised Temporal Action Localization from On-Device Learning of the Video Stream",
       "venue": "CoRR",
       "year": 2022
       },
@@ -368,26 +260,8 @@
       "year": 2021
       },
       {
-      "authors": "Yawen Wu, Zhepeng Wang, Dewen Zeng, Yiyu Shi, Jingtong Hu",
-      "title": "Enabling On-Device Self-Supervised Contrastive Learning With Selective Data Contrast",
-      "venue": "CoRR",
-      "year": 2021
-      },
-      {
-      "authors": "Dewen Zeng, Yawen Wu, Xinrong Hu, Xiaowei Xu, Haiyun Yuan, Meiping Huang, Jian Zhuang, Jingtong Hu, Yiyu Shi",
-      "title": "Positional Contrastive Learning for Volumetric Medical Image Segmentation",
-      "venue": "CoRR",
-      "year": 2021
-      },
-      {
       "authors": "Sébastien Ollivier, Stephen Longofono, Prayash Dutta, Jingtong Hu, Sanjukta Bhanja, Alex K. Jones",
       "title": "PIRM: Processing In Racetrack Memories",
-      "venue": "CoRR",
-      "year": 2021
-      },
-      {
-      "authors": "Dewen Zeng, Yukun Ding, Haiyun Yuan, Meiping Huang, Xiaowei Xu, Jian Zhuang, Jingtong Hu, Yiyu Shi",
-      "title": "Hardware-aware Real-time Myocardial Segmentation Quality Control in Contrast Echocardiography",
       "venue": "CoRR",
       "year": 2021
       },
@@ -434,42 +308,6 @@
       "year": 2020
       },
       {
-      "authors": "Xinyi Zhang, Clay Patterson, Yongpan Liu, Chengmo Yang, Chun Jason Xue, Jingtong Hu",
-      "title": "Low Overhead Online Data Flow Tracking for Intermittently Powered Non-volatile FPGAs",
-      "venue": "CoRR",
-      "year": 2020
-      },
-      {
-      "authors": "Yawen Wu, Zhepeng Wang, Zhenge Jia, Yiyu Shi, Jingtong Hu",
-      "title": "Intermittent Inference with Nonuniformly Compressed Multi-Exit Neural Network for Energy Harvesting Powered Devices",
-      "venue": "CoRR",
-      "year": 2020
-      },
-      {
-      "authors": "Yawen Wu, Zhepeng Wang, Yiyu Shi, Jingtong Hu",
-      "title": "Enabling On-Device CNN Training by Self-Supervised Instance Filtering and Error Map Pruning",
-      "venue": "CoRR",
-      "year": 2020
-      },
-      {
-      "authors": "Weiwen Jiang, Lei Yang, Sakyasingha Dasgupta, Jingtong Hu, Yiyu Shi",
-      "title": "Standing on the Shoulders of Giants: Hardware and Neural Architecture Co-Search with Hot Start",
-      "venue": "CoRR",
-      "year": 2020
-      },
-      {
-      "authors": "Dewen Zeng, Weiwen Jiang, Tianchen Wang, Xiaowei Xu, Haiyun Yuan, Meiping Huang, Jian Zhuang, Jingtong Hu, Yiyu Shi",
-      "title": "Towards Cardiac Intervention Assistance: Hardware-aware Neural Architecture Exploration for Real-Time 3D Cardiac Cine MRI Segmentation",
-      "venue": "CoRR",
-      "year": 2020
-      },
-      {
-      "authors": "Zhenge Jia, Zhepeng Wang, Feng Hong, Lichuan Ping, Yiyu Shi, Jingtong Hu",
-      "title": "Personalized Deep Learning for Ventricular Arrhythmias Detection on Medical IoT Systems",
-      "venue": "CoRR",
-      "year": 2020
-      },
-      {
       "authors": "Mimi Xie, Chen Pan, Youtao Zhang, Jingtong Hu, Yongpan Liu, Chun Jason Xue",
       "title": "A Novel STT-RAM-Based Hybrid Cache for Intermittently Powered Processors in IoT Devices",
       "venue": "IEEE Micro",
@@ -512,32 +350,8 @@
       "year": 2019
       },
       {
-      "authors": "Weiwen Jiang, Xinyi Zhang, Edwin Hsing-Mean Sha, Lei Yang, Qingfeng Zhuge, Yiyu Shi, Jingtong Hu",
-      "title": "Accuracy vs. Efficiency: Achieving Both through FPGA-Implementation Aware Neural Architecture Search",
-      "venue": "CoRR",
-      "year": 2019
-      },
-      {
-      "authors": "Weiwen Jiang, Lei Yang, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Shouzhen Gu, Yiyu Shi, Jingtong Hu",
-      "title": "Hardware/Software Co-Exploration of Neural Architectures",
-      "venue": "CoRR",
-      "year": 2019
-      },
-      {
-      "authors": "Weiwen Jiang, Edwin Hsing-Mean Sha, Xinyi Zhang, Lei Yang, Qingfeng Zhuge, Yiyu Shi, Jingtong Hu",
-      "title": "Achieving Super-Linear Speedup across Multi-FPGA for Real-Time DNN Inference",
-      "venue": "CoRR",
-      "year": 2019
-      },
-      {
       "authors": "Qing Lu, Weiwen Jiang, Xiaowei Xu, Yiyu Shi, Jingtong Hu",
       "title": "On Neural Architecture Search for Resource-Constrained Hardware Platforms",
-      "venue": "CoRR",
-      "year": 2019
-      },
-      {
-      "authors": "Weiwen Jiang, Qiuwen Lou, Zheyu Yan, Lei Yang, Jingtong Hu, Xiaobo Sharon Hu, Yiyu Shi",
-      "title": "Device-Circuit-Architecture Co-Exploration for Computing-in-Memory Neural Accelerators",
       "venue": "CoRR",
       "year": 2019
       },
@@ -581,18 +395,6 @@
       "authors": "Mimi Xie, Shuangchen Li, Alvin Oliver Glova, Jingtong Hu, Yuan Xie",
       "title": "Securing Emerging Nonvolatile Main Memory With Fast and Energy-Efficient AES In-Memory Implementation",
       "venue": "IEEE Trans. Very Large Scale Integr. Syst.",
-      "year": 2018
-      },
-      {
-      "authors": "Xiaolong Ma, Yipeng Zhang, Geng Yuan, Ao Ren, Zhe Li, Jie Han, Jingtong Hu, Yanzhi Wang",
-      "title": "An Area and Energy Efficient Design of Domain-Wall Memory-Based Deep Convolutional Neural Networks using Stochastic Computing",
-      "venue": "CoRR",
-      "year": 2018
-      },
-      {
-      "authors": "Xiaowei Xu, Xinyi Zhang, Bei Yu, Xiaobo Sharon Hu, Christopher Rowen, Jingtong Hu, Yiyu Shi",
-      "title": "DAC-SDC Low Power Object Detection Challenge for UAV Applications",
-      "venue": "CoRR",
       "year": 2018
       },
       {
@@ -990,7 +792,7 @@
       },
       {
       "authors": "Yi Sheng, Junhuan Yang, Yawen Wu, Kevin Mao, Yiyu Shi, Jingtong Hu, Weiwen Jiang, Lei Yang",
-      "title": "The larger the fairer?: small neural networks can achieve fairness for edge devices",
+      "title": "The larger the fairer? small neural networks can achieve fairness for edge devices",
       "venue": "DAC '22: 59th ACM/IEEE Design Automation Conference",
       "location": "San Francisco, California, USA",
       "year": 2022
@@ -1144,7 +946,7 @@
       },
       {
       "authors": "Zhenge Jia, Zhepeng Wang, Feng Hong, Lichuan Ping, Yiyu Shi, Jingtong Hu",
-      "title": "Personalized Deep Learning for Ventricular Arrhythmias Detection on Medical loT Systems",
+      "title": "Personalized Deep Learning for Ventricular Arrhythmias Detection on Medical IoT Systems",
       "venue": "IEEE/ACM International Conference On Computer Aided Design, ICCAD",
       "location": "San Diego, CA, USA",
       "year": 2020
