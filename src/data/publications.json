@@ -28,13 +28,13 @@
       {
       "authors": "Xiao Dong, Songyu Sun, Yangfan Jiang, Jingtong Hu, Dawei Gao, Zhiguo Shi, Cheng Zhuo",
       "title": "SPIRAL+: Efficient Signal-Power Integrity Co-Analysis for Interchiplet Links Validation",
-      "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
       "year": 2025
       },
       {
       "authors": "Yue Tang, Alex K. Jones, Jinjun Xiong, Peipei Zhou, Jingtong Hu",
       "title": "MTrain: Enable Efficient CNN Training on Heterogeneous FPGA-Based Edge Servers",
-      "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
       "year": 2025
       },
       {
@@ -52,19 +52,19 @@
       {
       "authors": "Zhenge Jia, Tianren Zhou, Zheyu Yan, Jingtong Hu, Yiyu Shi",
       "title": "Personalized Meta-Federated Learning for IoT-Enabled Health Monitoring",
-      "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
       "year": 2024
       },
       {
       "authors": "Yue Tang, Yukai Song, Naveena Elango, Sheena Ratnam Priya, Alex K. Jones, Jinjun Xiong, Peipei Zhou, Jingtong Hu",
       "title": "CHEF: A Framework for Deploying Heterogeneous Models on Clusters With Heterogeneous FPGAs",
-      "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
       "year": 2024
       },
       {
       "authors": "Peiyan Dong, Jinming Zhuang, Zhuoping Yang, Shixin Ji, Yanyu Li, Dongkuan Xu, Heng Huang, Jingtong Hu, Alex K. Jones, Yiyu Shi, Yanzhi Wang, Peipei Zhou",
       "title": "EQ-ViT: Algorithm-Hardware Co-Design for End-to-End Acceleration of Real-Time Vision Transformer Inference on Versal ACAP Architecture",
-      "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
       "year": 2024
       },
       {
@@ -124,7 +124,7 @@
       {
       "authors": "Jiahe Shi, Yawen Wu, Dewen Zeng, Jun Tao, Jingtong Hu, Yiyu Shi",
       "title": "Self-Supervised On-Device Federated Learning From Unlabeled Streams",
-      "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
       "year": 2023
       },
       {
@@ -166,19 +166,19 @@
       {
       "authors": "Yawen Wu, Zhenge Jia, Fei Fang, Jingtong Hu",
       "title": "Cooperative Communication Between Two Transiently Powered Sensor Nodes by Reinforcement Learning",
-      "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
       "year": 2022
       },
       {
       "authors": "Yue Tang, Yawen Wu, Peipei Zhou, Jingtong Hu",
       "title": "Enabling Weakly Supervised Temporal Action Localization From On-Device Learning of the Video Stream",
-      "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
       "year": 2022
       },
       {
       "authors": "Zhenge Jia, Yiyu Shi, Jingtong Hu",
       "title": "Personalized Neural Network for Patient-Specific Health Monitoring in IoT: A Metalearning Approach",
-      "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
       "year": 2022
       },
       {
@@ -286,19 +286,19 @@
       {
       "authors": "Yawen Wu, Zhepeng Wang, Yiyu Shi, Jingtong Hu",
       "title": "Enabling On-Device CNN Training by Self-Supervised Instance Filtering and Error Map Pruning",
-      "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
       "year": 2020
       },
       {
       "authors": "Weiwen Jiang, Lei Yang, Sakyasingha Dasgupta, Jingtong Hu, Yiyu Shi",
       "title": "Standing on the Shoulders of Giants: Hardware and Neural Architecture Co-Search With Hot Start",
-      "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
       "year": 2020
       },
       {
       "authors": "Weiwen Jiang, Lei Yang, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Shouzhen Gu, Sakyasingha Dasgupta, Yiyu Shi, Jingtong Hu",
       "title": "Hardware/Software Co-Exploration of Neural Architectures",
-      "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
       "year": 2020
       },
       {
@@ -328,13 +328,13 @@
       {
       "authors": "Fuyang Li, Keni Qiu, Mengying Zhao, Jingtong Hu, Yongpan Liu, Yong Guan, Chun Jason Xue",
       "title": "Checkpointing-Aware Loop Tiling for Energy Harvesting Powered Nonvolatile Processors",
-      "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
       "year": 2019
       },
       {
       "authors": "Weiwen Jiang, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Lei Yang, Xianzhang Chen, Jingtong Hu",
       "title": "On the Design of Time-Constrained and Buffer-Optimal Self-Timed Pipelines",
-      "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
       "year": 2019
       },
       {
@@ -364,19 +364,19 @@
       {
       "authors": "Chen Pan, Mimi Xie, Jingtong Hu",
       "title": "ENZYME: An Energy-Efficient Transient Computing Paradigm for Ultralow Self-Powered IoT Edge Devices",
-      "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
       "year": 2018
       },
       {
       "authors": "Weiwen Jiang, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Lei Yang, Xianzhang Chen, Jingtong Hu",
       "title": "Heterogeneous FPGA-Based Cost-Optimal Design for Timing-Constrained CNNs",
-      "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
       "year": 2018
       },
       {
       "authors": "Lei Ju, Xiaojin Sui, Shiqing Li, Mengying Zhao, Chun Jason Xue, Jingtong Hu, Zhiping Jia",
       "title": "NVM-Based FPGA Block RAM With Adaptive SLC-MLC Conversion",
-      "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
       "year": 2018
       },
       {
@@ -412,25 +412,25 @@
       {
       "authors": "Mengying Zhao, Yuan Xue, Jingtong Hu, Chengmo Yang, Tiantian Liu, Zhiping Jia, Chun Jason Xue",
       "title": "State Asymmetry Driven State Remapping in Phase Change Memory",
-      "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
       "year": 2017
       },
       {
       "authors": "Jie Guo, Wujie Wen, Jingtong Hu, Danghui Wang, Hai Helen Li, Yiran Chen",
       "title": "FlexLevel NAND Flash Storage System Design to Reduce LDPC Latency",
-      "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
       "year": 2017
       },
       {
       "authors": "Renhai Chen, Yi Wang, Jingtong Hu, Duo Liu, Zili Shao, Yong Guan",
       "title": "vFlash: Virtualized Flash for Optimizing the I/O Performance in Mobile Devices",
-      "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
       "year": 2017
       },
       {
       "authors": "Mengying Zhao, Chenchen Fu, Zewei Li, Qing'an Li, Mimi Xie, Yongpan Liu, Jingtong Hu, Zhiping Jia, Chun Jason Xue",
       "title": "Stack-Size Sensitive On-Chip Memory Backup for Self-Powered Nonvolatile Processors",
-      "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
       "year": 2017
       },
       {
@@ -454,7 +454,7 @@
       {
       "authors": "Shouzhen Gu, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Yiran Chen, Jingtong Hu",
       "title": "A Time, Energy, and Area Efficient Domain Wall Memory-Based SPM for Embedded Systems",
-      "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
       "year": 2016
       },
       {
@@ -544,7 +544,7 @@
       {
       "authors": "Yibo Guo, Qingfeng Zhuge, Jingtong Hu, Juan Yi, Meikang Qiu, Edwin Hsing-Mean Sha",
       "title": "Data Placement and Duplication for Embedded Multicore Systems With Scratch Pad Memory",
-      "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
       "year": 2013
       },
       {
@@ -592,7 +592,7 @@
       {
       "authors": "Jingtong Hu, Wei-Che Tseng, Chun Jason Xue, Qingfeng Zhuge, Yingchao Zhao, Edwin Hsing-Mean Sha",
       "title": "Write Activity Minimization for Nonvolatile Main Memory Via Scheduling and Recomputation",
-      "venue": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
       "year": 2011
       },
       {
