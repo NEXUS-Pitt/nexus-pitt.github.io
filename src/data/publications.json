@@ -2,6 +2,12 @@
   "book_chapter": [],
   "journal": [
       {
+      "authors": "Zhimin Li, Ruichen Zhang, Zhen Tan, Howard J Aizenstein, Jingtong Hu, Tianlong Chen",
+      "title": "FairGen: Preference-Aligned Diffusion for Demographically Equitable Medical Image Synthesis",
+      "venue": "npj Digital Medicine",
+      "year": 2026
+      },
+      {
       "authors": "Jingxian Chen, Yukai Song, Shengjie Xu, Kyle Kessler, Prateek Ganguli, Arkaprava Gupta, Bineet Ghosh, Sridhar Duggirala, Tianlong Chen, Samarjit Chakraborty, Jingtong Hu",
       "title": "Controller-aware Perception Neural Network Pruning for CPS Safety Optimization",
       "venue": "ACM Transactions on Cyber-Physical Systems (TCPS)",
