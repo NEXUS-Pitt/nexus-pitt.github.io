@@ -40,7 +40,7 @@
       {
       "authors": "Lvcheng Chen, Jianing Deng, Xudong Zeng, Liangwei Liu, Yawen Wu, Jingtong Hu, Qi Sun, Zhiguo Shi, Cheng Zhuo",
       "title": "STHVC: Spatial-Temporal Hybrid Video Compression for UAV-Assisted IoV Systems",
-      "venue": "IEEE Trans. Circuits Syst. Video Technol.",
+      "venue": "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)",
       "year": 2025
       },
       {
@@ -70,13 +70,13 @@
       {
       "authors": "Jianing Deng, Shunjie Dong, Lvcheng Chen, Jingtong Hu, Cheng Zhuo",
       "title": "STDF: Spatio-Temporal Deformable Fusion for Video Quality Enhancement on Embedded Platforms",
-      "venue": "ACM Trans. Embed. Comput. Syst.",
+      "venue": "ACM Transactions on Embedded Computing Systems (TECS)",
       "year": 2024
       },
       {
       "authors": "Jinming Zhuang, Jason Lau, Hanchen Ye, Zhuoping Yang, Shixin Ji, Jack Lo, Kristof Denolf, Stephen Neuendorffer, Alex K. Jones, Jingtong Hu, Yiyu Shi, Deming Chen, Jason Cong, Peipei Zhou",
       "title": "CHARM 2.0: Composing Heterogeneous Accelerators for Deep Learning on Versal ACAP Architecture",
-      "venue": "ACM Trans. Reconfigurable Technol. Syst.",
+      "venue": "ACM Transactions on Reconfigurable Technology and Systems (TRETS)",
       "year": 2024
       },
       {
@@ -112,13 +112,13 @@
       {
       "authors": "Zhenge Jia, Jianxu Chen, Xiaowei Xu, John N. Kheir, Jingtong Hu, Han Xiao, Sui Peng, Xiaobo Sharon Hu, Danny Ziyi Chen, Yiyu Shi",
       "title": "The importance of resource awareness in artificial intelligence for healthcare",
-      "venue": "Nat. Mac. Intell.",
+      "venue": "Nature Machine Intelligence",
       "year": 2023
       },
       {
       "authors": "Sébastien Ollivier, Stephen Longofono, Prayash Dutta, Jingtong Hu, Sanjukta Bhanja, Alex K. Jones",
       "title": "Toward Comprehensive Shifting Fault Tolerance for Domain-Wall Memories With PIETT",
-      "venue": "IEEE Trans. Computers",
+      "venue": "IEEE Transactions on Computers (TC)",
       "year": 2023
       },
       {
@@ -130,7 +130,7 @@
       {
       "authors": "Tongda Wu, Kaisheng Ma, Jingtong Hu, Jason Xue, Jinyang Li, Xin Shi, Huazhong Yang, Yongpan Liu",
       "title": "Reliable and Efficient Parallel Checkpointing Framework for Nonvolatile Processor With Concurrent Peripherals",
-      "venue": "IEEE Trans. Circuits Syst. I Regul. Pap.",
+      "venue": "IEEE Transactions on Circuits and Systems I: Regular Papers",
       "year": 2023
       },
       {
@@ -142,13 +142,13 @@
       {
       "authors": "Guangyu Sun, Liang Shi, Jingtong Hu",
       "title": "Editorial for the special issue on memory architectures and systems for modern applications",
-      "venue": "CCF Trans. High Perform. Comput.",
+      "venue": "CCF Transactions on High Performance Computing",
       "year": 2022
       },
       {
       "authors": "Yawen Wu, Dewen Zeng, Zhepeng Wang, Yiyu Shi, Jingtong Hu",
       "title": "Distributed contrastive learning for medical image segmentation",
-      "venue": "Medical Image Anal.",
+      "venue": "Medical Image Analysis",
       "year": 2022
       },
       {
@@ -160,7 +160,7 @@
       {
       "authors": "Zhenge Jia, Xiaowei Xu, Jingtong Hu, Yiyu Shi",
       "title": "Low-power object-detection challenge on unmanned aerial vehicles",
-      "venue": "Nat. Mac. Intell.",
+      "venue": "Nature Machine Intelligence",
       "year": 2022
       },
       {
@@ -184,19 +184,19 @@
       {
       "authors": "Jingtong Hu, Qi Zhu, Susmit Jha",
       "title": "Introduction to the Special Issue on Artificial Intelligence and Cyber-Physical Systems - Part 2",
-      "venue": "ACM Trans. Cyber Phys. Syst.",
+      "venue": "ACM Transactions on Cyber-Physical Systems (TCPS)",
       "year": 2022
       },
       {
       "authors": "Yue Tang, Xinyi Zhang, Peipei Zhou, Jingtong Hu",
       "title": "EF-Train: Enable Efficient On-device CNN Training on FPGA through Data Reshaping for Online Adaptation or Personalization",
-      "venue": "ACM Trans. Design Autom. Electr. Syst.",
+      "venue": "ACM Transactions on Design Automation of Electronic Systems (TODAES)",
       "year": 2022
       },
       {
       "authors": "Yuyang Li, Yawen Wu, Xincheng Zhang, Jingtong Hu, Inhee Lee",
       "title": "Energy-Aware Adaptive Multi-Exit Neural Network Inference Implementation for a Millimeter-Scale Sensing System",
-      "venue": "IEEE Trans. Very Large Scale Integr. Syst.",
+      "venue": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
       "year": 2022
       },
       {
@@ -238,31 +238,31 @@
       {
       "authors": "Xiaowei Xu, Xinyi Zhang, Bei Yu, Xiaobo Sharon Hu, Christopher Rowen, Jingtong Hu, Yiyu Shi",
       "title": "DAC-SDC Low Power Object Detection Challenge for UAV Applications",
-      "venue": "IEEE Trans. Pattern Anal. Mach. Intell.",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)",
       "year": 2021
       },
       {
       "authors": "Weiwen Jiang, Qiuwen Lou, Zheyu Yan, Lei Yang, Jingtong Hu, Xiaobo Sharon Hu, Yiyu Shi",
       "title": "Device-Circuit-Architecture Co-Exploration for Computing-in-Memory Neural Accelerators",
-      "venue": "IEEE Trans. Computers",
+      "venue": "IEEE Transactions on Computers (TC)",
       "year": 2021
       },
       {
       "authors": "Jingtong Hu, Qi Zhu, Susmit Jha",
       "title": "Introduction to the Special Issue on Artificial Intelligence and Cyber-Physical Systems: Part 1",
-      "venue": "ACM Trans. Cyber Phys. Syst.",
+      "venue": "ACM Transactions on Cyber-Physical Systems (TCPS)",
       "year": 2021
       },
       {
       "authors": "Zhenge Jia, Yiyu Shi, Samir Saba, Jingtong Hu",
       "title": "On-device Prior Knowledge Incorporated Learning for Personalized Atrial Fibrillation Detection",
-      "venue": "ACM Trans. Embed. Comput. Syst.",
+      "venue": "ACM Transactions on Embedded Computing Systems (TECS)",
       "year": 2021
       },
       {
       "authors": "Xinyi Zhang, Yawen Wu, Peipei Zhou, Xulong Tang, Jingtong Hu",
       "title": "Algorithm-hardware Co-design of Attention Mechanism on FPGA Devices",
-      "venue": "ACM Trans. Embed. Comput. Syst.",
+      "venue": "ACM Transactions on Embedded Computing Systems (TECS)",
       "year": 2021
       },
       {
@@ -280,7 +280,7 @@
       {
       "authors": "Xinyi Zhang, Clay Patterson, Yongpan Liu, Chengmo Yang, Chun Jason Xue, Jingtong Hu",
       "title": "Low Overhead Online Data Flow Tracking for Intermittently Powered Non-Volatile FPGAs",
-      "venue": "ACM J. Emerg. Technol. Comput. Syst.",
+      "venue": "ACM Journal on Emerging Technologies in Computing Systems (JETC)",
       "year": 2020
       },
       {
@@ -304,13 +304,13 @@
       {
       "authors": "Ke Liu, Mengying Zhao, Lei Ju, Zhiping Jia, Jingtong Hu, Chun Jason Xue",
       "title": "Applying Multiple Level Cell to Non-volatile FPGAs",
-      "venue": "ACM Trans. Embed. Comput. Syst.",
+      "venue": "ACM Transactions on Embedded Computing Systems (TECS)",
       "year": 2020
       },
       {
       "authors": "Yan Wang, Jinhui Liu, Jingtong Hu",
       "title": "Communication-Aware Task Scheduling for Energy-Harvesting Nonvolatile Processors",
-      "venue": "IEEE Trans. Very Large Scale Integr. Syst.",
+      "venue": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
       "year": 2020
       },
       {
@@ -322,7 +322,7 @@
       {
       "authors": "Yuan-Hao Chang, Jingtong Hu, Mehdi Baradaran Tahoori, Ronald F. DeMara",
       "title": "Guest Editorial: IEEE Transactions on Computers Special Section on Emerging Non-Volatile Memory Technologies: From Devices to Architectures and Systems",
-      "venue": "IEEE Trans. Computers",
+      "venue": "IEEE Transactions on Computers (TC)",
       "year": 2019
       },
       {
@@ -340,19 +340,19 @@
       {
       "authors": "Chen Pan, Mimi Xie, Song Han, Zhi-Hong Mao, Jingtong Hu",
       "title": "Modeling and Optimization for Self-powered Non-volatile IoT Edge Devices with Ultra-low Harvesting Power",
-      "venue": "ACM Trans. Cyber Phys. Syst.",
+      "venue": "ACM Transactions on Cyber-Physical Systems (TCPS)",
       "year": 2019
       },
       {
       "authors": "Weiwen Jiang, Edwin H.-M. Sha, Xinyi Zhang, Lei Yang, Qingfeng Zhuge, Yiyu Shi, Jingtong Hu",
       "title": "Achieving Super-Linear Speedup across Multi-FPGA for Real-Time DNN Inference",
-      "venue": "ACM Trans. Embed. Comput. Syst.",
+      "venue": "ACM Transactions on Embedded Computing Systems (TECS)",
       "year": 2019
       },
       {
       "authors": "Chenchen Fu, Qiangqiang Liu, Peng Wu, Minming Li, Chun Jason Xue, Yingchao Zhao, Jingtong Hu, Song Han",
       "title": "Real-Time Data Retrieval in Cyber-Physical Systems with Temporal Validity and Data Availability Constraints",
-      "venue": "IEEE Trans. Knowl. Data Eng.",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
       "year": 2019
       },
       {
@@ -382,31 +382,31 @@
       {
       "authors": "Mimi Xie, Chen Pan, Mengying Zhao, Yongpan Liu, Chun Jason Xue, Jingtong Hu",
       "title": "Avoiding Data Inconsistency in Energy Harvesting Powered Embedded Systems",
-      "venue": "ACM Trans. Design Autom. Electr. Syst.",
+      "venue": "ACM Transactions on Design Automation of Electronic Systems (TODAES)",
       "year": 2018
       },
       {
       "authors": "Huizhang Luo, Qing Liu, Jingtong Hu, Qiao Li, Liang Shi, Qingfeng Zhuge, Edwin Hsing-Mean Sha",
       "title": "Write Energy Reduction for PCM via Pumping Efficiency Improvement",
-      "venue": "ACM Trans. Storage",
+      "venue": "ACM Transactions on Storage (TOS)",
       "year": 2018
       },
       {
       "authors": "Jinyang Li, Yongpan Liu, Hehe Li, Zhe Yuan, Chenchen Fu, Jinshan Yue, Xiaoyu Feng, Chun Jason Xue, Jingtong Hu, Huazhong Yang",
       "title": "PATH: Performance-Aware Task Scheduling for Energy-Harvesting Nonvolatile Processors",
-      "venue": "IEEE Trans. Very Large Scale Integr. Syst.",
+      "venue": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
       "year": 2018
       },
       {
       "authors": "Mimi Xie, Shuangchen Li, Alvin Oliver Glova, Jingtong Hu, Yuan Xie",
       "title": "Securing Emerging Nonvolatile Main Memory With Fast and Energy-Efficient AES In-Memory Implementation",
-      "venue": "IEEE Trans. Very Large Scale Integr. Syst.",
+      "venue": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
       "year": 2018
       },
       {
       "authors": "Caiwen Ding, Ning Liu, Yanzhi Wang, Ji Li, Soroush Heidari, Jingtong Hu, Yongpan Liu",
       "title": "Multisource Indoor Energy Harvesting for Nonvolatile Processors",
-      "venue": "IEEE Des. Test",
+      "venue": "IEEE Design & Test",
       "year": 2017
       },
       {
@@ -436,19 +436,19 @@
       {
       "authors": "Chen Pan, Mimi Xie, Chengmo Yang, Yiran Chen, Jingtong Hu",
       "title": "Exploiting Multiple Write Modes of Nonvolatile Main Memory in Embedded Systems",
-      "venue": "ACM Trans. Embed. Comput. Syst.",
+      "venue": "ACM Transactions on Embedded Computing Systems (TECS)",
       "year": 2017
       },
       {
       "authors": "Zhe Yuan, Yongpan Liu, Jinyang Li, Jingtong Hu, Chun Jason Xue, Huazhong Yang",
       "title": "CP-FPGA: Energy-Efficient Nonvolatile FPGA With Offline/Online Checkpointing Optimization",
-      "venue": "IEEE Trans. Very Large Scale Integr. Syst.",
+      "venue": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
       "year": 2017
       },
       {
       "authors": "Keni Qiu, Qing'an Li, Jingtong Hu, Weigong Zhang, Chun Jason Xue",
       "title": "Write Mode Aware Loop Tiling for High Performance Low Power Volatile PCM in Embedded Systems",
-      "venue": "IEEE Trans. Computers",
+      "venue": "IEEE Transactions on Computers (TC)",
       "year": 2016
       },
       {
@@ -460,79 +460,79 @@
       {
       "authors": "Renhai Chen, Yi Wang, Jingtong Hu, Duo Liu, Zili Shao, Yong Guan",
       "title": "Image-Content-Aware I/O Optimization for Mobile Virtualization",
-      "venue": "ACM Trans. Embed. Comput. Syst.",
+      "venue": "ACM Transactions on Embedded Computing Systems (TECS)",
       "year": 2016
       },
       {
       "authors": "Chen Pan, Shouzhen Gu, Mimi Xie, Yongpan Liu, Chun Jason Xue, Jingtong Hu",
       "title": "Wear-Leveling Aware Page Management for Non-Volatile Main Memory on Embedded Systems",
-      "venue": "IEEE Trans. Multi Scale Comput. Syst.",
+      "venue": "IEEE Transactions on Multi-Scale Computing Systems (TMSCS)",
       "year": 2016
       },
       {
       "authors": "Shouzhen Gu, Qingfeng Zhuge, Juan Yi, Jingtong Hu, Edwin Hsing-Mean Sha",
       "title": "Data Allocation with Minimum Cost under Guaranteed Probability for Multiple Types of Memories",
-      "venue": "J. Signal Process. Syst.",
+      "venue": "Journal of Signal Processing Systems (JSPS)",
       "year": 2016
       },
       {
       "authors": "Shouzhen Gu, Qingfeng Zhuge, Juan Yi, Jingtong Hu, Edwin Hsing-Mean Sha",
       "title": "Optimizing Task and Data Assignment on Multi-Core Systems with Multi-Port SPMs",
-      "venue": "IEEE Trans. Parallel Distributed Syst.",
+      "venue": "IEEE Transactions on Parallel and Distributed Systems (TPDS)",
       "year": 2015
       },
       {
       "authors": "Jingtong Hu, Mimi Xie, Chen Pan, Chun Jason Xue, Qingfeng Zhuge, Edwin Hsing-Mean Sha",
       "title": "Low Overhead Software Wear Leveling for Hybrid PCM + DRAM Main Memory on Embedded Systems",
-      "venue": "IEEE Trans. Very Large Scale Integr. Syst.",
+      "venue": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
       "year": 2015
       },
       {
       "authors": "Juan Yi, Qingfeng Zhuge, Jingtong Hu, Shouzhen Gu, Mingwen Qin, Edwin Hsing-Mean Sha",
       "title": "Reliability-Guaranteed Task Assignment and Scheduling for Heterogeneous Multiprocessors Considering Timing Constraint",
-      "venue": "J. Signal Process. Syst.",
+      "venue": "Journal of Signal Processing Systems (JSPS)",
       "year": 2015
       },
       {
       "authors": "Qunyan Sun, Qingfeng Zhuge, Jingtong Hu, Juan Yi, Edwin Hsing-Mean Sha",
       "title": "Efficient grouping-based mapping and scheduling on heterogeneous cluster architectures",
-      "venue": "Comput. Electr. Eng.",
+      "venue": "Computers & Electrical Engineering",
       "year": 2014
       },
       {
       "authors": "Yuming Xu, Kenli Li, Jingtong Hu, Keqin Li",
       "title": "A genetic algorithm for task scheduling on heterogeneous computing systems using multiple priority queues",
-      "venue": "Inf. Sci.",
+      "venue": "Information Sciences",
       "year": 2014
       },
       {
       "authors": "Linbo Long, Duo Liu, Jingtong Hu, Shouzhen Gu, Qingfeng Zhuge, Edwin Hsing-Mean Sha",
       "title": "A space allocation and reuse strategy for PCM-based embedded systems",
-      "venue": "J. Syst. Archit.",
+      "venue": "Journal of Systems Architecture",
       "year": 2014
       },
       {
       "authors": "Jingtong Hu, Qingfeng Zhuge, Chun Jason Xue, Wei-Che Tseng, Shouzhen Gu, Edwin Hsing-Mean Sha",
       "title": "Scheduling to Optimize Cache Utilization for Non-Volatile Main Memories",
-      "venue": "IEEE Trans. Computers",
+      "venue": "IEEE Transactions on Computers (TC)",
       "year": 2014
       },
       {
       "authors": "Jingtong Hu, Qingfeng Zhuge, Chun Jason Xue, Wei-Che Tseng, Edwin Hsing-Mean Sha",
       "title": "Management and optimization for nonvolatile memory-based hybrid scratchpad memory on multicore embedded processors",
-      "venue": "ACM Trans. Embed. Comput. Syst.",
+      "venue": "ACM Transactions on Embedded Computing Systems (TECS)",
       "year": 2014
       },
       {
       "authors": "Jing Liu, Qingfeng Zhuge, Shouzhen Gu, Jingtong Hu, Guangyu Zhu, Edwin Hsing-Mean Sha",
       "title": "Minimizing System Cost with Efficient Task Assignment on Heterogeneous Multicore Processors Considering Time Constraint",
-      "venue": "IEEE Trans. Parallel Distributed Syst.",
+      "venue": "IEEE Transactions on Parallel and Distributed Systems (TPDS)",
       "year": 2014
       },
       {
       "authors": "Jingtong Hu, Yi He, Qingfeng Zhuge, Edwin Hsing-Mean Sha, Chun Jason Xue, Yingchao Zhao",
       "title": "Minimizing accumulative memory load cost on multi-core DSPs with multi-level memory",
-      "venue": "J. Syst. Archit.",
+      "venue": "Journal of Systems Architecture",
       "year": 2013
       },
       {
@@ -550,43 +550,43 @@
       {
       "authors": "Jingtong Hu, Chun Jason Xue, Qingfeng Zhuge, Wei-Che Tseng, Edwin Hsing-Mean Sha",
       "title": "Write activity reduction on non-volatile main memories for embedded chip multiprocessors",
-      "venue": "ACM Trans. Embed. Comput. Syst.",
+      "venue": "ACM Transactions on Embedded Computing Systems (TECS)",
       "year": 2013
       },
       {
       "authors": "Jingtong Hu, Chun Jason Xue, Qingfeng Zhuge, Wei-Che Tseng, Edwin Hsing-Mean Sha",
       "title": "Data Allocation Optimization for Hybrid Scratch Pad Memory With SRAM and Nonvolatile Memory",
-      "venue": "IEEE Trans. Very Large Scale Integr. Syst.",
+      "venue": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
       "year": 2013
       },
       {
       "authors": "Jingtong Hu, Chun Jason Xue, Meikang Qiu, Wei-Che Tseng, Edwin Hsing-Mean Sha",
       "title": "Algorithms to Minimize Data Transfer for Code Update on Wireless Sensor Network",
-      "venue": "J. Signal Process. Syst.",
+      "venue": "Journal of Signal Processing Systems (JSPS)",
       "year": 2013
       },
       {
       "authors": "Jiayi Du, Yan Wang, Qingfeng Zhuge, Jingtong Hu, Edwin Hsing-Mean Sha",
       "title": "Efficient Loop Scheduling for Chip Multiprocessors with Non-Volatile Main Memory",
-      "venue": "J. Signal Process. Syst.",
+      "venue": "Journal of Signal Processing Systems (JSPS)",
       "year": 2013
       },
       {
       "authors": "Jingtong Hu, Chun Jason Xue, Wei-Che Tseng, Qingfeng Zhuge, Yingchao Zhao, Edwin Hsing-Mean Sha",
       "title": "Memory access schedule minimization for embedded systems",
-      "venue": "J. Syst. Archit.",
+      "venue": "Journal of Systems Architecture",
       "year": 2012
       },
       {
       "authors": "Daigu Zhang, Xiaofeng Liao, Meikang Qiu, Jingtong Hu, Edwin Hsing-Mean Sha",
       "title": "Randomized execution algorithms for smart cards to resist power analysis attacks",
-      "venue": "J. Syst. Archit.",
+      "venue": "Journal of Systems Architecture",
       "year": 2012
       },
       {
       "authors": "Qingfeng Zhuge, Yibo Guo, Jingtong Hu, Wei-Che Tseng, Chun Jason Xue, Edwin Hsing-Mean Sha",
       "title": "Minimizing Access Cost for Multiple Types of Memory Units in Embedded Systems Through Data Allocation and Scheduling",
-      "venue": "IEEE Trans. Signal Process.",
+      "venue": "IEEE Transactions on Signal Processing (TSP)",
       "year": 2012
       },
       {
@@ -598,25 +598,25 @@
       {
       "authors": "Wei-Che Tseng, Jingtong Hu, Qingfeng Zhuge, Yi He, Edwin Hsing-Mean Sha",
       "title": "Algorithms for Optimally Arranging Multicore Memory Structures",
-      "venue": "EURASIP J. Embed. Syst.",
+      "venue": "EURASIP Journal on Embedded Systems",
       "year": 2010
       },
       {
       "authors": "Chun Jason Xue, Jingtong Hu, Zili Shao, Edwin Hsing-Mean Sha",
       "title": "Iterational retiming with partitioning: Loop scheduling with complete memory latency hiding",
-      "venue": "ACM Trans. Embed. Comput. Syst.",
+      "venue": "ACM Transactions on Embedded Computing Systems (TECS)",
       "year": 2010
       },
       {
       "authors": "Cathy Qun Xu, Chun Jason Xue, Jingtong Hu, Edwin Hsing-Mean Sha",
       "title": "Optimizing scheduling and intercluster connection for application-specific DSP processors",
-      "venue": "IEEE Trans. Signal Process.",
+      "venue": "IEEE Transactions on Signal Processing (TSP)",
       "year": 2009
       },
       {
       "authors": "Qingfeng Zhuge, Chun Jason Xue, Meikang Qiu, Jingtong Hu, Edwin Hsing-Mean Sha",
       "title": "Timing optimization via nest-loop pipelining considering code size",
-      "venue": "Microprocess. Microsystems",
+      "venue": "Microprocessors and Microsystems",
       "year": 2008
       }
   ],
