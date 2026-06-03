@@ -538,7 +538,7 @@
       {
       "authors": "Jing Mei, Kenli Li, Jingtong Hu, Shu Yin, Edwin Hsing-Mean Sha",
       "title": "Energy-aware preemptive scheduling algorithm for sporadic tasks on DVS platform",
-      "venue": "Microprocess. Microsystems",
+      "venue": "Microprocessors and Microsystems",
       "year": 2013
       },
       {
@@ -645,7 +645,7 @@
       {
       "authors": "Dongwei Wang, Zijie Liu, Song Wang, Yuxin Ren, Jianing Deng, Jingtong Hu, Tianlong Chen, Huanrui Yang",
       "title": "FIER: Fine-Grained and Efficient KV Cache Retrieval for Long-context LLM Inference",
-      "venue": "Empirical Methods in Natural Language Processing, EMNLP",
+      "venue": "Empirical Methods in Natural Language Processing (EMNLP)",
       "location": "Suzhou, China",
       "year": 2025
       },
@@ -659,7 +659,7 @@
       {
       "authors": "Yancheng Zhang, Mengxin Zheng, Xun Chen, Jingtong Hu, Weidong Shi, Lei Ju, Yan Solihin, Qian Lou",
       "title": "zkVC: Fast Zero-Knowledge Proof for Private and Verifiable Computing",
-      "venue": "62nd ACM/IEEE Design Automation Conference, DAC",
+      "venue": "ACM/IEEE Design Automation Conference (DAC)",
       "location": "San Francisco, CA, USA",
       "year": 2025
       },
@@ -687,14 +687,14 @@
       {
       "authors": "Xiao Dong, Songyu Sun, Yangfan Jiang, Jingtong Hu, Dawei Gao, Cheng Zhuo",
       "title": "SPIRAL: Signal-Power Integrity Co-Analysis for High-Speed Inter-Chiplet Serial Links Validation",
-      "venue": "Proceedings of the 29th Asia and South Pacific Design Automation Conference, ASPDAC",
+      "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
       "location": "Incheon, Korea",
       "year": 2024
       },
       {
       "authors": "Ruiyang Qin, Jun Xia, Zhenge Jia, Meng Jiang, Ahmed Abbasi, Peipei Zhou, Jingtong Hu, Yiyu Shi",
       "title": "Enabling On-Device Large Language Model Personalization with Self-Supervised Data Selection and Synthesis",
-      "venue": "Proceedings of the 61st ACM/IEEE Design Automation Conference, DAC",
+      "venue": "ACM/IEEE Design Automation Conference (DAC)",
       "location": "San Francisco, CA, USA",
       "year": 2024
       },
@@ -757,14 +757,14 @@
       {
       "authors": "Qing Lu, Weiwen Jiang, Xiaowei Xu, Jingtong Hu, Yiyu Shi",
       "title": "Quantization through Search: A Novel Scheme to Quantize Convolutional Neural Networks in Finite Weight Space",
-      "venue": "Proceedings of the 28th Asia and South Pacific Design Automation Conference, ASPDAC",
+      "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
       "location": "Tokyo, Japan",
       "year": 2023
       },
       {
       "authors": "Yi Sheng, Junhuan Yang, Lei Yang, Yiyu Shi, Jingtong Hu, Weiwen Jiang",
       "title": "Muffin: A Framework Toward Multi-Dimension AI Fairness by Uniting Off-the-Shelf Models",
-      "venue": "60th ACM/IEEE Design Automation Conference, DAC",
+      "venue": "ACM/IEEE Design Automation Conference (DAC)",
       "location": "San Francisco, CA, USA",
       "year": 2023
       },
@@ -799,14 +799,14 @@
       {
       "authors": "Yi Sheng, Junhuan Yang, Yawen Wu, Kevin Mao, Yiyu Shi, Jingtong Hu, Weiwen Jiang, Lei Yang",
       "title": "The larger the fairer? small neural networks can achieve fairness for edge devices",
-      "venue": "DAC '22: 59th ACM/IEEE Design Automation Conference",
+      "venue": "ACM/IEEE Design Automation Conference (DAC)",
       "location": "San Francisco, California, USA",
       "year": 2022
       },
       {
       "authors": "Xinyi Zhang, Cong Hao, Peipei Zhou, Alex K. Jones, Jingtong Hu",
       "title": "H2H: heterogeneous model to heterogeneous system mapping with computation and communication awareness",
-      "venue": "DAC '22: 59th ACM/IEEE Design Automation Conference",
+      "venue": "ACM/IEEE Design Automation Conference (DAC)",
       "location": "San Francisco, California, USA",
       "year": 2022
       },
@@ -869,28 +869,28 @@
       {
       "authors": "Zhepeng Wang, Yawen Wu, Zhenge Jia, Yiyu Shi, Jingtong Hu",
       "title": "Lightweight Run-Time Working Memory Compression for Deployment of Deep Neural Networks on Resource-Constrained MCUs",
-      "venue": "ASPDAC '21: 26th Asia and South Pacific Design Automation Conference",
+      "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
       "location": "Tokyo, Japan",
       "year": 2021
       },
       {
       "authors": "Zhenge Jia, Feng Hong, Lichuan Ping, Yiyu Shi, Jingtong Hu",
       "title": "Enabling On-Device Model Personalization for Ventricular Arrhythmias Detection by Generative Adversarial Networks",
-      "venue": "58th ACM/IEEE Design Automation Conference, DAC",
+      "venue": "ACM/IEEE Design Automation Conference (DAC)",
       "location": "San Francisco, CA, USA",
       "year": 2021
       },
       {
       "authors": "Yawen Wu, Zhepeng Wang, Dewen Zeng, Yiyu Shi, Jingtong Hu",
       "title": "Enabling On-Device Self-Supervised Contrastive Learning with Selective Data Contrast",
-      "venue": "58th ACM/IEEE Design Automation Conference, DAC",
+      "venue": "ACM/IEEE Design Automation Conference (DAC)",
       "location": "San Francisco, CA, USA",
       "year": 2021
       },
       {
       "authors": "Dewen Zeng, Yukun Ding, Haiyun Yuan, Meiping Huang, Xiaowei Xu, Jian Zhuang, Jingtong Hu, Yiyu Shi",
       "title": "Invited: Hardware-aware Real-time Myocardial Segmentation Quality Control in Contrast Echocardiography",
-      "venue": "58th ACM/IEEE Design Automation Conference, DAC",
+      "venue": "ACM/IEEE Design Automation Conference (DAC)",
       "location": "San Francisco, CA, USA",
       "year": 2021
       },
@@ -932,14 +932,14 @@
       {
       "authors": "Lei Yang, Weiwen Jiang, Weichen Liu, Edwin H.-M. Sha, Yiyu Shi, Jingtong Hu",
       "title": "Co-Exploring Neural Architecture and Network-on-Chip Design for Real-Time Artificial Intelligence",
-      "venue": "25th Asia and South Pacific Design Automation Conference, ASP-DAC",
+      "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
       "location": "Beijing, China",
       "year": 2020
       },
       {
       "authors": "Yawen Wu, Zhepeng Wang, Zhenge Jia, Yiyu Shi, Jingtong Hu",
       "title": "Intermittent Inference with Nonuniformly Compressed Multi-Exit Neural Network for Energy Harvesting Powered Devices",
-      "venue": "57th ACM/IEEE Design Automation Conference, DAC",
+      "venue": "ACM/IEEE Design Automation Conference (DAC)",
       "location": "San Francisco, CA, USA",
       "year": 2020
       },
@@ -988,7 +988,7 @@
       {
       "authors": "Weiwen Jiang, Xinyi Zhang, Edwin Hsing-Mean Sha, Lei Yang, Qingfeng Zhuge, Yiyu Shi, Jingtong Hu",
       "title": "Accuracy vs. Efficiency: Achieving Both through FPGA-Implementation Aware Neural Architecture Search",
-      "venue": "Proceedings of the 56th Annual Design Automation Conference 2019, DAC",
+      "venue": "ACM/IEEE Design Automation Conference (DAC)",
       "location": "Las Vegas, NV, USA",
       "year": 2019
       },
@@ -1044,7 +1044,7 @@
       {
       "authors": "Yuan Xue, Chengmo Yang, Jingtong Hu",
       "title": "Age-aware Logic and Memory Co-Placement for RRAM-FPGAs",
-      "venue": "Proceedings of the 54th Annual Design Automation Conference, DAC",
+      "venue": "ACM/IEEE Design Automation Conference (DAC)",
       "location": "Austin, TX, USA",
       "year": 2017
       },
@@ -1093,14 +1093,14 @@
       {
       "authors": "Yuan Xue, Patrick Cronin, Chengmo Yang, Jingtong Hu",
       "title": "Routing path reuse maximization for efficient NV-FPGA reconfiguration",
-      "venue": "21st Asia and South Pacific Design Automation Conference, ASP-DAC",
+      "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
       "location": "Macao, Macao",
       "year": 2016
       },
       {
       "authors": "Huizhang Luo, Jingtong Hu, Liang Shi, Chun Jason Xue, Qingfeng Zhuge",
       "title": "Peak-to-average pumping efficiency improvement for charge pump in Phase Change Memories",
-      "venue": "21st Asia and South Pacific Design Automation Conference, ASP-DAC",
+      "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
       "location": "Macao, Macao",
       "year": 2016
       },
@@ -1114,21 +1114,21 @@
       {
       "authors": "Mengjie Mao, Wujie Wen, Xiaoxiao Liu, Jingtong Hu, Danghui Wang, Yiran Chen, Hai Li",
       "title": "TEMP: thread batch enabled memory partitioning for GPU",
-      "venue": "Proceedings of the 53rd Annual Design Automation Conference, DAC",
+      "venue": "ACM/IEEE Design Automation Conference (DAC)",
       "location": "Austin, TX, USA",
       "year": 2016
       },
       {
       "authors": "Hehe Li, Yongpan Liu, Chenchen Fu, Chun Jason Xue, Donglai Xiang, Jinshan Yue, Jinyang Li, Daming Zhang, Jingtong Hu, Huazhong Yang",
       "title": "Performance-aware task scheduling for energy harvesting nonvolatile processors considering power switching overhead",
-      "venue": "Proceedings of the 53rd Annual Design Automation Conference, DAC",
+      "venue": "ACM/IEEE Design Automation Conference (DAC)",
       "location": "Austin, TX, USA",
       "year": 2016
       },
       {
       "authors": "Huizhang Luo, Jingtong Hu, Liang Shi, Chun Jason Xue, Qingfeng Zhuge",
       "title": "Two-step state transition minimization for lifetime and performance improvement on MLC STT-RAM",
-      "venue": "Proceedings of the 53rd Annual Design Automation Conference, DAC",
+      "venue": "ACM/IEEE Design Automation Conference (DAC)",
       "location": "Austin, TX, USA",
       "year": 2016
       },
@@ -1163,56 +1163,56 @@
       {
       "authors": "Mimi Xie, Chen Pan, Jingtong Hu, Chengmo Yang, Yiran Chen",
       "title": "Checkpoint-aware instruction scheduling for nonvolatile processor with multiple functional units",
-      "venue": "The 20th Asia and South Pacific Design Automation Conference, ASP-DAC",
+      "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
       "location": "Chiba, Japan",
       "year": 2015
       },
       {
       "authors": "Renhai Chen, Yi Wang, Jingtong Hu, Duo Liu, Zili Shao, Yong Guan",
       "title": "Unified non-volatile memory and NAND flash memory architecture in smartphones",
-      "venue": "The 20th Asia and South Pacific Design Automation Conference, ASP-DAC",
+      "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
       "location": "Chiba, Japan",
       "year": 2015
       },
       {
       "authors": "Hoda Aghaei Khouzani, Chengmo Yang, Jingtong Hu",
       "title": "Improving performance and lifetime of DRAM-PCM hybrid main memory through a proactive page allocation strategy",
-      "venue": "The 20th Asia and South Pacific Design Automation Conference, ASP-DAC",
+      "venue": "Asia and South Pacific Design Automation Conference (ASP-DAC)",
       "location": "Chiba, Japan",
       "year": 2015
       },
       {
       "authors": "Shouzhen Gu, Edwin Hsing-Mean Sha, Qingfeng Zhuge, Yiran Chen, Jingtong Hu",
       "title": "Area and performance co-optimization for domain wall memory in application-specific embedded systems",
-      "venue": "Proceedings of the 52nd Annual Design Automation Conference",
+      "venue": "ACM/IEEE Design Automation Conference (DAC)",
       "location": "San Francisco, CA, USA",
       "year": 2015
       },
       {
       "authors": "Mengjie Mao, Jingtong Hu, Yiran Chen, Hai Li",
       "title": "VWS: a versatile warp scheduler for exploring diverse cache localities of GPGPU applications",
-      "venue": "Proceedings of the 52nd Annual Design Automation Conference",
+      "venue": "ACM/IEEE Design Automation Conference (DAC)",
       "location": "San Francisco, CA, USA",
       "year": 2015
       },
       {
       "authors": "Qing'an Li, Mengying Zhao, Jingtong Hu, Yongpan Liu, Yanxiang He, Chun Jason Xue",
       "title": "Compiler directed automatic stack trimming for efficient non-volatile processors",
-      "venue": "Proceedings of the 52nd Annual Design Automation Conference",
+      "venue": "ACM/IEEE Design Automation Conference (DAC)",
       "location": "San Francisco, CA, USA",
       "year": 2015
       },
       {
       "authors": "Mimi Xie, Mengying Zhao, Chen Pan, Jingtong Hu, Yongpan Liu, Chun Jason Xue",
       "title": "Fixing the broken time machine: consistency-aware checkpointing for energy harvesting powered non-volatile processor",
-      "venue": "Proceedings of the 52nd Annual Design Automation Conference",
+      "venue": "ACM/IEEE Design Automation Conference (DAC)",
       "location": "San Francisco, CA, USA",
       "year": 2015
       },
       {
       "authors": "Jie Guo, Wujie Wen, Jingtong Hu, Danghui Wang, Hai Li, Yiran Chen",
       "title": "FlexLevel: a novel NAND flash storage system design for LDPC latency reduction",
-      "venue": "Proceedings of the 52nd Annual Design Automation Conference",
+      "venue": "ACM/IEEE Design Automation Conference (DAC)",
       "location": "San Francisco, CA, USA",
       "year": 2015
       },
@@ -1422,7 +1422,7 @@
       {
       "authors": "Jingtong Hu, Chun Jason Xue, Wei-Che Tseng, Yi He, Meikang Qiu, Edwin Hsing-Mean Sha",
       "title": "Reducing write activities on non-volatile memories in embedded CMPs via data migration and recomputation",
-      "venue": "Proceedings of the 47th Design Automation Conference, DAC",
+      "venue": "ACM/IEEE Design Automation Conference (DAC)",
       "location": "Anaheim, California, USA",
       "year": 2010
       },
