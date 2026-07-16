@@ -622,6 +622,20 @@
   ],
   "conference": [
       {
+      "authors": "Jianing Deng, Yuanzhe Li, Jialu Wang, Song Wang, Tianlong Chen, Huanrui Yang, Jingtong Hu",
+      "title": "SAF3R: Dynamic Sparse Attention for Feed-Forward 3D Reconstruction Transformers",
+      "venue": "European Conference on Computer Vision (ECCV)",
+      "location": "Malmö, Sweden",
+      "year": 2026
+      },
+      {
+      "authors": "Jialu Wang, Jianing Deng, Shuqing Luo, Yuanzhe LI, Dongwei Wang, Jingtong Hu, Huanrui Yang, Song Wang, Tianlong Chen",
+      "title": "Quantization-Robust Unlearning through the Lens of Retain-Forget Loss Landscapes Interaction",
+      "venue": "Conference on Language Modeling (COLM)",
+      "location": "San Francisco, USA",
+      "year": 2026
+      },
+      {
       "authors": "Pan Wang, Lipeng Ke, Huajun Ying, Pritish Mohapatra, Rohan Sarkar, Suresh Lakhani, Sankar Venkataraman, Jingtong Hu",
       "title": "ConsMSA: Semantic Distribution Consistency Learning for Multimodal Sentiment Analysis",
       "venue": "International Conference on Machine Learning (ICML)",
