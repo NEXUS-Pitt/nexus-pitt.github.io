@@ -93,7 +93,7 @@ const CoursePage: React.FC = () => {
                             />
                             <div>
                                 <div className="font-semibold text-stone-700">Jingtong Hu</div>
-                                <div className="text-gray-600 text-sm">Associate Professor</div>
+                                <div className="text-gray-600 text-sm">Professor</div>
 								
                             </div>
 
