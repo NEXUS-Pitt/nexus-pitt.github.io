@@ -2,6 +2,12 @@
   "book_chapter": [],
   "journal": [
       {
+      "authors": "Shovan Shrestha, Yang-Duan Su, Jacob Jones, Jingtong Hu, Paul Ohodnicki",
+      "title": "Online Co-Estimation of Temperature and Service Life in Distribution Transformers with Propagated Uncertainty",
+      "venue": "IEEE PES Grid Edge Technologies Conference & Exposition (Grid Edge)",
+      "year": 2027
+      },
+      {
       "authors": "Zhimin Li, Ruichen Zhang, Zhen Tan, Howard J Aizenstein, Jingtong Hu, Tianlong Chen",
       "title": "FairGen: Preference-Aligned Diffusion for Demographically Equitable Medical Image Synthesis",
       "venue": "Nature Partner Journals Digital Medicine",
